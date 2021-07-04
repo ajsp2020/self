@@ -23,6 +23,9 @@ def site(url):
 
 
 def dfImoveis():
+
+
+
     url = 'https://www.dfimoveis.com.br/venda/df/todos/imoveis?pagina=1'
     soup = site(url)
 
@@ -118,6 +121,6 @@ def zapImoveisBrasilia(pages):
     return dataset
 
 
-zapImoveisBrasilia(50)
+zapImoveisBrasilia(100)
 
 

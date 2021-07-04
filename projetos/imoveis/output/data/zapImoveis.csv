@@ -1,1201 +1,2401 @@
 ﻿value,address_1,address_2,areas,bedrooms,spaces,bathrooms
-consulta,SQSW 500 Bloco Q, Setor Sudoeste,175,4,4,6
 consulta,SQSW 500 Bloco R, Setor Sudoeste,275,3,4,5
+consulta,SQSW 500 Bloco Q, Setor Sudoeste,175,4,4,6
 consulta,SQSW 500 Bloco P, Setor Sudoeste,238,4,4,6
-130.000,QN 204 Conjunto 2, Samambaia Norte,54,2,,2
-3.500.000,SHIN QI 10, Lago Norte,1100,5,5,7
-710.000,Condomínio Chapéu de Pedra, Setor Habitacional Jardim Botânico,200,3,,2
-217.000,QS 1 Rua 212, Areal,37,,1,1
-600.000,SQN 312 Bloco D, Asa Norte,57,2,,2
+290.000,Taguatinga Norte, Brasília,51,2,1,2
+320.000,Sul, Brasília,63,1,1,1
+485.000,Condomínio RK, Regiao dos Lagos,500,,,
+699.000,Condomínio Chapéu da Pedra, Setor Habitacional Tororo,137,3,2,3
 1.170.000,SQS 206 Bloco F, Asa Sul,86,3,1,2
-320.000,QNO 9 Conjunto E, Ceilandia Norte,100,3,3,2
-199.900,Quadra 301 Conjunto 1, Samambaia Sul,54,2,1,2
-1.300.000,SQN 107 Bloco G, Asa Norte,112,3,,2
-160.000,QR 425 Conjunto 19, Samambaia Norte,145,3,2,3
-435.000,Rua 25, Norte,60,2,1,2
-220.000,SEPS 705/905, Asa Sul,22,,1,1
-85.000,QNP 11 Conjunto H, Ceilandia Norte,120,3,4,2
-359.000,QNL 17 Conjunto B, Taguatinga Norte,150,2,4,3
-295.000,Setor Habitacional Arniqueira, Brasília,120,3,4,1
-309.000,Quadra Central Conjunto B Bloco B, Sobradinho,60,2,1,2
-180.000,Condomínio Uberaba Conjunto B, Sobradinho,200,4,5,3
-179.900,QS 407, Samambaia Norte,47,2,1,1
-250.000,QN 7F Conjunto 5, Riacho Fundo II,130,4,2,2
 260.000,Quadra 3 Comércio Local 20, Sobradinho,55,2,,2
-240.000,SRTVS, Asa Sul,31,,1,1
-395.000,Rua 35, Sul,53 - 119 m²,2,1,2
+540.000,CA 9, Lago Norte,68,2,2,2
+217.000,QS 1 Rua 212, Areal,37,,1,1
+2.400.000,SQN 116 Bloco B, Asa Norte,173,4,2,4
+220.000,QS 8 Conjunto 3, Riacho Fundo II,140,3,2,3
+1.300.000,SQN 107 Bloco G, Asa Norte,112,3,,2
+1.050.000,Rodovia DF-150, Grande Colorado,470,5,4,3
+265.000,Quadra 14 Conjunto B-6, Sobradinho,83,2,2,2
+320.000,QNO 9 Conjunto E, Ceilandia Norte,100,3,3,2
+310.000,Vila Varjão do Torto, Varjão,130,3,2,2
+179.900,QS 407, Samambaia Norte,47,2,1,1
+1.450.000,Condomínio Residencial Mansões Itaipu, Lago Sul,400,4,6,5
+600.000,SQN 312 Bloco D, Asa Norte,57,2,,2
+1.401.000,SQS 109 Bloco D, Asa Sul,130,4,1,3
+1.900.000,Setor Habitacional Vicente Pires, Brasília,550,4,8,3
+435.000,Rua 25, Norte,60,2,1,2
 consulta,SQSW 500 Bloco P, Setor Sudoeste,238,4,4,6
 consulta,SQSW 500 Bloco Q, Setor Sudoeste,346,4,4,6
-280.000,Condomínio Mini Chácaras do Lago Sul, Setor Habitacional Jardim Botânico,600,1,,1
-980.000,Rua 4 Chácara 34, Vicente Pires,280,3,3,2
-2.800.000,SHIN QL 10 Conjunto 2, Lago Norte,900,5,6,8
-310.000,Vila Varjão do Torto, Varjão,130,3,2,2
-247.000,QS 316 Conjunto 6, Samambaia Sul,52,2,1,2
-320.000,QNM 21 Conjunto G, Ceilandia Sul,100,3,4,2
-485.000,CA 5, Lago Norte,58,2,1,1
-330.000,AR 17 Conjunto 6, Setor Oeste,176,3,2,4
-285.000,QR 311 Conjunto 3, Samambaia Sul,130,3,3,1
-230.000,QNP 15 Conjunto T, Ceilandia Norte,102,3,2,1
-219.900,QR 510, Samambaia Sul,105,3,3,2
-360.000,Quadra 101, Recanto das Emas,260,4,3,2
-220.000,QS 8 Conjunto 3, Riacho Fundo II,140,3,2,3
-325.000,QNO 6 Conjunto I, Ceilandia Norte,144,3,3,2
-190.000,Setor Habitacional Sol Nascente, Ceilandia Sul,250,3,3,2
-389.000,Rua Copaíba, Aguas Claras,44,1,1,1
-265.000,Quadra 14 Conjunto B-6, Sobradinho,83,2,2,2
-350.000,Quadra 2 Conjunto B-4, Sobradinho,120,3,2,2
-380.000,Itapoã I, Brasília,300,7,5,5
-355.000,QRC 14, Residencial Santos Dumont,180,4,4,3
-150.000,QS 14 Conjunto 4A, Riacho Fundo I,60,2,,1
-consulta,SQSW 500 Bloco R, Setor Sudoeste,139,3,3,5
-consulta,SGAN 910 Módulo D, Asa Norte,29 - 51 m²,1,1 - 2,1
-693.096,SHCGN 703, Asa Norte,39 - 102 m²,1,1,1
-1.200.000,Setor Habitacional Vicente Pires, Brasília,306,3,4,6
-299.000,Asa Norte, Brasília,34,,,1
-620.000,Sul, Brasília,73,2,1,2
-150.000,QS 14 Conjunto 4A, Riacho Fundo I,60,2,,1
-179.900,QS 407, Samambaia Norte,47,2,1,1
-244.900,QN 412 Conjunto F, Samambaia,59,3,1,2
-400.000,Veredas, Brasília,200,3,4,2
-580.000,Chácaras Itaipú, Setor Habitacional Jardim Botânico,152,3,2,3
+consulta,SQSW 500 Bloco P, Setor Sudoeste,472,4,5,6
+1.259.994,Taguatinga Norte, Brasília,260,3,6,4
+485.000,Condomínio RK, Regiao dos Lagos,500,,,
+1.199.000,Setor Habitacional Vicente Pires, Brasília,250,3,2,5
 650.000,ES 4B, Setor de Mansões de Sobradinho,272,3,4,3
-180.000,QR 615 Conjunto 2, Samambaia Norte,90,3,4,3
-219.900,QR 510, Samambaia Sul,105,3,3,2
+340.000,QMS 5, Sobradinho,243,4,4,5
+400.000,Veredas, Brasília,200,3,4,2
+350.000,AR 17 Conjunto 12, Setor Oeste,350,6,2,3
+285.000,QR 311 Conjunto 3, Samambaia Sul,130,3,3,1
+540.000,CA 9, Lago Norte,68,2,2,2
+247.000,QS 316 Conjunto 6, Samambaia Sul,52,2,1,2
+240.000,, Brasília,120,3,2,2
+143.000,Samambaia Norte, Brasília,30,,,1
+85.000,QNP 11 Conjunto H, Ceilandia Norte,120,3,4,2
+48.000,SMHN, Asa Norte,12,,,
+160.000,QR 425 Conjunto 19, Samambaia Norte,145,3,2,3
+250.000,QI 24, Taguatinga Norte,52,2,1,2
 395.000,QR 419 Conjunto 4, Samambaia Norte,174,4,2,3
-280.000,Ceilandia Sul, Brasília,120,4,3,3
-287.000,QN 415 Conjunto A, Samambaia,150,3,2,2
-950.000,Setor Habitacional Vicente Pires, Brasília,250,3,4,5
+200.000,Setor Oeste, Brasília,138,2,2,2
+220.000,SEPS 705/905, Asa Sul,22,,1,1
+180.000,Condomínio Uberaba Conjunto B, Sobradinho,200,4,5,3
+330.000,AR 17 Conjunto 6, Setor Oeste,176,3,2,4
+consulta,SQSW 500 Bloco R, Setor Sudoeste,139,3,3,5
+693.096,SHCGN 703, Asa Norte,39 - 102 m²,1,1,1
+consulta,SGAN 910 Módulo D, Asa Norte,29 - 51 m²,1,1 - 2,1
+630.000,SCRN 708/709 Bloco D, Asa Norte,59,1,1,1
+980.000,Condomínio Morada de Deus, Setor Habitacional Jardim Botânico,450,4,6,6
+4.000.000,EQS 414/415, Lago Sul,312,5,3,1
+530.000,QMS 60D, Setor de Mansões de Sobradinho,128,3,5,4
+250.000,QN 7F Conjunto 5, Riacho Fundo II,130,4,2,2
+225.000,QR 417 Conjunto 16, Samambaia Norte,75,2,3,2
 330.000,Quadra 205 Conjunto 22, Recanto das Emas,150,4,3,1
+470.000,Quadra QC 1 Rua H, Setor Habitacional Jardim Botânico,70,3,2,3
+309.000,Quadra Central Conjunto B Bloco B, Sobradinho,60,2,1,2
 179.000,QNQ 2 Conjunto 21, Ceilandia Norte,126,2,2,1
-318.160,SGAN 915 Módulo F, Asa Norte,32,,1,1
-1.401.000,SQS 109 Bloco D, Asa Sul,130,4,1,3
-320.000,QNP 10 Conjunto Q, Ceilandia Sul,144,3,3,2
-695.000,Asa Sul, Brasília,81,3,,2
+300.000,Sobradinho, Brasília,249,4,4,3
+179.000,QR 205 Conjunto D, Santa Maria,98,3,2,1
+180.000,QR 615 Conjunto 2, Samambaia Norte,90,3,4,3
+350.000,QR 205 Conjunto 3, Samambaia Norte,202,3,2,3
+285.000,Taguatinga Norte, Brasília,130,3,2,2
+380.000,QN 8B, Riacho Fundo II,135,3,3,3
+167.000,QE 40, Guará,160,3,,2
+1.100.000,SQNW 111 Bloco H, Setor Noroeste,88,2,2,2
+400.000,QR 512 Conjunto 5, Samambaia Sul,116,3,2,3
+355.000,QRC 14, Residencial Santos Dumont,180,4,4,3
+150.000,Setor Habitacional Sol Nascente, Ceilândia,80,2,2,1
 3.859.216,SQNW 102 Bloco I, Setor Noroeste,195,4,4,5
 1.807.113,SQN 114 Bloco C, Asa Norte,127 - 250 m²,3,2 - 3,4
 474.706,Avenida Parque Águas Claras, Sul,67 - 185 m²,2 - 3,2,2 - 3
-1.199.996,Taguatinga Sul, Brasília,360,4,8,6
-1.150.000,Condomínio RK, Regiao dos Lagos,450,4,4,4
-214.000,SHN Quadra 5 Bloco B, Asa Norte,33,1,,1
-310.000,QE 38 Bloco D, Guara II,54,2,1,1
-1.450.000,Condomínio Residencial Mansões Itaipu, Lago Sul,400,4,6,5
+290.000,Taguatinga Norte, Brasília,51,2,1,2
+710.000,Condomínio Chapéu de Pedra, Setor Habitacional Jardim Botânico,200,3,,2
+3.650.000,SHIS QI 28, Setor de Habitacoes Individuais Sul,600,4,4,6
+293.451,Quadra 302 Conjunto 12, Samambaia,60,2,1,2
+150.000,QS 14 Conjunto 4A, Riacho Fundo I,60,2,,1
+35.000,SGAS 915, Asa Sul,12,,2,
+330.000,QS 6 Conjunto 610B, Areal,160,5,2,4
+320.000,QNP 10 Conjunto Q, Ceilandia Sul,144,3,3,2
+318.160,SGAN 915 Módulo F, Asa Norte,32,,1,1
+438.000,Rua 31, Sul,55,2,1,2
+80.000,Colônia Agrícola Bernardo Sayão Chácara 1, Setor de Industrias Bernardo Sayao,50,1,,1
+280.000,Ceilandia Sul, Brasília,120,2,3,3
+310.000,Quadra 102 Conjunto 2, Samambaia Sul,59,2,1,2
+424.326,Rua 31, Sul,55,2,1,2
+244.900,QN 412 Conjunto F, Samambaia,59,3,1,2
+287.000,QN 415 Conjunto A, Samambaia,150,3,2,2
+1.699.994,Grande Colorado, Brasília,699,4,4,6
 380.000,QNP 30, Ceilandia Sul,135,3,3,3
-265.000,Rua 70, Centro,159,2,2,3
-140.000,Condomínio Colorado Ville, Grande Colorado,65,2,,2
-249.000,CNB, Taguatinga Norte,70,3,1,1
-259.000,Samambaia Norte, Brasília,59,2,1,2
-330.000,Quadra 102 Conjunto 2, Samambaia Sul,59,2,1,2
-225.000,QR 417 Conjunto 16, Samambaia Norte,75,2,3,2
-260.000,SHPS Quadra 103 Conjunto A, Setor Habitacional Por do Sol,300,3,5,3
-2.400.000,SQN 116 Bloco B, Asa Norte,173,4,2,4
 365.000,Setor de Mansões de Sobradinho, Brasília,117,3,3,2
-320.000,QNO 5 Conjunto B, Ceilandia Norte,120,2,3,2
-590.000,SQS 408, Asa Sul,60,2,,1
-660.000,Chácara 67, Setor Habitacional Vicente Pires Trecho 3,600,3,4,4
-220.000,Rodovia DF-130 Km, Paranoa Parque,20000,1,,1
-380.000,SCLRN 709 Bloco G, Asa Norte,40,3,,2
-285.000,Taguatinga Norte, Brasília,130,3,2,2
+230.000,QNN 27 Módulo C, Ceilandia Norte,51,2,1,1
+750.000,Ponte Alta Norte, Brasília,238,3,2,4
 314.764,SGAN 915, Asa Norte,24 - 504 m²,,,1
 1.834.331,CLSW 105 Bloco A, Setor Sudoeste,97,,,3
 582.794,SCES Trecho 4, Asa Sul,48,1,1,1
-120.000,Quadra 3 Conjunto A, Núcleo Bandeirante,36,1,,1
-2.800.000,SHIN QL 10 Conjunto 2, Lago Norte,900,5,6,8
-1.150.000,Condomínio RK, Regiao dos Lagos,450,4,4,4
+220.000,Riacho Fundo I, Brasília,400,,2,
+1.300.000,QE 30, Guara II,298,4,3,4
+575.000,Norte, Brasília,79,3,1,3
+350.000,Quadra 2 Conjunto B-4, Sobradinho,120,3,2,2
+200.000,EQS 414/415, Guara II,120,2,,2
 295.000,QNP 10 Conjunto U, Ceilândia,135,2,3,2
-350.000,Condomínio RK, Area Rural de Sobradinho,800,3,,2
-300.000,Sobradinho, Brasília,249,4,4,3
-350.000,Rua 4, Setor Tradicional,210,5,3,3
-145.000,QR 605 Conjunto 3, Samambaia Norte,80,2,4,2
-35.000,SGAS 915, Asa Sul,12,,2,
-280.000,Quadra 1, Gama,147,3,3,2
-28.900,Rodovia DF-130 Km, Area Rural de Sao Sebastiao,375,,,
-1.900.000,Setor Habitacional Vicente Pires, Brasília,550,4,8,3
-660.000,Chácara 67, Setor Habitacional Vicente Pires Trecho 3,600,3,4,4
-250.000,QI 24, Taguatinga Norte,52,2,1,2
-400.000,QR 512 Conjunto 5, Samambaia Sul,116,3,2,3
-369.000,QNP 26 Conjunto G, Ceilandia Sul,135,3,2,3
-380.000,QN 8B, Riacho Fundo II,135,3,3,3
-390.000,SHA Conjunto 5 Chácara 112, Setor Habitacional Arniqueira,200,3,3,2
-890.000,Setor Habitacional Arniqueira, Brasília,201,3,2,4
-295.000,Rua 4 Chácara 294, Setor Habitacional Vicente Pires,73,2,1,2
-1.850.000,SQSW 300 Bloco O, Setor Sudoeste,154,4,2,3
-2.062.131,SQNW 302 Bloco C, Setor Noroeste,147,4,3,6
-1.828.104,SQNW 302 Bloco D, Setor Noroeste,144,2,3,4
-4.529.596,SQNW 106 Bloco D, Setor Noroeste,332,4,4,8
-670.000,SHCES Quadra 305, Cruzeiro Novo,79,3,2,2
-290.000,Taguatinga Norte, Brasília,51,2,1,2
-1.200.000,Setor Habitacional Vicente Pires, Brasília,280,3,3,4
-1.850.000,SQSW 300 Bloco O, Setor Sudoeste,154,4,2,3
-350.000,Quadra 103, Recanto das Emas,150,3,3,2
-780.000,Rodovia DF-250, Regiao dos Lagos,235,5,4,4
-390.000,Rua 25, Sul,62,2,1,2
-280.000,Quadra 1, Gama,60,2,1,2
-340.000,QMS 5, Sobradinho,243,4,4,5
-380.000,QE 44 Conjunto G, Guara II,128,3,2,3
-175.000,Quadra 56, Setor Central,50,2,1,1
-96.000,Rua 1, Condominio Prive Lucena Roriz,180,3,2,1
-250.000,"Rodovia DF-240, Km 86 - Rodovia Taguatinga/Brazlândia Chácara,",,262,4,3,2
+320.000,Brazlândia, Brasília,220,3,12,3
+510.000,Rua 1 Chácara 106A conjunto A, Setor Habitacional Vicente Pires Trecho 3,200,3,6,3
+160.000,Residencial Vale das Palmeiras, Setor Habitacional Tororo,700,,,
+320.000,QNO 5 Conjunto B, Ceilandia Norte,120,2,3,2
+590.000,Rua 36, Taguatinga,66,2,1,3
+485.000,CA 5, Lago Norte,58,2,1,1
+279.994,Ceilandia Norte, Brasília,64,3,1,2
+35.000,QSC 19 Chácara 26 Conjunto G, Taguatinga Sul,20,1,,1
+219.900,QR 510, Samambaia Sul,105,3,3,2
+160.000,QN 1 Conjunto 9, Riacho Fundo I,50,2,,1
 230.000,Quadra 803 Conjunto 19, Recanto das Emas,70,2,2,1
-258.000,Quadra 1, Setor Industrial,68,3,1,2
-418.320,Rua 31, Sul,58,2,1,2
-225.000,Quadra 301 Conjunto 1, Samambaia Sul,49,2,1,1
-540.000,Avenida das Araucárias, Aguas Claras,75,3,1,2
-280.000,Setor Habitacional Vicente Pires, Brasília,64,2,1,2
-330.000,Quadra AC 419 Conjunto E, Santa Maria,120,3,2,1
-310.000,Quadra 102 Conjunto 2, Samambaia Sul,59,2,1,2
-2.718.435,SQNW 102 Bloco L, Setor Noroeste,174,4,3,6
-3.582.585,SQNW 102 Bloco B, Setor Noroeste,248,3,4,6
-4.529.596,SQNW 106 Bloco D, Setor Noroeste,332,4,4,8
-450.000,Avenida Ponte Alta Norte, Ponte Alta Norte,250,3,4,2
-4.500.000,SHIN QI 6, Setor de Habitações Individuais Norte,780,5,4,9
-2.600.000,SHIS QI 27 Conjunto 17, Setor de Habitacoes Individuais Sul,550,4,5,8
-144.999,Rua 8, Vicente Pires,45,1,1,1
+800.000,Núcleo Rural Jardim Morumbí, Setor Residencial Mestre D Armas,47000,4,2,6
+220.000,Taguatinga Norte, Brasília,65,2,2,2
+295.000,Setor Habitacional Arniqueira, Brasília,120,3,4,1
+190.000,Setor Habitacional Sol Nascente, Ceilandia Sul,250,3,3,2
+3.303.632,SQNW 311 Bloco G, Setor Noroeste,306 - 354 m²,4,5,5
+2.062.131,SQNW 302 Bloco C, Setor Noroeste,147,4,3,6
+2.305.825,SQNW 103 Bloco B, Setor Noroeste,169,2,3,5
+3.650.000,SHIS QI 28, Setor de Habitacoes Individuais Sul,600,4,4,6
+500.834,Área Especial 2 Módulo E, Guara II,56,2,2,2
+1.700.000,Setor Habitacional Jardim Botânico, Brasília,400,4,2,5
+390.000,Rua 25, Sul,62,2,1,2
 870.000,Setor Habitacional Vicente Pires, Brasília,350,4,2,5
-339.999,Quadra 101, Norte,49,2,1,1
-790.000,Condomínio Ouro Vermelho I, Setor Habitacional Jardim Botânico,200,4,4,5
-165.000,QR 431 Conjunto 5,,112,2,2,2
-580.000,SGCV, Guará,53,2,1,2
-390.000,Guara II, Brasília,128,3,2,3
-240.000,, Brasília,120,3,2,2
-550.000,, Brasília,343,3,12,3
-299.900,QNM 23 Conjunto K, Ceilandia Sul,250,3,4,1
-310.000,SHPS Quadra 206 Conjunto B, Setor Habitacional Por do Sol,330,3,3,2
-223.500,CLSW 304 Bloco A, Setor Sudoeste,32,,,1
-215.000,Samambaia Sul, Brasília,52,2,2,2
-480.000,Rodovia DF-250, Paranoá,120,3,4,5
-190.000,Santa Maria, Brasília,100,3,2,2
-440.000,Setor Habitacional Vicente Pires, Brasília,110,3,5,2
 310.000,Avenida Parque Águas Claras, Norte,54,2,1,2
-200.000,QR 315 Conjunto 10, Samambaia Sul,118,2,2,1
-2.718.435,SQNW 102 Bloco L, Setor Noroeste,174,4,3,6
-2.429.749,SQNW 106 Bloco D, Setor Noroeste,165,4,3,6
-974.240,SQNW 302 Bloco D, Setor Noroeste,71,2,1,3
-1.365.000,Setor Habitacional Vicente Pires, Brasília,400,3,4,5
-1.450.000,SQNW 104 Bloco B, Setor Noroeste,109,3,2,4
-320.000,Rua das Figueiras, Aguas Claras,33,1,1,1
-235.000,QNO 15 Conjunto B, Ceilandia Norte,144,2,3,2
-330.000,Riacho Fundo I, Brasília,200,6,,3
-189.000,Samambaia Norte, Brasília,130,3,3,2
-205.000,QN 312 Conjunto 5, Samambaia Sul,55,2,1,1
-350.000,C 6, Taguatinga Centro,50,2,2,2
-340.000,Ceilandia Norte, Brasília,135,3,2,2
-220.000,Ceilandia Norte, Brasília,189,3,5,2
+225.000,Quadra 301 Conjunto 1, Samambaia Sul,49,2,1,1
+320.000,Quadra 801 Conjunto 1, Recanto das Emas,200,3,3,3
+299.900,QNM 23 Conjunto K, Ceilandia Sul,250,3,4,1
+179.900,QNO 19 Conjunto 7, Ceilandia Norte,143,2,4,1
+585.000,Setor Habitacional Vicente Pires, Brasília,122,3,2,3
 300.000,Itapoã I, Brasília,222,4,1,3
-190.000,QR 421 Conjunto 17, Samambaia Norte,130,3,2,3
-265.000,Areal, Brasília,53,2,1,2
-540.000,Rua 25, Norte,68,2,1,2
-215.000,QR 123 Conjunto 7, Samambaia Sul,130,3,3,2
-540.000,CA 9, Lago Norte,68,2,2,2
-260.000,QNL 4 Bloco D, Taguatinga Norte,97,3,2,2
-319.000,QNM 24 Conjunto N, Ceilandia Norte,250,3,5,2
-300.000,Riacho Fundo I, Brasília,56,2,1,2
-220.000,Ceilandia Sul, Brasília,146,3,2,2
-210.000,QNO 16 Conjunto 65, Ceilandia Norte,132,3,3,3
-2.101.895,SQNW 102 Bloco E, Setor Noroeste,130,3,2,5
-1.060.500,SQNW 307 Bloco H, Setor Noroeste,73 - 150 m²,2,1 - 2,3
-1.412.000,SQNW 311 Bloco H, Setor Noroeste,103 - 212 m²,3,2 - 3,3 - 4
-4.000.000,SCES Trecho 2, Asa Sul,530,,,
-420.000,Guara I, Brasília,70,2,1,2
-110.000,SGAS 902, Asa Sul,360,,,
-380.000,Guara II, Brasília,120,3,2,2
-265.000,QNP 17 Conjunto I, Ceilandia Norte,120,3,2,1
-350.000,Ceilandia Sul, Brasília,200,3,5,3
-300.000,QR 209 Conjunto 2, Samambaia Norte,160,3,2,2
-880.000,Setor Habitacional Arniqueira, Brasília,320,6,4,7
-450.000,Setor Habitacional Arniqueira, Brasília,240,3,,3
-280.000,Quadra 104 Conjunto 18, Recanto das Emas,150,3,5,2
-220.000,QR 510, Samambaia Sul,128,3,2,2
-250.000,Taguatinga Norte, Brasília,140,3,3,2
-269.000,Samambaia Norte, Brasília,59,2,1,2
-255.000,Ceilandia Norte, Brasília,100,3,3,2
-390.000,Recanto das Emas, Brasília,280,3,2,2
+250.000,QE 44, Guara II,70,2,2,1
+380.000,QN 7A Conjunto 3, Riacho Fundo II,200,3,3,4
+280.000,Quadra 1, Gama,60,2,1,2
+220.000,QNL 2 Bloco D, Taguatinga,65,2,2,2
+279.000,Areal, Brasília,59,3,2,2
+148.900,Avenida Monumental, Santa Maria,60,2,1,1
+580.000,SGCV, Guará,53,2,1,2
+240.000,QN 614 Conjunto D, Samambaia Norte,54,2,1,2
+280.000,Quadra 1, Gama,147,3,3,2
+2.305.825,SQNW 103 Bloco B, Setor Noroeste,169,2,3,5
+1.828.104,SQNW 302 Bloco D, Setor Noroeste,144,2,3,4
+3.582.585,SQNW 102 Bloco B, Setor Noroeste,248,3,4,6
+1.500.000,Setor Habitacional Vicente Pires, Brasília,400,4,4,5
+195.000,Guara II, Brasília,110,2,,3
+1.199.000,Setor Habitacional Vicente Pires, Brasília,250,3,2,5
+380.000,QE 44 Conjunto G, Guara II,128,3,2,3
+479.000,Setor Habitacional Arniqueira, Brasília,180,3,4,3
+140.000,C, Taguatinga Centro,26,,,1
 590.000,Rua 1 Chácara 1, Setor Habitacional Vicente Pires,210,3,3,3
-780.000,Setor Habitacional Arniqueira, Brasília,200,3,4,4
-325.000,QR 313 Conjunto O, Santa Maria,150,3,5,1
+750.000,Setor Habitacional Vicente Pires, Brasília,230,3,4,4
+315.000,Ceilandia Norte, Brasília,1100,2,5,3
+299.000,Quadra 802 Conjunto 1, Recanto das Emas,125,3,2,3
+96.000,Rua 1, Condominio Prive Lucena Roriz,180,3,2,1
+260.000,QNL 4 Bloco D, Taguatinga Norte,97,3,2,2
+380.000,QN 8B, Riacho Fundo II,135,3,3,3
+200.000,QR 315 Conjunto 10, Samambaia Sul,118,2,2,1
+400.000,Samambaia Norte, Brasília,120,5,2,4
+270.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,160,4,4,3
+340.000,Ceilandia Norte, Brasília,135,3,2,2
+700.000,Rodovia DF-135 Km,,20000,4,3,2
+260.000,QR 208, Samambaia Norte,150,2,2,1
 265.000,QNP 32 Conjunto L, Ceilandia Sul,135,3,3,3
-319.000,QNM 24 Conjunto N, Ceilandia Norte,250,3,5,2
+1.270.000,Condomínio RK, Regiao dos Lagos,300,4,3,5
+4.529.596,SQNW 106 Bloco D, Setor Noroeste,332,4,4,8
+3.842.949,SQNW 102 Bloco E, Setor Noroeste,262,3,3,6
+2.101.895,SQNW 102 Bloco E, Setor Noroeste,130,3,2,5
+3.299.484,SQNW 111 Bloco G, Setor Noroeste,292,4,4,4
+280.000,Setor Habitacional Vicente Pires, Brasília,64,2,1,2
+910.000,Guara I, Brasília,100,,10,1
+165.000,QR 431 Conjunto 5,,112,2,2,2
+210.000,QNO 16 Conjunto 65, Ceilandia Norte,132,3,3,3
+190.000,Santa Maria, Brasília,100,3,2,2
+125.000,Asa Norte, Brasília,29,,,2
 300.000,Recanto das Emas, Brasília,127,3,3,3
+215.000,QR 123 Conjunto 7, Samambaia Sul,130,3,3,2
+260.000,SMAS, Zona Industrial,32,,1,1
+550.000,Rua 9, Norte,83,2,1,3
+240.000,Taguatinga Norte, Brasília,62,2,1,2
+540.000,Avenida das Araucárias, Aguas Claras,75,3,1,2
+369.000,QNP 26 Conjunto G, Ceilandia Sul,135,3,2,3
+355.000,QRC 14, Residencial Santos Dumont,180,4,2,4
+780.000,Setor Habitacional Arniqueira, Brasília,200,3,4,4
+330.000,QNM 23 Conjunto C, Ceilandia Sul,250,4,2,2
+390.000,Ceilandia Sul, Brasília,144,5,3,3
+350.000,Riacho Fundo I, Brasília,200,3,2,3
+280.000,Setor Habitacional Vicente Pires, Brasília,64,2,1,2
+1.280.000,Asa Sul, Brasília,160,4,1,3
+974.240,SQNW 302 Bloco D, Setor Noroeste,71,2,1,3
+2.429.749,SQNW 106 Bloco D, Setor Noroeste,165,4,3,6
+1.412.000,SQNW 311 Bloco H, Setor Noroeste,103 - 212 m²,3,2 - 3,3 - 4
+890.000,Rua 13, Norte,132,3,1,4
+1.200.000,Vicente Pires, Brasília,315,3,,5
+485.000,Condomínio RK, Regiao dos Lagos,500,,,
+235.000,Taguatinga Centro, Brasília,70,2,1,1
+280.000,Samambaia Sul, Brasília,110,2,2,2
+300.000,QN 8F Conjunto 7, Riacho Fundo II,152,3,2,3
+189.000,Samambaia Norte, Brasília,130,3,3,2
+181.900,QS 118 Conjunto 3, Samambaia Sul,54,2,1,2
+295.000,Riacho Fundo I, Brasília,150,3,3,1
+319.000,QNM 24 Conjunto N, Ceilandia Norte,250,3,5,2
+390.000,Guara II, Brasília,128,3,2,3
+148.000,Ceilandia Norte, Brasília,126,3,2,2
+325.000,QR 313 Conjunto O, Santa Maria,150,3,5,1
+350.000,Riacho Fundo I, Brasília,145,3,2,2
+395.000,Condomínio Ouro Vermelho I, Setor Habitacional Jardim Botânico,1210,,,
+880.000,QE 21 Conjunto F, Guara II,200,5,5,3
+450.000,Riacho Fundo II, Brasília,300,3,2,3
+360.000,Samambaia Sul, Brasília,110,3,3,2
+250.000,Taguatinga Norte, Brasília,140,3,3,2
+450.000,Setor Habitacional Arniqueira, Brasília,240,3,,3
+700.000,Rua 9, Aguas Claras,118,3,2,3
+1.060.500,SQNW 307 Bloco H, Setor Noroeste,73 - 150 m²,2,1 - 2,3
 1.945.500,SQNW 111 Bloco G, Setor Noroeste,152 - 336 m²,4,3 - 4,6
 1.907.673,SQNW 106 Bloco J, Setor Noroeste,110 - 275 m²,3,2 - 3,4 - 5
-3.996.984,SQNW 302 Bloco C, Setor Noroeste,293,4,4,6
-389.000,Rua Copaíba, Aguas Claras,44,1,1,1
-280.000,Asa Norte, Brasília,35,1,1,1
-580.000,Setor Habitacional Vicente Pires, Brasília,210,3,4,3
-350.000,Riacho Fundo I, Brasília,145,3,2,2
-240.000,Taguatinga Norte, Brasília,62,2,1,2
-269.000,Samambaia Norte, Brasília,59,2,1,2
-114.900,Rua 8, Vila Sao Jose,60,2,1,2
-380.000,QN 8B, Riacho Fundo II,135,3,3,3
-185.000,Taguatinga Norte, Brasília,60,1,1,1
-390.000,Ponte Alta Norte, Brasília,112,2,2,3
+110.000,SGAS 902, Asa Sul,360,,,
+195.000,SCS Quadra 4, Asa Sul,60,,,1
+1.450.000,SQNW 104 Bloco B, Setor Noroeste,109,3,2,4
+479.000,QNM 5 Conjunto H, Ceilandia Sul,250,3,6,4
+250.000,QN 614 Conjunto B, Samambaia Norte,58,2,1,2
 235.000,Quadra 803 Conjunto 32, Recanto das Emas,170,2,4,2
-270.000,QNP 18 Conjunto G, Ceilandia Sul,147,3,2,1
-280.000,Setor Habitacional Vicente Pires, Brasília,64,2,1,2
-185.000,Samambaia Norte, Brasília,126,3,2,1
-265.000,QNP 17 Conjunto I, Ceilandia Norte,120,3,2,1
+230.000,Quadra 14, Gama,168,3,2,2
+610.000,QN 9 Conjunto 10, Riacho Fundo I,175,4,5,3
+590.000,Setor Habitacional Arniqueira, Brasília,550,3,6,3
+105.000,QNN 34 Área Especial A, Ceilandia Sul,57,2,1,2
+220.000,QR 510, Samambaia Sul,128,3,2,2
+270.000,QNP 28 Conjunto Z, Ceilandia Sul,143,3,4,2
 280.000,Setor Habitacional Jardim Botânico, Brasília,547,,,
-148.000,Ceilandia Norte, Brasília,126,3,2,2
-290.000,QN 7B Conjunto 2, Riacho Fundo II,153,3,2,4
-360.000,Quadra 307, Recanto das Emas,150,3,4,2
-300.000,Rodovia DF-130 Km, Area Rural do Paranoa,4500,3,,1
-220.000,SEPS 705/905, Asa Sul,22,,1,1
+180.000,QR 421 Conjunto 17, Samambaia Norte,130,3,2,3
+330.000,Quadra 32 Conjunto M, Paranoá,128,4,2,6
+1.050.000,Setor Habitacional Jardim Botânico, Brasília,262,5,4,5
+450.000,QNO 5 Conjunto D, Ceilandia Norte,260,4,3,3
+350.000,Ceilandia Sul, Brasília,200,3,5,3
+380.000,QR 214 Conjunto J, Santa Maria,150,3,3,3
+650.000,Rua 10, Vila Sao Jose,250,4,4,4
+280.000,Samambaia Norte, Brasília,127,2,2,2
+3.818.712,SQNW 111 Bloco F, Setor Noroeste,303 - 483 m²,4,4,6
+2.050.320,SQNW 310 Bloco D, Setor Noroeste,154 - 166 m²,3,3,5
+3.996.984,SQNW 302 Bloco C, Setor Noroeste,293,4,4,6
+650.000,Setor Habitacional Arniqueira, Brasília,400,3,4,3
+195.000,SCS Quadra 4, Asa Sul,60,,,1
+130.000,QN 204 Conjunto 2, Samambaia Norte,54,2,,2
+220.000,QR 427 Conjunto 11, Samambaia Norte,108,2,2,1
+360.000,Recanto das Emas, Brasília,200,4,3,3
+295.000,QMS 60D, Sobradinho,120,3,2,3
+265.000,Taguatinga Norte, Brasília,181,4,2,3
+215.000,QR 320 Conjunto 3, Samambaia Sul,51,2,1,2
+220.000,Samambaia Sul, Brasília,59,2,1,2
+600.000,Taguatinga Sul, Brasília,200,3,4,2
+278.999,Ceilândia, Brasília,143,3,4,2
+248.000,QR 120 Conjunto 1, Samambaia Sul,53,2,1,2
+365.000,Rodovia DF-425, Setor Habitacional Contagem,120,3,10,3
+370.000,QNM 38 Conjunto P, Taguatinga Norte,250,3,2,2
+235.000,Quadra 803 Conjunto 32, Recanto das Emas,170,2,4,1
+280.000,Quadra 104 Conjunto 18, Recanto das Emas,150,3,5,2
+249.999,QNO 18 Conjunto 8, Ceilandia Norte,187,3,4,3
+190.000,Setor Habitacional Vicente Pires, Brasília,60,2,1,2
+650.000,Condomínio Quinta Interlagos, Setor Habitacional Jardim Botânico,220,3,2,3
+191.900,QR 319 Conjunto 1, Samambaia Sul,60,2,1,2
+1.280.000,Condomínio Estância Jardim Botânico, Setor Habitacional Jardim Botânico,450,3,2,4
 consulta,SGCV, Zona Industrial,26 - 75 m²,1,1 - 2,1 - 2
 315.000,SOF Sul Quadra 16 Conjunto A, Zona Industrial,34 - 54 m²,1 - 2,1,1
 248.241,QE 5 Conjunto B, Guara I,31 - 56 m²,1 - 2,1,1 - 2
-1.300.000,Setor Habitacional Vicente Pires, Brasília,418,4,3,8
-1.200.000,Setor Habitacional Vicente Pires, Brasília,280,3,3,4
-305.000,Setor Habitacional Vicente Pires, Brasília,82,3,1,1
-370.000,QNM 38 Conjunto P, Taguatinga Norte,250,3,2,2
-330.000,QNM 23 Conjunto C, Ceilandia Sul,250,4,2,2
-349.996,Ceilandia Norte, Brasília,56,2,1,2
-390.000,Taguatinga Norte, Brasília,180,3,4,2
-280.000,Samambaia Norte, Brasília,150,3,2,2
-360.000,Setor Sudoeste, Brasília,41,1,1,1
-470.000,Setor Habitacional Arniqueira, Brasília,130,2,5,2
-201.500,Samambaia Sul, Brasília,61,2,1,2
-230.000,Quadra 14, Gama,168,3,2,2
-395.000,Condomínio Ouro Vermelho I, Setor Habitacional Jardim Botânico,1210,,,
-278.999,Ceilândia, Brasília,143,3,4,2
+280.000,Asa Norte, Brasília,35,1,1,1
+890.000,Rua 13, Norte,132,3,1,4
+135.000,Setor Habitacional Vicente Pires, Brasília,60,2,,1
+260.000,QNP 20 Conjunto E, Ceilandia Sul,135,3,2,2
+790.000,Setor Habitacional Vicente Pires, Brasília,300,3,2,3
 249.000,Rua 4A, Vicente Pires,68,2,1,1
+550.000,QS 14 Conjunto 2A, Riacho Fundo I,144,3,3,3
+330.000,Quadra 102 Conjunto 3, Samambaia Sul,59,2,1,2
+169.900,QNP 23 Conjunto E, Ceilandia Norte,80,2,2,1
+750.000,Setor Habitacional Arniqueira, Brasília,400,5,4,5
+110.000,SMPW Trecho 3 Blocos A e B, Park Way,30,,,1
+400.000,Quadra 10, Setor Oeste,275,3,3,2
+138.000,Setor Habitacional Sol Nascente, Ceilandia Sul,100,2,4,2
+200.000,Ceilandia Norte, Brasília,180,3,3,1
+290.000,QNO 16 Conjunto 6, Ceilandia Norte,222,5,4,4
+224.999,Setor Habitacional Sol Nascente, Ceilandia Sul,250,3,2,2
+650.000,Setor Habitacional Vicente Pires, Brasília,220,3,5,3
+210.000,QNN 39 Conjunto D, Ceilandia Norte,110,2,3,1
 235.000,Samambaia Sul, Brasília,54,2,1,2
-214.996,Ceilandia Norte, Brasília,56,3,4,2
-220.000,Riacho Fundo I, Brasília,400,,2,
-270.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,160,4,4,3
-350.000,Riacho Fundo I, Brasília,200,3,2,3
-280.000,Setor Habitacional Vicente Pires, Brasília,450,3,4,2
+130.000,QNM 12, Ceilandia Norte,63,2,2,2
+235.000,QNO 12 Área Especial C, Ceilandia Norte,58,2,1,2
 325.419,SIA Trecho 1, Zona Industrial,35 - 179 m²,,1 - 5,1 - 5
 1.466.805,Avenida Parque Águas Claras, Norte,162 - 333 m²,4,,
 954.411,Avenida das Araucárias, Sul,128,4,2 - 3,4
-585.000,Norte, Brasília,79,3,1,2
-700.000,Rua Buriti, Aguas Claras,83,3,1,3
-1.200.000,Vicente Pires, Brasília,315,3,,5
-290.000,Ceilandia Norte, Brasília,130,3,3,2
-130.000,QNM 12, Ceilandia Norte,63,2,2,2
-285.000,Ceilandia Norte, Brasília,110,3,3,2
-205.000,Samambaia Sul, Brasília,120,3,3,2
-450.000,QNL 10 Bloco H, Taguatinga Norte,120,3,4,4
-550.000,QS 14 Conjunto 2A, Riacho Fundo I,144,3,3,3
-475.000,QNM 40 Conjunto J, Taguatinga Norte,170,3,3,1
-400.000,Quadra 10, Setor Oeste,275,3,3,2
-264.000,Samambaia Norte, Brasília,59,2,1,2
-248.000,QR 120 Conjunto 1, Samambaia Sul,53,2,1,2
-860.000,Setor Habitacional Vicente Pires, Brasília,245,3,2,4
+890.000,Condomínio Quintas do Trevo, Setor Habitacional Jardim Botânico,300,3,2,4
+2.200.000,SHIN QI 16 Conjunto 1, Lago Norte,523,5,5,8
+1.200.000,Setor Habitacional Vicente Pires, Brasília,306,3,4,6
 430.000,QSC 19 Chácara 26 Conjunto C, Taguatinga Sul,240,3,3,3
-270.000,QNP 28 Conjunto Z, Ceilandia Sul,143,3,4,2
-349.996,Ceilandia Norte, Brasília,56,2,1,2
-224.999,Setor Habitacional Sol Nascente, Ceilandia Sul,250,3,2,2
-269.000,Rua 4C Chácara 11, Setor Habitacional Vicente Pires Trecho 3,60,3,1,2
 390.000,Taguatinga Norte, Brasília,150,3,4,2
-230.000,Setor Habitacional Vicente Pires, Brasília,67,2,1,2
+280.000,Samambaia Norte, Brasília,150,3,2,2
+70.000,QS 303 Conjunto 6, Samambaia Sul,57,2,1,2
+220.000,Ceilandia Norte, Brasília,189,3,5,2
+680.000,Taguatinga Norte, Brasília,215,3,4,4
+1.200.000,SQN 316 Bloco G, Asa Norte,128,3,1,3
+995.000,Setor Habitacional Arniqueira, Brasília,800,4,4,5
+380.000,EQNP 8/12, Ceilandia Sul,220,4,2,4
+230.000,QR 505 Conjunto 2, Samambaia Sul,112,2,2,2
+400.000,CA 5, Lago Norte,56,2,,2
+500.000,QN 7A Conjunto 4, Riacho Fundo II,180,2,6,2
+480.000,Rodovia DF-250, Paranoá,120,3,4,5
+340.000,QS 6 Conjunto 3, Riacho Fundo I,144,4,2,3
+800.000,Setor Habitacional Arniqueira, Brasília,200,3,2,3
+290.000,QN 7B Conjunto 2, Riacho Fundo II,153,3,2,4
+500.000,Quadra 1 Rua A, Setor Sul,200,4,4,5
+360.000,Quadra 307, Recanto das Emas,150,3,4,2
 763.655,Avenida das Araucárias, Sul,103,3,2,4
 650.000,Quadra 208, Sul,103,3,1,4
 369.726,QS 5 Rua 400, Areal,59 - 72 m²,2 - 3,1 - 2,2
-195.000,Guara II, Brasília,110,2,,3
-1.350.000,Setor Habitacional Vicente Pires, Brasília,270,3,4,4
-1.200.000,Setor Habitacional Vicente Pires, Brasília,280,3,3,4
-269.000,Rua 4C Chácara 11, Setor Habitacional Vicente Pires Trecho 3,60,3,1,2
-330.000,Quadra 102 Conjunto 3, Samambaia Sul,59,2,1,2
-390.000,Taguatinga Norte, Brasília,150,3,4,2
+1.300.000,Vicente Pires, Brasília,290,3,4,5
+620.000,Condomínio RK, Regiao dos Lagos,230,4,3,3
+299.000,Asa Norte, Brasília,34,,,1
+390.000,Ponte Alta Norte, Brasília,112,2,2,3
+203.900,Samambaia, Brasília,61,2,1,2
+237.000,Ceilandia Norte, Brasília,135,2,2,2
+199.000,Taguatinga Norte, Brasília,83,2,2,1
+550.000,Rua 17, Aguas Claras,73,3,1,2
+920.000,Setor Habitacional Vicente Pires, Brasília,600,5,5,5
+799.994,Taguatinga Sul, Brasília,250,4,4,4
+490.000,SHA Conjunto 6, Setor Habitacional Arniqueira,120,3,2,2
+320.000,QNO 11 Conjunto I, Ceilandia Norte,90,3,2,2
 230.000,Setor Habitacional Vicente Pires, Brasília,67,2,1,2
-520.000,Samambaia Sul, Brasília,110,3,2,3
-300.000,Taguatinga Norte, Brasília,250,3,3,2
-300.000,QN 8F Conjunto 7, Riacho Fundo II,152,3,2,3
-260.000,QNP 20 Conjunto E, Ceilandia Sul,135,3,2,2
-1.280.000,Asa Sul, Brasília,160,4,1,3
-220.000,Ceilandia Norte, Brasília,140,3,3,3
-300.000,Setor Habitacional Arniqueira, Brasília,180,3,2,1
-360.000,Samambaia Sul, Brasília,110,3,3,2
-35.000,SBS Quadra 2, Asa Sul,1,,1,
-181.900,QS 118 Conjunto 3, Samambaia Sul,54,2,1,2
-320.000,Ceilandia Sul, Brasília,144,4,3,3
-350.000,QR 406 Conjunto 27, Samambaia Norte,122,3,2,2
-300.000,Samambaia Norte, Brasília,130,3,4,2
-700.000,Rua 9, Aguas Claras,118,3,2,3
+890.000,Chácara 67, Setor Habitacional Vicente Pires Trecho 3,250,4,4,5
+349.000,Setor Habitacional Arniqueira, Brasília,200,4,4,2
+205.000,Samambaia Sul, Brasília,120,3,3,2
+220.000,QMS 5, Setor de Mansões de Sobradinho,120,4,5,1
+248.000,QS 8 Conjunto 2, Riacho Fundo II,90,3,3,2
+980.000,Setor Habitacional Arniqueira, Brasília,1666,3,2,4
+995.000,Setor Habitacional Arniqueira, Brasília,800,4,4,5
+41.994,Zona Industrial, Brasília,12,,1,
 577.146,Rua 36, Sul,65 - 93 m²,2 - 3,1 - 2,3 - 4
 220.000,CSG 3, Taguatinga Sul,36 - 166 m²,1 - 3,1,1 - 3
 347.535,Condomínio Santa Bárbara, Setor Habitacional Tororo,399 - 591 m²,,,
-850.000,Setor Habitacional Vicente Pires, Brasília,280,3,2,3
-1.150.000,Condomínio RK, Regiao dos Lagos,450,4,4,4
-280.000,Condomínio Mini Chácaras do Lago Sul, Setor Habitacional Jardim Botânico,600,1,,1
-500.000,QN 7A Conjunto 4, Riacho Fundo II,180,2,6,2
-220.000,Asa Norte, Brasília,28,,,1
-380.000,Riacho Fundo I, Brasília,140,3,2,2
-250.000,Ceilandia Sul, Brasília,58,2,1,2
-1.200.000,SQN 316 Bloco G, Asa Norte,128,3,1,3
-380.000,EQNP 8/12, Ceilandia Sul,220,4,2,4
-250.000,QN 614 Conjunto B, Samambaia Norte,58,2,1,2
-185.000,SHN Quadra, Asa Norte,35,1,,1
-200.000,Ceilandia Norte, Brasília,180,3,3,1
-270.000,QR 623 Conjunto 3, Samambaia Norte,112,3,2,2
-320.000,Quadra 25 Conjunto I, Paranoá,300,4,3,3
-235.000,QNO 12 Área Especial C, Ceilandia Norte,58,2,1,2
-280.000,CNB 14, Taguatinga Norte,58,2,1,2
-340.000,Samambaia Norte, Brasília,250,3,4,2
-780.000,Taguatinga Sul, Brasília,16,3,10,1
-380.000,Ceilandia Norte, Brasília,170,3,4,1
-260.000,Samambaia Sul, Brasília,58,2,1,2
-138.000,Setor Habitacional Sol Nascente, Ceilandia Sul,100,2,4,2
+4.000.000,SCES Trecho 2, Asa Sul,530,,,
+3.650.000,SHIS QI 28, Setor de Habitacoes Individuais Sul,600,4,4,6
+420.000,Guara I, Brasília,70,2,1,2
+360.000,Residencial Bica do DER 1, Residencial Bica do DER,315,2,4,3
+180.000,QNQ 2 Conjunto 2, Ceilandia Norte,126,2,2,1
+1.180.000,Condomínio Quintas do Sol, Setor Habitacional Jardim Botânico,571,5,4,5
+250.000,Samambaia Sul, Brasília,112,3,2,1
+300.000,Samambaia Norte, Brasília,130,3,4,2
+290.000,Ceilandia Norte, Brasília,130,3,3,2
+418.000,Norte, Brasília,60,2,1,2
+249.999,QNP 15 Conjunto J, Ceilandia Norte,135,2,2,2
+285.000,Ceilandia Norte, Brasília,135,3,2,2
+570.000,Rua das Pitangueiras, Sul,92,3,,2
+1.100.000,Setor Habitacional Vicente Pires, Brasília,960,5,4,5
+325.000,ES 10B, Setor de Mansões de Sobradinho,250,3,2,2
+230.000,Asa Sul, Brasília,27,,1,1
+275.000,Taguatinga Norte, Brasília,70,3,,3
+290.000,QI 416 Conjunto 1, Samambaia Norte,69,3,1,2
+250.000,QNO 19 Conjunto 2, Ceilandia Norte,126,3,2,2
+535.000,Avenida Jacarandá, Sul,67,2,1,2
+225.000,Ceilandia Norte, Brasília,120,2,2,2
 175.000,QR 508 Conjunto 3, Samambaia Sul,38 - 79 m²,1 - 2,,1
 303.555,Quadra 101 Conjunto 3, Samambaia Sul,59 - 141 m²,2 - 3,1 - 2,2
 292.967,QNN 30 Área Especial B, Ceilândia Sul,54,2,1,2
-1.350.000,Rua 4 Chácara 298, Vicente Pires,296,3,4,4
-1.450.000,SQNW 104 Bloco B, Setor Noroeste,109,3,2,4
-655.000,Quadra 206, Aguas Claras,90,2,2,1
-260.000,Samambaia Sul, Brasília,58,2,1,2
-138.000,Setor Habitacional Sol Nascente, Ceilandia Sul,100,2,4,2
-340.000,QS 6 Conjunto 3, Riacho Fundo I,144,4,2,3
-380.000,QR 214 Conjunto J, Santa Maria,150,3,3,3
-237.000,Ceilandia Norte, Brasília,135,2,2,2
-295.000,QMS 60D, Sobradinho,120,3,2,3
-220.000,QR 427 Conjunto 11, Samambaia Norte,108,2,2,1
+1.850.000,Setor Habitacional Vicente Pires, Brasília,320,4,2,5
+147.884,QS 629 Conjunto C, Samambaia Norte,43,2,,
+3.650.000,SHIS QI 28, Setor de Habitacoes Individuais Sul,600,4,4,6
+350.000,QR 406 Conjunto 27, Samambaia Norte,122,3,2,2
+215.000,QS 103 Conjunto 2, Samambaia Sul,44,2,1,1
+280.000,Guara II, Brasília,58,2,,1
+1.900.000,Rodovia DF-150, Sobradinho,820,5,6,8
+990.000,Condomínio Jardim Botânico V, Setor Habitacional Jardim Botânico,450,4,4,5
+219.994,Ceilandia Norte, Brasília,121,3,2,2
+220.000,Ceilandia Norte, Brasília,140,3,3,3
+340.000,Taguatinga Norte, Brasília,179,4,2,3
+395.000,QNP 13 Conjunto M, Ceilandia Norte,135,7,2,4
+370.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,160,3,2,2
+790.000,Ponte Alta Norte, Brasília,280,3,4,3
+1.290.000,SQNW 309 Bloco B, Setor Noroeste,86,2,2,2
+380.000,QNO 7 Conjunto A, Ceilandia Norte,166,3,3,3
 415.000,Taguatinga Norte, Brasília,250,3,5,3
-560.000,SQN 404 Bloco A, Asa Norte,78,3,,2
-230.000,QR 505 Conjunto 2, Samambaia Sul,112,2,2,2
-215.000,QR 320 Conjunto 3, Samambaia Sul,51,2,1,2
-285.000,Ceilandia Norte, Brasília,135,3,2,2
-320.000,Ceilandia Sul, Brasília,220,4,2,2
-385.000,Guara II, Brasília,140,3,2,2
-290.000,QNO 16 Conjunto 6, Ceilandia Norte,222,5,4,4
-280.000,Samambaia Sul, Brasília,110,2,2,2
-190.000,Setor Habitacional Vicente Pires, Brasília,60,2,1,2
-290.000,QI 416 Conjunto 1, Samambaia Norte,69,3,1,2
+199.000,Quadra 301 Conjunto 8, Samambaia,54,2,1,2
+1.100.000,Setor Habitacional Arniqueira, Brasília,290,3,4,4
+410.000,Residencial Paulo Arantes Quadra 2, Riacho Fundo I,270,3,3,3
+860.000,SQSW 305 Bloco L, Setor Sudoeste,82,2,1,
 140.508,QS 419 Conjunto A, Samambaia Norte,36 - 41 m²,2,,1
 137.158,QN 321, Samambaia Sul,43 - 50 m²,2,1,1
 148.465,Quadra QC 06, Cidade Jardins,42 - 45 m²,1 - 2,,1
-135.000,Setor Habitacional Vicente Pires, Brasília,60,2,,1
-850.000,Setor Habitacional Vicente Pires, Brasília,280,3,2,3
-305.000,Setor Habitacional Vicente Pires, Brasília,82,3,1,1
-290.000,QI 416 Conjunto 1, Samambaia Norte,69,3,1,2
-410.000,SHCGN 716 Bloco J, Asa Norte,50,2,,1
-395.000,QNP 13 Conjunto M, Ceilandia Norte,135,7,2,4
-249.999,QNP 15 Conjunto J, Ceilandia Norte,135,2,2,2
-680.000,Taguatinga Norte, Brasília,215,3,4,4
-225.000,Ceilandia Norte, Brasília,120,2,2,2
-219.996,Ceilandia Norte, Brasília,121,3,2,2
-430.000,Taguatinga Norte, Brasília,140,3,4,3
-380.000,QNO 7 Conjunto A, Ceilandia Norte,166,3,3,3
-191.900,QR 319 Conjunto 1, Samambaia Sul,60,2,1,2
-250.000,Samambaia Sul, Brasília,112,3,2,1
-430.000,SHCGN 707 Bloco D, Asa Norte,42,2,,1
-275.000,QNO 16 Conjunto 61, Ceilandia Norte,120,3,2,2
+655.000,Quadra 206, Aguas Claras,90,2,2,1
+2.600.000,SHIS QI 27 Conjunto 17, Setor de Habitacoes Individuais Sul,550,4,5,8
+650.000,Ceilandia Sul, Brasília,250,6,3,5
 295.000,Ceilandia Sul, Brasília,100,2,3,2
-320.000,QNM 34 Conjunto D2, Taguatinga Norte,135,3,2,1
-175.000,Ceilandia Sul, Brasília,85,2,2,2
+189.000,QS 18 Conjunto 4, Riacho Fundo II,83,2,1,1
+940.000,Taguatinga Norte, Brasília,220,3,3,4
+325.000,QNO 6 Conjunto I, Ceilandia Norte,144,3,3,2
+259.000,Samambaia Norte, Brasília,59,2,1,2
+380.000,Samambaia Norte, Brasília,130,4,2,3
+180.000,Vicente Pires, Brasília,60,2,1,2
+270.000,QR 623 Conjunto 3, Samambaia Norte,112,3,2,2
+430.000,Taguatinga Norte, Brasília,140,3,4,3
+880.000,Setor Habitacional Samambaia, Brasília,350,4,4,7
+95.000,Setor Habitacional Sol Nascente, Setor Habitacional Sol Nascente,200,2,2,1
+250.000,Ceilandia Sul, Brasília,58,2,1,2
+990.000,Taguatinga Sul, Brasília,180,3,2,4
+430.000,Chácara 62, Vicente Pires,300,3,5,2
 220.000,Vicente Pires, Brasília,62,2,1,2
-248.000,QS 8 Conjunto 2, Riacho Fundo II,90,3,3,2
+150.000,QR 427 Conjunto 1, Samambaia Norte,110,3,3,1
+340.000,Samambaia Norte, Brasília,250,3,4,2
+260.000,Samambaia Norte, Brasília,73,3,2,3
 152.800,Rua 1, Valparaiso I Etapa E,42,1 - 2,,1
 consulta,Alameda Santa Luzia, Mansoes Centro Oeste,40 - 72 m²,2,1,1
 125.000,Quadra QB 8, MANSOES POR DO SOL,40 - 77 m²,2,1,1
-389.000,Rua Copaíba, Aguas Claras,44,1,1,1
-1.450.000,SQNW 104 Bloco B, Setor Noroeste,109,3,2,4
-2.900.000,Park Way , Brasília,2500,5,4,5
-350.000,AR 17 Conjunto 12, Setor Oeste,350,6,2,3
-480.000,QN 1 Conjunto 1, Riacho Fundo I,160,3,4,3
-210.000,QNN 39 Conjunto D, Ceilandia Norte,110,2,3,1
-249.996,Ceilandia Sul, Brasília,58,2,1,2
-329.900,Ceilândia, Brasília,145,3,3,2
-650.000,Condomínio RK, Regiao dos Lagos,270,3,4,4
-318.000,Taguatinga Norte, Brasília,90,3,2,2
-249.996,Recanto das Emas, Brasília,150,3,3,2
-450.000,EQS 414/415, Asa Sul,150,3,4,3
-160.000,QNP 22 Conjunto L, Ceilandia Sul,90,3,2,2
-220.000,Taguatinga Norte, Brasília,65,2,2,2
-280.000,Samambaia Norte, Brasília,127,2,2,2
-215.000,QS 408, Samambaia Norte,50,2,1,1
-385.000,Norte, Brasília,59,1,1,2
-48.000,SMHN, Asa Norte,12,,,
-550.000,QC 1 Conjunto M, Santa Maria,360,3,4,5
-450.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,130,3,5,2
-415.000,Ceilandia Norte, Brasília,80,3,2,2
+1.350.000,Setor Habitacional Vicente Pires, Brasília,270,3,4,4
+680.000,Setor Habitacional Vicente Pires, Brasília,178,3,1,4
+1.200.000,Setor Habitacional Vicente Pires, Brasília,306,3,4,6
+389.000,Sul, Brasília,52,2,1,2
+145.000,Setor Habitacional Vicente Pires, Brasília,62,2,1,1
+260.000,Samambaia Sul, Brasília,58,2,1,2
+264.000,Samambaia Norte, Brasília,59,2,1,2
+330.000,Samambaia Norte, Brasília,105,3,2,2
+215.000,Samambaia Sul, Brasília,52,2,2,2
+320.000,QNM 34 Conjunto D2, Taguatinga Norte,135,3,2,1
+269.000,Samambaia Norte, Brasília,59,2,1,2
+890.000,SOPI Conjunto C, Núcleo Bandeirante,320,4,3,4
+520.000,Samambaia Sul, Brasília,110,3,2,3
+230.000,QR 318 Conjunto G, Santa Maria,150,4,1,3
+219.000,Samambaia Norte, Brasília,200,2,2,2
+750.000,QN 5, Riacho Fundo I,200,3,2,3
+180.000,Setor Habitacional Vicente Pires, Brasília,55,2,1,2
+240.000,Taguatinga Norte, Brasília,70,2,1,2
+230.000,QNP 15 Conjunto J, Ceilandia Norte,135,2,2,2
+360.000,Setor Sudoeste, Brasília,41,1,1,1
+285.000,Ceilandia Sul, Brasília,200,4,3,3
 120.000,Quadra 79 Conjunto A, Parque da Barragem Setor 12,40 - 76 m²,2,1,1
 consulta,Quadra 79 Conjunto A, Parque da Barragem Setor 12,40 - 76 m²,2,1,1
 130.000,Via 15, Chacaras do Abreu,40 - 107 m²,2,1,1
-552.000,Sul, Brasília,69,3,1,2
-349.996,Norte, Brasília,44,1,1,2
-700.000,Rua Buriti, Aguas Claras,83,3,1,3
-265.000,Taguatinga Norte, Brasília,181,4,2,3
-535.000,Avenida Jacarandá, Sul,67,2,1,2
-150.000,QR 427 Conjunto 1, Samambaia Norte,110,3,3,1
-390.000,QNL 3 Conjunto J, Taguatinga Norte,200,3,4,2
-360.000,Residencial Bica do DER 1, Residencial Bica do DER,315,2,4,3
-85.000,Condomínio Mansões Serranas, Setor Habitacional Jardim Botânico,2060000,,,
-420.000,Área Especial Barragem do Paranoá, Paranoá,85,3,5,3
-180.000,QNQ 2 Conjunto 2, Ceilandia Norte,126,2,2,1
-290.000,Taguatinga Norte, Brasília,51,2,1,2
-790.000,Ponte Alta Norte, Brasília,365,4,5,1
-195.000,QMS 27, Setor de Mansões de Sobradinho,82,2,2,2
-390.000,QNL 13, Taguatinga Norte,200,3,,1
-285.000,Ceilandia Sul, Brasília,200,4,3,3
-278.000,SHN Quadra 1 Bloco D, Asa Norte,22,,1,
-420.000,Taguatinga Norte, Brasília,220,5,4,3
-120.000,Condomínio Ecológico Parque do Mirante, Setor Habitacional Jardim Botânico,860000,,,
-474.707,Rua das Carnaúbas, Aguas Claras,68,2,2,2
-180.000,Quadra 104 Conjunto 6, Recanto das Emas,150,3,,2
+1.050.000,Setor Habitacional Vicente Pires, Brasília,400,3,2,4
+1.100.000,Nova Colina, Brasília,600,4,3,3
+2.600.000,SHIS QI 27 Conjunto 17, Setor de Habitacoes Individuais Sul,550,4,5,8
+269.999,Quadra 803 Conjunto 5, Recanto das Emas,125,3,2,2
+28.900,Rodovia DF-130 Km, Area Rural de Sao Sebastiao,375,,,
+620.000,Norte, Brasília,87,2,1,2
+670.000,SHA Conjunto 1 Chácara 10, Setor Habitacional Arniqueira,800,1,,
+240.000,Setor Habitacional Vicente Pires, Brasília,50,2,1,2
+265.000,QNP 17 Conjunto I, Ceilandia Norte,120,3,2,1
+155.000,Rua 8 Chácara 185, Setor Habitacional Vicente Pires,50,2,1,1
+235.000,QNL 17 Bloco C, Taguatinga Norte,64,2,1,2
+210.000,BR 070 Km 18 Gleba, Ceilandia Centro,500,3,3,3
+182.000,QR 604 Conjunto 11, Samambaia Norte,140,2,2,1
+600.000,QE 44 Conjunto D1, Guara II,130,4,3,4
+149.000,Recanto das Emas, Brasília,68,2,3,1
+695.000,Asa Sul, Brasília,81,3,,2
+360.000,Setor Habitacional Arniqueira, Brasília,130,2,2,2
+201.500,Samambaia Sul, Brasília,61,2,1,2
+890.000,Setor Habitacional Arniqueira, Brasília,230,3,2,4
+550.000,Quadra 208, Sul,62,2,2,2
+880.000,Setor Habitacional Samambaia, Brasília,260,4,5,7
 356.000,Via 8, Setor Sul,78 - 341 m²,3 - 4,1 - 4,2 - 5
 122.000,Avenida Ferroviária E, Setor Nordeste,40 - 52 m²,2,1,1
 consulta,Avenida Ferroviária E, Setor Nordeste,46 - 111 m²,2,1,1
-290.000,Taguatinga Norte, Brasília,51,2,1,2
-1.150.000,Condomínio RK, Regiao dos Lagos,450,4,4,4
-900.000,CA 11, Lago Norte,78,3,2,3
-180.000,Quadra 104 Conjunto 6, Recanto das Emas,150,3,,2
-320.000,Quadra 801 Conjunto 1, Recanto das Emas,200,3,3,3
-349.000,Setor Habitacional Arniqueira, Brasília,200,4,4,2
-270.000,SRTVS, Asa Sul,33,,,1
-389.000,Sul, Brasília,52,2,1,2
-235.000,QNL 17 Bloco C, Taguatinga Norte,64,2,1,2
-185.000,Samambaia Sul, Brasília,100,3,2,1
-309.999,QNL 13 Bloco C, Taguatinga Norte,69,3,1,2
-650.000,Sul, Brasília,91,3,2,4
-890.000,Chácara 67, Setor Habitacional Vicente Pires Trecho 3,250,4,4,5
-330.000,Samambaia Norte, Brasília,150,2,2,1
-400.000,Samambaia Norte, Brasília,120,5,2,4
+485.000,Condomínio RK, Regiao dos Lagos,500,,,
+214.000,SHN Quadra 5 Bloco B, Asa Norte,33,1,,1
+195.000,Guara II, Brasília,110,2,,3
+340.000,Quadra 101 Conjunto 3, Samambaia Sul,67,3,1,2
 255.000,Ceilandia Sul, Brasília,58,2,1,2
-140.000,C, Taguatinga Centro,26,,,1
-275.000,Setor Industrial, Brasília,52,2,1,2
-410.000,Taguatinga Sul, Brasília,230,3,2,2
-195.000,Quadra 28 Conjunto J, Paranoá,80,3,5,2
-260.000,Taguatinga Norte, Brasília,145,3,2,1
+700.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,180,3,2,4
+420.000,Guara I, Brasília,70,2,1,2
+265.000,Rua 70, Centro,159,2,2,3
+450.000,QNL 10 Bloco H, Taguatinga Norte,120,3,4,4
+112.000,CLN 410, Asa Norte,17,,,1
+1.100.000,Granja do Torto, Granja do Torto,327,3,1,6
+330.000,Taguatinga Norte, Brasília,100,2,1,2
+129.000,QN 1 Conjunto 1, Riacho Fundo I,50,2,,1
+290.000,Quadra 107 Rua E, Aguas Claras,60,2,1,1
+700.000,Setor Habitacional Vicente Pires, Brasília,400000,3,,2
+490.000,Ceilandia Norte, Brasília,113,3,2,2
+35.000,SBS Quadra 2, Asa Sul,1,,1,
+240.000,QR 501, Samambaia Sul,59,2,1,2
+690.000,Taguatinga Sul, Brasília,220,3,3,3
+215.000,QS 408, Samambaia Norte,50,2,1,1
+249.994,Ceilandia Sul, Brasília,58,2,1,2
 149.766,, Alexânia,1000,,,
 133.402,, Abadiânia,500 - 3000 m²,,,
 215.000,Rua I 05, Residencial Ipanema,360 - 490 m²,,,
-655.000,Quadra 206, Aguas Claras,90,2,2,1
-500.000,Gama, Brasília,240,4,,1
-2.600.000,SHIS QI 27 Conjunto 17, Setor de Habitacoes Individuais Sul,550,4,5,8
-345.000,SCRN 712/713 Bloco C, Asa Norte,47,2,,1
-300.000,Ceilandia Norte, Brasília,250,3,2,3
-320.000,QNO 1 Conjunto G, Ceilandia Norte,160,2,1,3
-410.000,Guara II, Brasília,90,3,2,2
-740.000,Rua Refazenda, Ponte Alta Norte,850,4,3,7
-360.000,Setor Habitacional Arniqueira, Brasília,130,2,2,2
-105.000,QNN 34 Área Especial A, Ceilandia Sul,57,2,1,2
-330.000,Riacho Fundo I, Brasília,120,3,2,2
-670.000,Riacho Fundo I, Brasília,300,4,4,4
-550.000,Setor Habitacional Vicente Pires, Brasília,150,3,,4
-220.000,QNL 2 Bloco D, Taguatinga,65,2,2,2
-180.000,Recanto das Emas, Brasília,150,3,,2
-203.900,Samambaia, Brasília,61,2,1,2
-180.000,Vicente Pires, Brasília,60,2,1,2
-360.000,C 6, Taguatinga Centro,74,2,1,1
-690.000,Rodovia DF-440, Nova Colina,500,5,4,5
-220.000,Taguatinga Norte, Brasília,76,2,1,2
-450.000,Avenida Flamboyant, Aguas Claras,92,3,1,2
+280.000,Setor Habitacional Vicente Pires, Brasília,64,2,1,2
+960.000,Sul, Brasília,112,3,2,3
+147.884,QS 629 Conjunto C, Samambaia Norte,43,2,,
+330.000,Quadra AC 419 Conjunto E, Santa Maria,120,3,2,1
+239.994,Samambaia Sul, Brasília,55,2,1,2
+520.000,Rua 36, Norte,92,3,2,2
+234.900,QNM 29, Ceilandia Sul,44,2,1,1
+850.000,Taguatinga Norte, Brasília,250,3,2,3
+790.000,Setor Habitacional Arniqueira, Brasília,230,3,2,3
+580.000,Rodovia DF-150, Grande Colorado,220,3,2,4
+420.000,Riacho Fundo I, Brasília,80,2,1,2
+590.000,Rua 35, Aguas Claras,90,3,1,3
+380.000,QN 7A, Riacho Fundo II,200,3,3,1
+380.000,Ceilandia Norte, Brasília,194,3,3,2
+150.000,Del Lago II, Brasília,210,2,1,2
+549.000,Área Especial, Guara II,62,2,1,2
+415.000,Ceilandia Norte, Brasília,80,3,2,2
+740.000,Setor Habitacional Vicente Pires, Brasília,260,3,6,3
+240.000,SRTVS, Asa Sul,31,,1,1
+250.000,Rodovia DF-280, Recanto das Emas,200,5,10,4
+450.000,Quadra 1 Conjunto I, Setor Norte,180,4,2,2
 730.000,Avenida Augusto César Miranda Alencar, Jundiai,138,3 - 4,3 - 4,3 - 4
 615.000,Rua Manelico Crispim, Jundiai,158,3,2,4
 1.640.000,Avenida Maranhão, Jundiai,235,4,4,5
-400.000,Riacho Fundo I, Brasília,69,2,1,2
-16.000.000,Asa Norte, Brasília,1,1,1,1
-650.000,Setor Habitacional Arniqueira, Brasília,400,3,4,3
-70.000,QS 303 Conjunto 6, Samambaia Sul,57,2,1,2
-390.000,Ceilandia Sul, Brasília,144,5,3,3
-550.000,Guara II, Brasília,260,3,2,3
-300.000,Samambaia Sul, Brasília,90,3,2,2
-900.000,QS 16 Conjunto 1, Riacho Fundo I,560,2,,4
-320.000,Vila Sao Jose, Brasília,220,5,2,2
-180.000,Setor Habitacional Vicente Pires, Brasília,55,2,1,2
-350.000,Samambaia Norte, Brasília,110,3,2,1
-199.000,Taguatinga Norte, Brasília,83,2,2,1
-309.000,QNP 5 Conjunto J, Ceilandia Norte,185,3,4,2
-260.000,QR 208, Samambaia Norte,150,2,2,1
-250.000,Samambaia Norte, Brasília,50,2,1,2
-649.900,Quadra 201, Aguas Claras,110,3,2,3
-424.326,Rua 31, Sul,55,2,1,2
-319.999,QNN 17 Conjunto G, Ceilandia Norte,250,3,3,2
-700.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,180,3,2,4
-125.000,Asa Norte, Brasília,29,,,2
-190.000,Taguatinga Norte, Brasília,70,2,1,2
+110.000,SGAS 902, Asa Sul,360,,,
+980.000,Condomínio Morada de Deus, Setor Habitacional Jardim Botânico,450,4,6,6
+600.000,Quadra 8 Conjunto 2, Paranoá,200,,,
+300.000,QR 209 Conjunto 2, Samambaia Norte,160,3,2,2
+199.900,Taguatinga, Brasília,55,2,1,1
+165.000,CLN 204 Bloco D, Asa Norte,26,,,
+230.000,QS 501 Conjunto 3, Samambaia Sul,59,2,1,2
+550.000,Taguatinga Norte, Brasília,200,3,2,3
+210.000,Guara II, Brasília,58,2,,1
+1.150.000,Setor Habitacional Jardim Botânico, Brasília,300,4,2,4
+600.000,Rua 8 Chácara 331, Vicente Pires,180,3,4,3
+470.000,Rua 8 Chácara 230A, Setor Habitacional Vicente Pires,90,2,1,2
+680.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,220,3,2,3
+750.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,900,4,5,5
+490.000,SHA Conjunto 5 Chácara 19, Setor Habitacional Arniqueira,300,3,6,3
+45.000,Rodovia DF-180, Ceilandia Norte,250,,,
+220.000,Samambaia Norte, Brasília,110,2,2,1
+850.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,269,4,6,5
+185.000,Taguatinga, Brasília,60,2,,2
+270.000,Setor Industrial, Brasília,53,2,1,2
+310.000,Setor Industrial, Brasília,60,2,1,2
 161.600,Avenida Planalto, Vila Jaiara Setor Norte,40,2,,1
 168.900,Avenida Planalto, Vila Jayara,40,2,1,1
 266.500,Avenida Armando de Godoy, Setor Negrão de Lima,64 - 90 m²,2 - 3,1 - 2,2 - 3
-3.299.484,SQNW 111 Bloco G, Setor Noroeste,292,4,4,4
-299.000,Asa Norte, Brasília,34,,,1
-500.000,Gama, Brasília,240,4,,1
-370.000,Ceilandia Norte, Brasília,140,4,2,3
-128.000,QNO 12 Área Especial B, Ceilandia Norte,54,2,1,2
-200.000,Setor Habitacional Arniqueira, Brasília,200,3,3,2
-250.000,Rodovia DF-280, Recanto das Emas,200,5,10,4
-315.000,Ceilandia Norte, Brasília,250,3,2,2
-750.000,Setor Habitacional Vicente Pires, Brasília,200,6,4,4
-410.000,SMLN MI Trecho 07 Conjunto 3, Lago Norte,180,3,4,2
-380.000,QN 7A, Riacho Fundo II,200,3,3,1
-330.000,QS 6 Conjunto 610B, Areal,160,5,2,4
-130.000,Recanto das Emas, Brasília,90,3,5,2
-450.000,QNM 5 Conjunto H, Ceilandia Sul,250,4,6,3
-780.000,Setor Habitacional Arniqueira, Brasília,260,4,2,5
-317.000,Setor Industrial, Brasília,70,2,1,2
-225.000,Taguatinga Norte, Brasília,78,3,2,2
-510.000,Norte, Brasília,84,3,2,2
-267.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,82,3,1,2
-225.000,CSA, Taguatinga Sul,75,2,,2
-420.000,Setor de Habitacoes Individuais Sul, Brasília,56,2,1,1
+500.834,Área Especial 2 Módulo E, Guara II,56,2,2,2
+890.000,Rua 13, Norte,132,3,1,4
+1.350.000,Rua 4 Chácara 298, Vicente Pires,296,3,4,4
+850.000,Setor Habitacional Vicente Pires, Brasília,250,3,4,5
+290.000,QI 416 Conjunto 1, Samambaia Norte,59,2,1,2
+330.000,Quadra 204 Conjunto 2, Recanto das Emas,197,3,4,2
+1.800.000,Rodovia DF-150, Grande Colorado,800,5,4,7
+270.000,Área Especial Setor C Norte, Taguatinga Norte,27,,,1
+309.999,QNL 13 Bloco C, Taguatinga Norte,69,3,1,2
+243.000,Taguatinga Norte, Brasília,58,3,2,1
+145.000,QR 605 Conjunto 3, Samambaia Norte,80,2,4,2
+130.000,SIA Quadra 5-C, Zona Industrial,40,,,1
+1.300.000,Setor Habitacional Vicente Pires, Brasília,800,4,5,5
+170.000,Rodovia DF-150, Grande Colorado,75,2,,1
+320.000,Ceilandia Sul, Brasília,144,4,3,3
+380.000,Samambaia Norte, Brasília,176,4,3,3
+350.000,Ceilandia Sul, Brasília,100,3,4,2
+850.000,Vila Sao Jose, Brasília,320,3,3,4
+520.000,Asa Sul, Brasília,55,2,,1
+50.000,Setor Habitacional Sol Nascente, Setor Habitacional Sol Nascente,100,2,2,1
+310.000,Rua 37, Aguas Claras,50,1,1,1
 consulta,Rua 260, Setor Leste Universitário,57 - 94 m²,2 - 3,,2 - 3
 consulta,Avenida Olinda, Park Lozândes,329,3,3 - 5,3
 consulta,Avenida Olinda, Park Lozândes,268,3 - 4,2 - 3,3 - 4
-1.259.996,Taguatinga Norte, Brasília,260,3,6,4
-4.500.000,SHIN QI 6, Setor de Habitações Individuais Norte,780,5,4,9
-1.100.000,Nova Colina, Brasília,600,4,3,3
-180.000,QS 303 Conjunto 7, Samambaia Sul,44,2,1,1
-280.000,Condomínio Mini Chácaras do Lago Sul, Setor Habitacional Jardim Botânico,600,1,,1
-360.000,Samambaia Norte, Brasília,200,2,5,2
-195.000,C 3, Taguatinga Centro,55,2,1,1
-275.000,Setor Habitacional Arniqueira, Brasília,160,2,4,1
-960.000,Setor Habitacional Vicente Pires, Brasília,245,3,2,4
-260.000,Setor Habitacional Vicente Pires, Brasília,80,3,1,2
-280.000,SHN Quadra 1, Asa Norte,27,,1,
-148.900,Avenida Monumental, Santa Maria,60,2,1,1
-235.000,QNQ 2 Conjunto 18, Ceilandia Norte,120,3,2,2
-700.000,QNL 3, Taguatinga Norte,240,3,5,3
-80.000,Asa Norte, Brasília,25,,,1
-270.000,Setor Industrial, Brasília,53,2,1,2
-370.000,QR 212 Conjunto 16, Samambaia Norte,120,4,3,3
-170.000,Samambaia Sul, Brasília,47,2,1,2
-470.000,Quadra QC 1 Rua H, Setor Habitacional Jardim Botânico,70,3,2,3
-369.900,QNN 6 Conjunto C, Ceilandia Sul,142,3,2,1
-350.000,Ceilandia Norte, Brasília,250,4,2,1
+5.500.000,SHIS QI 9, Setor de Habitacoes Individuais Sul,974,7,14,8
+680.000,Setor Habitacional Vicente Pires, Brasília,178,3,1,4
+980.000,Rua 4 Chácara 34, Vicente Pires,280,3,3,2
+270.000,Ceilandia Norte, Brasília,140,5,2,3
+270.000,QR 115 Conjunto 13, Samambaia Sul,120,4,2,2
+370.000,Ceilandia Norte, Brasília,140,4,2,3
+350.000,Samambaia Norte, Brasília,110,3,2,1
+650.000,CA 5, Setor de Habitações Individuais Norte,69,2,1,2
+260.000,Setor Habitacional Vicente Pires, Brasília,95,3,4,2
+330.000,Riacho Fundo I, Brasília,120,3,2,2
+474.707,Rua das Carnaúbas, Aguas Claras,68,2,2,2
+230.000,QNO 12 Área Especial C, Ceilandia Norte,58,2,1,2
+275.000,Samambaia Sul, Brasília,57,2,1,2
+390.000,QNL 3 Conjunto J, Taguatinga Norte,200,3,4,2
+230.000,QNP 15 Conjunto T, Ceilandia Norte,102,3,2,1
+535.000,QNM 38 Conjunto B2, Taguatinga Norte,192,4,2,4
+219.000,SHN Quadra, Asa Norte,40,1,,1
+460.000,Riacho Fundo II, Brasília,120,3,,1
+349.994,Ceilandia Norte, Brasília,56,2,1,2
+790.000,Setor Habitacional Arniqueira, Brasília,223,2,2,3
+250.000,QR 519, Samambaia Sul,160,5,2,3
 1.205.000,Rua 70, Jardim Goiás,171,3 - 4,,3 - 4
 consulta,Rua 14, Jardim Goiás,117 - 507 m²,3 - 4,3 - 6,4 - 5
 1.160.000,Rua 12, Setor Oeste,185 - 221 m²,3,1,1 - 4
-415.000,Vicente Pires, Brasília,102,3,1,2
-280.000,Setor Habitacional Vicente Pires, Brasília,64,2,1,2
-650.000,Ceilandia Sul, Brasília,250,6,3,5
-950.000,Setor Habitacional Vicente Pires, Brasília,280,3,4,5
-460.000,Sul, Brasília,74,2,2,2
-299.000,Quadra 802 Conjunto 1, Recanto das Emas,125,3,2,3
-140.000,Quadra 20 Conjunto K, Paranoá,80,3,2,2
-435.000,"Rodovia DF-240, Km 86 - Rodovia Taguatinga/Brazlândia Chácara, Taguatinga Norte",,200,3,3,2
-580.000,Setor Habitacional Arniqueira, Brasília,200,4,5,4
-220.000,Samambaia Sul, Brasília,59,2,1,2
-308.000,QI 12, Setor Industrial,58,2,1,2
-285.000,Setor Habitacional Vicente Pires, Brasília,63,2,1,2
-335.000,QNM 12, Ceilandia Norte,65,2,1,2
-305.000,QNO 12, Ceilandia Norte,61,2,1,2
-430.000,Sul, Brasília,57,2,1,2
-549.999,QNO 4 Conjunto F, Ceilandia Norte,145,4,3,3
-240.000,QN 614 Conjunto D, Samambaia Norte,54,2,1,2
-260.000,Ceilandia Sul, Brasília,250,2,2,3
-680.000,Setor Habitacional Vicente Pires, Brasília,180,3,3,3
-750.000,Setor Habitacional Vicente Pires, Brasília,230,3,4,4
-1.200.000,Quadra 104, Norte,142,3,2,3
+530.000,Norte, Brasília,84,3,2,2
+1.350.000,Setor Habitacional Vicente Pires, Brasília,150,3,4,2
+1.350.000,Rua 4 Chácara 298, Vicente Pires,296,3,4,4
+160.000,SIA Quadra 5-C, Zona Industrial,58,,,2
+250.000,CLN 316 Bloco D, Asa Norte,33,,,1
+250.000,Quadra 302 Conjunto 12, Samambaia Sul,67,3,1,2
+420.000,Setor de Habitacoes Individuais Sul, Brasília,56,2,1,1
+250.000,QI 24, Setor Industrial,52,2,1,2
+180.000,QNP 5 Conjunto L, Ceilandia Norte,90,2,2,1
+270.000,Samambaia Sul, Brasília,390,4,2,4
+240.000,Samambaia Sul, Brasília,50,2,1,2
+280.000,CNB 14, Taguatinga Norte,58,2,1,2
+230.000,QR 303 Conjunto H, Santa Maria,150,3,2,2
+245.000,SHN Quadra 4, Asa Norte,27,1,,1
+320.000,QNO 1 Conjunto G, Ceilandia Norte,160,2,1,3
+320.000,Ceilandia Sul, Brasília,220,4,2,2
+850.000,Setor Habitacional Vicente Pires, Brasília,260,4,5,3
+180.000,Rua 62-A, Centro,70,3,1,3
+220.000,Taguatinga Norte, Brasília,76,2,1,2
+310.000,SHPS Quadra 206 Conjunto B, Setor Habitacional Por do Sol,330,3,3,2
+225.000,Taguatinga Norte, Brasília,78,3,2,2
 285.500,Rua 25 A, Setor Aeroporto,58 - 79 m²,2 - 3,1 - 2,2
 377.345,Rua 28 A, Setor Aeroporto,64,2 - 3,1 - 2,1 - 3
 307.500,Rua 12 A, Setor Aeroporto,60 - 80 m²,2 - 3,1,1 - 2
-1.280.000,Asa Sul, Brasília,160,4,1,3
-500.000,Sul, Brasília,75,2,1,2
-230.000,SHN Quadra 5, Asa Norte,37,1,,1
-380.000,Samambaia Norte, Brasília,130,4,2,3
-420.000,QS 6 Conjunto 240A, Areal,202,3,3,2
-330.000,QI 6 Bloco T, Guara I,68,2,1,2
-790.000,Condomínio Ecológico Parque do Mirante, Setor Habitacional Jardim Botânico,350,4,4,4
-179.900,QNO 19 Conjunto 7, Ceilandia Norte,143,2,4,1
-350.000,Ceilandia Sul, Brasília,100,3,4,2
-350.000,QR 205 Conjunto 3, Samambaia Norte,202,3,2,3
-210.000,QS 412, Samambaia Norte,62,2,1,2
-230.000,Quadra 14, Gama,144,3,1,2
-190.000,SRTVN, Asa Norte,30,,,1
-890.000,SOPI Conjunto C, Núcleo Bandeirante,320,4,3,4
-340.000,Taguatinga Norte, Brasília,179,4,2,3
-879.000,QE 28, Guara II,290,5,4,4
-270.000,QR 115 Conjunto 13, Samambaia Sul,120,4,2,2
-440.000,Guara II, Brasília,135,3,2,2
+350.000,Riacho Fundo I, Brasília,200,3,2,3
+890.000,Condomínio Quintas do Trevo, Setor Habitacional Jardim Botânico,300,3,2,4
+485.000,Condomínio RK, Regiao dos Lagos,500,,,
+1.095.000,Setor Habitacional Vicente Pires, Brasília,380,3,2,4
+588.000,Rua 25, Norte,85,2,2,3
+260.000,SHPS Quadra 103 Conjunto A, Setor Habitacional Por do Sol,300,3,5,3
+280.000,Setor Habitacional Vicente Pires, Brasília,64,2,1,2
+550.000,Taguatinga Norte, Brasília,150,3,4,3
+280.000,Rua 7, Norte,41,1,1,1
+199.900,Samambaia Sul, Brasília,50,2,1,2
 400.000,Taguatinga Norte, Brasília,214,3,3,3
-190.000,QS 6 Conjunto 2, Riacho Fundo II,112,3,2,1
-275.000,Setor Habitacional Vicente Pires, Brasília,57,3,1,2
+235.000,QNO 15 Conjunto B, Ceilandia Norte,144,2,3,2
+245.000,STRC Trecho 1, Zona Industrial,145,3,4,2
+327.994,Recanto das Emas, Brasília,87,3,5,3
+499.000,Samambaia Norte, Brasília,300,3,5,3
+700.000,Rua Buriti, Aguas Claras,83,3,1,3
+180.000,QR 513 Conjunto 8, Samambaia Sul,70,3,5,1
+650.000,Condomínio RK, Regiao dos Lagos,270,3,4,4
+360.000,Residencial Itaipu Quadra 40, Residencial Itaipu,200,3,3,3
+130.000,Recanto das Emas, Brasília,90,3,5,2
+485.000,Quadra 101, Norte,64,2,1,2
 368.000,Rua Fortaleza, Alto da Glória,58,2,1,1
 1.028.256,Rua 135, Setor Marista,170 - 199 m²,3 - 4,1,1
 3.375.000,Rua 9, Setor Oeste,445,4,4,4
-1.100.000,Nova Colina, Brasília,600,4,3,3
-580.000,Setor Habitacional Vicente Pires, Brasília,210,3,4,3
-980.000,Rua 4 Chácara 34, Vicente Pires,280,3,3,2
-169.900,QNP 23 Conjunto E, Ceilandia Norte,80,2,2,1
-320.000,Brazlândia, Brasília,220,3,12,3
-418.000,Norte, Brasília,60,2,1,2
-250.000,QMS 22, Setor de Mansões de Sobradinho,250,3,5,2
-90.000,SCS Quadra 1, Asa Sul,25,,,
-290.000,QI 416 Conjunto 1, Samambaia Norte,59,2,1,2
-196.000,Taguatinga Norte, Brasília,63,2,1,1
-245.000,STRC Trecho 1, Zona Industrial,145,3,4,2
-1.750.000,Condomínio Ville Montagne, Setor Habitacional Jardim Botânico,350,4,5,5
-310.000,QR 402, Samambaia Norte,193,3,3,1
-428.000,Rua 31, Sul,55,2,1,2
-389.996,Ceilandia Norte, Brasília,144,3,4,3
-250.000,QI 24, Setor Industrial,52,2,1,2
-520.000,Lago Sul, Brasília,380,4,4,5
-1.850.000,Rua 1 Chácara 25/4, Setor Habitacional Vicente Pires,370,4,4,5
-230.000,QNP 15 Conjunto J, Ceilandia Norte,135,2,2,2
-250.000,QI, Setor Industrial,52,2,1,1
-260.000,CCSW 1 Lote 1 Bloco 2, Setor Sudoeste,27,1,1,1
+305.000,Setor Habitacional Vicente Pires, Brasília,82,3,1,1
+259.000,Vicente Pires, Brasília,56,2,1,1
+285.000,Setor Habitacional Vicente Pires, Brasília,52,2,1,1
+170.000,QR 421 Conjunto 17, Samambaia Norte,126,3,2,2
+1.100.000,Setor Habitacional Arniqueira, Brasília,300,4,4,6
+300.000,Samambaia Sul, Brasília,90,3,2,2
+750.000,Setor Habitacional Vicente Pires, Brasília,280,3,2,4
+380.000,Guara II, Brasília,120,3,2,2
+240.000,Setor Habitacional Vicente Pires, Brasília,74,3,,2
+258.000,Quadra 1, Setor Industrial,68,3,1,2
+1.050.000,Setor Habitacional Vicente Pires, Brasília,280,4,2,4
+1.380.000,Condomínio Estância Jardim Botânico, Setor Habitacional Jardim Botânico,500,5,2,4
+380.000,Itapoã I, Brasília,300,7,5,5
+440.000,Guara II, Brasília,135,3,2,2
+300.000,Quadra 58 Conjunto J, Vila Sao Jose,300,4,2,3
+520.000,Taguatinga Norte, Brasília,200,3,4,3
+280.000,Samambaia Sul, Brasília,90,3,2,2
+240.000,Ceilandia Sul, Brasília,58,2,1,2
+965.000,Rua 12 Chácara 147, Setor Habitacional Vicente Pires,250,4,4,4
+195.000,EQS 414/415, Asa Sul,45,2,1,1
+195.000,Quadra 300 Conjunto 1, Recanto das Emas,100,2,4,1
 415.000,Rua R 7, Setor Oeste,66 - 68 m²,2,2,2 - 3
 345.000,Rua 7, Setor Oeste,34 - 76 m²,1 - 2,1,1
 670.000,Rua 143, Setor Marista,115,3,1,1
-1.350.000,Rua 4 Chácara 298, Vicente Pires,296,3,4,4
-1.280.000,Asa Sul, Brasília,160,4,1,3
-745.000,QND 41, Taguatinga Norte,350,3,3,3
-260.000,CCSW 1 Lote 1 Bloco 2, Setor Sudoeste,27,1,1,1
-230.000,Área Rural, Lago Norte,600,2,,
-429.000,Avenida Parque Águas Claras Quadra 301 Conjunto 08, Norte,67,2,2,1
-235.000,Quadra 803 Conjunto 32, Recanto das Emas,170,2,4,1
-500.000,Rua 22, Aguas Claras,70,2,1,2
-980.000,Setor Habitacional Vicente Pires, Brasília,250,3,4,5
-305.000,Ceilandia Sul, Brasília,150,5,2,4
-400.000,Quadra 10 Conjunto H, Setor Sul,312,4,5,3
-296.209,Quadra 302 Conjunto 12, Samambaia Sul,60,2,1,2
-260.000,Ceilandia Norte, Brasília,47,2,1,2
-280.000,Samambaia Sul, Brasília,90,3,2,2
-320.000,Taguatinga Norte, Brasília,60,2,1,2
-280.000,Taguatinga Norte, Brasília,85,2,2,1
-499.999,Quadra 201, Aguas Claras,83,3,1,2
-279.000,Areal, Brasília,59,3,2,2
-545.000,Quadra 18 Conjunto C, Sobradinho,169,4,,3
-335.000,QR 316 Conjunto 10, Samambaia Sul,225,2,6,1
-429.900,Sul, Brasília,52,2,1,2
+1.300.000,Vicente Pires, Brasília,290,3,4,5
+1.050.000,Setor Habitacional Vicente Pires, Brasília,400,3,2,4
+890.000,Rua 13, Norte,132,3,1,4
+418.320,Rua 31, Sul,58,2,1,2
+220.000,SEPS 705/905, Asa Sul,22,,1,1
+350.000,Samambaia Sul, Brasília,150,3,3,3
+499.900,Norte, Brasília,74,2,1,3
+440.000,Rua 8, Sul,60,2,1,2
+1.300.000,Rua 12 Chácara 306, Setor Habitacional Vicente Pires,470,3,4,5
+170.000,Setor Habitacional Vicente Pires, Brasília,48,2,,2
+255.000,Ceilandia Norte, Brasília,100,3,3,2
+190.000,QS 6 Conjunto 2, Riacho Fundo II,112,3,2,1
+290.000,Ceilandia Norte, Brasília,90,3,2,1
+289.990,Samambaia, Brasília,59,2,1,2
+350.000,Quadra 4 Conjunto 7, Vila Estrutural,192,4,6,2
+295.000,Rua 4 Chácara 294, Setor Habitacional Vicente Pires,73,2,1,2
+300.000,Ceilandia Norte, Brasília,250,3,2,3
+295.000,QI, Setor Industrial,53,2,2,2
+1.050.000,Setor Habitacional Jardim Botânico, Brasília,450,6,5,7
+740.000,Rua Refazenda, Ponte Alta Norte,850,4,3,7
+1.310.000,Condomínio RK, Sobradinho,350,4,3,6
 1.500.000,Rua Amélia Artiaga Jardim, Setor Marista,265,4,4,4 - 5
 777.246,Rua Amélia Artiaga Jardim, Setor Marista,116,2 - 3,1 - 2,1 - 3
 1.048.000,Rua 146, Setor Marista,160 - 175 m²,3 - 4,2 - 3,6
-389.000,Rua Copaíba, Aguas Claras,44,1,1,1
-4.000.000,EQS 414/415, Lago Sul,312,5,3,1
-290.000,Taguatinga Norte, Brasília,51,2,1,2
-480.000,Setor Habitacional Arniqueira, Brasília,214,3,10,2
-421.000,QNM 40 Conjunto C, Taguatinga,220,4,2,3
-216.000,Quadra 301, Samambaia Sul,49,2,1,2
-189.996,Taguatinga Norte, Brasília,65,2,1,1
-570.000,Rua 16, Aguas Claras,76,3,1,2
-170.000,SRTVS, Asa Sul,31,,,1
-230.000,QNN 27 Módulo C, Ceilandia Norte,51,2,1,1
-212.996,Ceilandia Norte, Brasília,58,2,1,2
-650.000,CA 5, Setor de Habitações Individuais Norte,69,2,1,2
-790.000,Setor Habitacional Arniqueira, Brasília,316,4,6,4
-240.000,QR 501, Samambaia Sul,59,2,1,2
-145.000,Setor Habitacional Vicente Pires, Brasília,62,2,1,1
-150.000,Riacho Fundo II, Brasília,90,2,2,1
-99.000,SIA Quadra 5-C, Zona Industrial,29,,,1
-440.000,Sul, Brasília,52,2,1,2
-480.000,SHA Conjunto 5 Chácara 114, Setor Habitacional Arniqueira,130,2,4,2
-680.000,Guara II, Brasília,180,3,2,3
+1.500.000,Setor Habitacional Vicente Pires, Brasília,400,4,4,5
+1.300.000,Vicente Pires, Brasília,290,3,4,5
+620.000,Sul, Brasília,73,2,1,2
+318.000,Taguatinga Norte, Brasília,90,3,2,2
+270.000,SRTVS, Asa Sul,33,,,1
+315.000,Ceilandia Norte, Brasília,250,3,2,2
+405.000,QI 3 Bloco E, Guara I,70,2,2,2
+245.000,Avenida Eucalipto Quadra 204 Conjunto 1, Recanto das Emas,95,2,2,1
+520.000,Condomínio Colina Nova Diguinea, Sobradinho,234,3,3,3
+250.000,Samambaia Norte, Brasília,50,2,1,2
+550.000,SHA Conjunto 3 Chácara 49A, Aguas Claras,350,3,4,3
+212.994,Ceilandia Norte, Brasília,58,2,1,2
+880.000,SQS 402 Bloco N, Asa Sul,104,3,,3
+360.000,Ceilandia Sul, Brasília,250,4,2,2
 315.000,Samambaia Sul, Brasília,116,3,3,3
+399.900,Ceilândia, Brasília,150,3,2,2
+380.000,Riacho Fundo I, Brasília,140,3,2,2
+599.000,Condomínio Belvedere Green, Setor Habitacional Jardim Botânico,400,3,4,4
+698.000,Norte, Brasília,109,3,2,3
+210.000,Avenida Eucalipto Quadra 406, Recanto das Emas,53,2,1,2
+740.000,Rua 3 Chácara 45, Vicente Pires,230,3,5,4
 consulta,Rua 146, Setor Marista,66 - 130 m²,2 - 3,1 - 4,2 - 3
 580.000,Rua 146, Setor Marista,95,3,2,4
 2.000.000,Rua 146, Setor Marista,267 - 504 m²,4 - 5,1,1 - 2
-1.200.000,Setor Habitacional Vicente Pires, Brasília,306,3,4,6
-1.350.000,Setor Habitacional Vicente Pires, Brasília,270,3,4,4
-420.000,Guara I, Brasília,70,2,1,2
-219.000,Samambaia Norte, Brasília,200,2,2,2
-470.000,Rua 8 Chácara 230A, Setor Habitacional Vicente Pires,90,2,1,2
-328.000,Samambaia Sul, Brasília,71,3,2,2
-250.000,Areal, Brasília,150,2,3,2
-430.000,Aguas Claras, Brasília,53,2,2,2
-290.000,Riacho Fundo I, Brasília,130,2,2,1
-230.000,Setor SAGOCA, Taguatinga Norte,48,2,1,1
-145.000,QI 3, Setor Industrial,51,2,1,2
-650.000,Setor Habitacional Vicente Pires, Brasília,120,3,4,2
-990.000,Condomínio Jardim Botânico V, Setor Habitacional Jardim Botânico,450,4,4,5
-270.000,Ceilandia Norte, Brasília,140,5,2,3
-550.000,Rua 17, Aguas Claras,73,3,1,2
-240.000,QNP 34 Conjunto E, Ceilandia Sul,135,4,2,1
-230.000,Ceilandia Norte, Brasília,55,2,1,1
-962.492,SQNW 302 Bloco A, Setor Noroeste,64,2,2,2
-299.000,QNM 33 Área Especial H, Ceilandia Sul,60,2,1,2
-470.000,Jardins Mangueiral, Brasília,85,2,2,2
-200.000,Setor Oeste, Brasília,138,2,2,2
-consulta,Rua 146, Setor Marista,267 - 504 m²,4,,5 - 6
+1.850.000,SMPW Quadra 5 Conjunto 6, Setor Habitacional Arniqueira,450,4,4,5
+320.000,Sul, Brasília,63,1,1,1
+585.000,Norte, Brasília,79,3,1,2
+170.000,Setor Habitacional Vicente Pires, Brasília,48,2,,2
+150.000,Riacho Fundo II, Brasília,90,2,2,1
+160.000,QNP 22 Conjunto L, Ceilandia Sul,90,3,2,2
+228.994,Samambaia Sul, Brasília,59,2,1,2
+285.000,Ceilandia Norte, Brasília,110,3,3,2
+320.000,Quadra 3 Conjunto C, Sobradinho II,180,,,5
+400.000,Norte, Brasília,60,2,1,2
+870.000,Setor Habitacional Vicente Pires, Brasília,200,4,2,4
+560.000,SQN 404 Bloco A, Asa Norte,78,3,,2
+550.000,, Brasília,343,3,12,3
+550.000,Guara II, Brasília,260,3,2,3
+260.000,SHN Quadra 1, Asa Norte,27,,,
+1.050.000,Setor Habitacional Vicente Pires, Brasília,360,4,2,4
+360.000,QNO 7 Conjunto A, Ceilandia Norte,160,2,4,2
+510.000,QNL 1 Conjunto E, Taguatinga Norte,200,4,3,3
+400.000,SMAS Trecho 3 Lote 1, Setores Complementares,44,1,1,1
+410.000,SHN Quadra, Asa Norte,80,2,,2
+140.000,Condomínio Colorado Ville, Grande Colorado,65,2,,2
+2.000.000,Rua 146, Setor Marista,267 - 504 m²,4 - 5,1,1 - 2
 consulta,Rua João de Abreu, Setor Oeste,222 - 485 m²,3 - 4,2 - 4,3 - 5
 1.100.000,Rua João de Abreu, Setor Oeste,176,3 - 4,,3 - 4
-670.000,SHCES Quadra 305, Cruzeiro Novo,79,3,2,2
-980.000,Rua 4 Chácara 34, Vicente Pires,280,3,3,2
-1.259.996,Taguatinga Norte, Brasília,260,3,6,4
-200.000,Setor Oeste, Brasília,138,2,2,2
-450.000,QNO 5 Conjunto D, Ceilandia Norte,260,4,3,3
-360.000,QNO 7 Conjunto A, Ceilandia Norte,160,2,4,2
-190.000,Setor Habitacional Tororo, Brasília,800,1,2,1
-36.000,Ponte Alta Norte, Brasília,475,,,
-230.000,QS 501 Conjunto 3, Samambaia Sul,59,2,1,2
-359.996,Taguatinga Centro, Brasília,52,2,1,2
-697.600,QSE 4, Taguatinga,350,3,6,5
-180.000,Asa Sul, Brasília,27,,1,1
-790.000,Ponte Alta Norte, Brasília,365,4,4,4
-390.000,Rua Chiara, Ponte Alta Norte,480,3,2,2
-230.000,QNP 17 Conjunto A, Ceilandia Norte,80,3,3,3
-320.000,QE 38 Bloco D, Guara II,56,2,1,1
-270.000,Taguatinga Norte, Brasília,60,2,2,1
-45.000,Rodovia DF-180, Ceilandia Norte,250,,,
-175.000,SRTVN, Asa Norte,29,,1,1
-880.000,QE 21 Conjunto F, Guara II,200,5,5,3
-795.000,SMPW Quadra 4 Conjunto 8, Park Way,800,3,4,4
+450.000,Avenida Ponte Alta Norte, Ponte Alta Norte,250,3,4,2
+3.650.000,SHIS QI 28, Setor de Habitacoes Individuais Sul,600,4,4,6
+980.000,Condomínio Morada de Deus, Setor Habitacional Jardim Botânico,450,4,6,6
+230.000,Setor SAGOCA, Taguatinga Norte,48,2,1,1
+350.000,Quadra 103, Recanto das Emas,150,3,3,2
+560.000,Rua 19, Norte,74,1,2,1
+324.900,Guará, Brasília,55,2,,2
+480.000,SQN 216 Bloco G, Asa Norte,41,1,,1
+580.000,Setor Habitacional Vicente Pires, Brasília,210,3,4,3
+460.000,QSC 19, Taguatinga Sul,68,3,1,2
+480.000,QN 1 Conjunto 1, Riacho Fundo I,160,3,4,3
+280.000,Taguatinga Norte, Brasília,85,2,2,1
+350.000,Samambaia Sul, Brasília,289,4,4,4
+270.000,Rodovia DF-130 Km, Area Rural do Paranoa,4500,3,,1
+290.000,Quadra 107 Rua E, Aguas Claras,60,2,1,1
+235.000,QN 412, Samambaia Norte,51,2,1,2
+240.000,, Brasília,56,2,2,2
+290.000,Riacho Fundo I, Brasília,130,2,2,1
+1.295.000,Condomínio San Diego, Setor Habitacional Jardim Botânico,456,4,4,8
+245.000,Samambaia Sul, Brasília,58,2,1,2
+280.000,Recanto das Emas, Brasília,185,3,,3
 1.200.000,Rua 1128, Setor Marista,162,3 - 5,1,2
 1.439.900,Rua 13, Setor Castelo Branco,202 - 246 m²,3 - 4,,5 - 6
 consulta,Rua 22, Setor Oeste,88 - 219 m²,2 - 4,1,3 - 6
-500.834,Área Especial 2 Módulo E, Guara II,56,2,2,2
-1.450.000,SQNW 104 Bloco B, Setor Noroeste,109,3,2,4
-195.000,Guara II, Brasília,110,2,,3
-275.000,Samambaia Sul, Brasília,57,2,1,2
-550.000,Taguatinga Norte, Brasília,200,3,2,3
-240.000,Setor Habitacional Vicente Pires, Brasília,50,2,1,2
-799.996,Taguatinga Sul, Brasília,250,4,4,4
-255.000,QNL 16 Conjunto A, Taguatinga Norte,90,3,2,1
-550.000,Quadra 208, Sul,62,2,2,2
-289.990,Samambaia, Brasília,59,2,1,2
-495.000,Setor Oeste, Brasília,233,3,4,2
-310.000,Setor Industrial, Brasília,60,2,1,2
-880.000,Setor Habitacional Samambaia, Brasília,350,4,4,7
-330.000,Samambaia Norte, Brasília,105,3,2,2
-210.000,Avenida Eucalipto Quadra 406, Recanto das Emas,53,2,1,2
-880.000,Rua 3B Chácara 38, Setor Habitacional Vicente Pires,417,3,2,4
-262.996,Samambaia Sul, Brasília,56,2,1,2
-155.000,Rua 8 Chácara 185, Setor Habitacional Vicente Pires,50,2,1,1
-220.000,QNP 18 Conjunto B, Ceilandia Sul,130,2,2,1
-199.900,Taguatinga, Brasília,55,2,1,1
-450.000,Quadra 2 Conjunto 2, Lago Norte,2200,3,,
+1.200.000,Vicente Pires, Brasília,315,3,,5
+620.000,Sul, Brasília,73,2,1,2
+910.000,Setor Habitacional Arniqueira, Brasília,250,3,2,4
+480.000,Rodovia DF-150, Setor Habitacional Contagem,180,4,4,3
+260.000,Ceilandia Sul, Brasília,250,2,2,3
+230.000,Quadra 14, Gama,144,3,1,2
+750.000,Condomínio Ouro Vermelho II, Setor Habitacional Jardim Botânico,240,4,4,4
+1.400.000,SQNW 108 Bloco D, Setor Noroeste,128,3,2,3
+1.750.000,Condomínio Ville Montagne, Setor Habitacional Jardim Botânico,350,4,5,5
+269.000,Rua 4C Chácara 11, Setor Habitacional Vicente Pires Trecho 3,60,3,1,2
+85.000,QNB 18, Taguatinga,28,,,1
+319.999,QNN 17 Conjunto G, Ceilandia Norte,250,3,3,2
+350.000,QNN 27 Módulo C, Ceilandia Norte,69,3,2,1
+489.900,Guara II, Brasília,59,2,1,2
+330.000,Ceilandia Sul, Brasília,100,2,2,2
+750.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,300,3,2,3
+275.000,Setor Habitacional Vicente Pires, Brasília,90,3,,2
+1.050.000,Setor Habitacional Vicente Pires, Brasília,280,3,2,5
+400.000,Quadra 10 Conjunto H, Setor Sul,312,4,5,3
+280.000,Setor Habitacional Vicente Pires, Brasília,450,3,4,2
+370.000,QR 212 Conjunto 16, Samambaia Norte,120,4,3,3
 168.900,Rua RIT 3, Setor Perim,45,2,,1
 consulta,Avenida Portugal, Setor Oeste,185 - 221 m²,3 - 4,3 - 4,5 - 6
 2.470.259,Rua 38, Setor Marista,326 - 367 m²,3 - 4,4 - 5,3 - 5
-340.000,Avenida Comercial, Setor Habitacional Jardim Botânico,400,,,
+415.000,Vicente Pires, Brasília,102,3,1,2
+850.000,SIG Quadra 8, Zona Industrial,87,,,2
+2.600.000,SHIS QI 27 Conjunto 17, Setor de Habitacoes Individuais Sul,550,4,5,8
+199.000,CA 11, Lago Norte,25,,1,1
+250.000,QI, Setor Industrial,52,2,1,1
+120.000,Setor Habitacional Tororo, Brasília,86,,,
+200.000,Setor Habitacional Vicente Pires, Brasília,63,2,,1
+485.000,Taguatinga Norte, Brasília,160,3,3,2
+750.000,Rua das Aroeiras, Aguas Claras,92,3,2,3
+150.000,Rodovia DF-250, Regiao dos Lagos,150,,,
+395.000,Quadra 205 Conjunto 18, Recanto das Emas,160,2,2,2
+430.000,SHCGN 707 Bloco D, Asa Norte,42,2,,1
+245.000,QR 120 Conjunto 10, Samambaia Sul,53,2,1,1
+430.000,Aguas Claras, Brasília,53,2,2,2
+308.000,QI 12, Setor Industrial,58,2,1,2
+220.000,QNP 18 Conjunto B, Ceilandia Sul,130,2,2,1
+238.000,SHN Quadra 1 Bloco A, Asa Norte,27,,,1
+620.000,QI 2 Conjunto W, Guara I,199,3,2,2
+620.000,Quadra 208, Aguas Claras,74,2,1,2
+369.900,QNN 6 Conjunto C, Ceilandia Sul,142,3,2,1
 890.000,Rua 13, Norte,132,3,1,4
-3.349.996,Park Way , Brasília,800,4,4,6
-350.000,Samambaia Sul, Brasília,150,3,3,3
-210.000,Samambaia Norte, Brasília,140,2,2,1
-170.000,QR 421 Conjunto 17, Samambaia Norte,126,3,2,2
-550.000,Taguatinga Norte, Brasília,150,3,4,3
-250.000,QR 519, Samambaia Sul,160,5,2,3
-290.000,Paranoá, Brasília,4500,2,,1
-215.000,QN 12C Conjunto 2, Riacho Fundo II,100,2,4,1
-240.000,Samambaia Sul, Brasília,50,2,1,2
-220.000,QMS 5, Setor de Mansões de Sobradinho,120,4,5,1
-200.000,QNO 11 Conjunto O, Ceilandia Norte,120,3,3,1
-260.000,Samambaia Norte, Brasília,73,3,2,3
-1.300.000,Setor Habitacional Arniqueira, Brasília,340,4,2,6
-690.000,Taguatinga Sul, Brasília,220,3,3,3
-280.000,CCSW 4 Lote 2 Bloco B, Setor Sudoeste,33,1,,1
-265.000,QI 3, Setor Industrial,51,2,1,2
-130.000,SBS Quadra, Asa Sul,29,,,1
-500.000,SHA Conjunto 1 Chácara 15, Setor Habitacional Arniqueira,400,3,3,5
-189.000,Ceilandia Norte, Brasília,80,2,2,1
 871.475,Rua 38, Setor Marista,129,3,2,3
 605.000,Rua Mário Bittar, Setor Marista,100 - 135 m²,3 - 4,2,4
 1.746.997,Rua 1126, Setor Marista,245 - 287 m²,4,3,4
-1.300.000,Setor Habitacional Vicente Pires, Brasília,366,4,4,6
-850.000,Setor Habitacional Vicente Pires, Brasília,280,3,2,3
-1.350.000,Setor Habitacional Vicente Pires, Brasília,270,3,4,4
-315.000,Recanto das Emas, Brasília,100,4,3,3
-255.000,QN 412, Samambaia Norte,50,2,1,2
-720.000,Residencial Itaipu, Brasília,1000,3,,4
-750.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,120,2,5,1
-750.000,Ceilandia Sul, Brasília,600,5,4,5
-125.000,CLN 5 Bloco J, Riacho Fundo I,29,1,,1
-399.900,Ceilândia, Brasília,150,3,2,2
-439.000,QS 10 Conjunto 210C, Aguas Claras,227,5,3,3
-290.000,Taguatinga Norte, Brasília,62,2,1,1
-220.000,SRTVS, Asa Sul,30,,1,1
-199.900,Samambaia Sul, Brasília,50,2,1,2
-588.000,Rua 25, Norte,85,2,2,3
-230.000,Samambaia Sul, Brasília,100,3,3,2
-299.000,Ceilandia Norte, Brasília,200,7,3,4
-170.000,Rua das Paineiras, Norte,30,,,1
-290.000,Quadra 302, Samambaia Sul,53,2,1,1
-189.000,QS 18 Conjunto 4, Riacho Fundo II,83,2,1,1
-340.000,Quadra 101 Conjunto 3, Samambaia Sul,67,3,1,2
+195.000,Taguatinga Sul, Brasília,28,,,1
+280.000,Asa Norte, Brasília,35,1,1,1
+320.000,Sul, Brasília,63,1,1,1
+1.350.000,Asa Sul, Brasília,280,4,4,5
+430.000,Rua 4A, Setor Habitacional Vicente Pires,100,3,2,1
+295.000,SHN Quadra, Asa Norte,71,1,,1
+429.000,Avenida Parque Águas Claras Quadra 301 Conjunto 08, Norte,67,2,2,1
+195.000,Quadra 28 Conjunto J, Paranoá,80,3,5,2
+950.000,Nucleo Rural Santa Maria, Brasília,300,4,4,5
+175.000,QN 122 Conjunto 15, Samambaia,34,1,1,1
+288.000,SMAS Trecho 3 Lote 3, Setores Complementares,31,,1,1
+280.000,Setor Industrial, Brasília,62,2,1,1
+790.000,Ponte Alta Norte, Brasília,365,4,4,4
+200.000,Setor Habitacional Vicente Pires, Brasília,65,2,,2
+305.000,QNO 12, Ceilandia Norte,61,2,1,2
+320.000,Vale das Acacias, Brasília,270,5,3,4
+780.000,Taguatinga Norte, Brasília,270,4,4,1
+130.000,SBS Quadra, Asa Sul,29,,,1
+790.000,Condomínio Ouro Vermelho I, Setor Habitacional Jardim Botânico,200,4,4,5
+790.000,Condomínio Ecológico Parque do Mirante, Setor Habitacional Jardim Botânico,350,4,4,4
+210.000,CSG 3, Taguatinga Sul,37,1,1,1
 1.419.900,Rua T 53, Setor Bueno,204 - 262 m²,3 - 4,3 - 4,5 - 6
 666.062,Avenida Primeira Radial, Setor Pedro Ludovico,111,2 - 3,1 - 2,1 - 3
 693.221,Rua 1128, Setor Marista,116 - 149 m²,3,1,1
-4.500.000,SHIN QI 6, Setor de Habitações Individuais Norte,780,5,4,9
-349.996,Norte, Brasília,44,1,1,2
-3.299.484,SQNW 111 Bloco G, Setor Noroeste,292,4,4,4
-340.000,Quadra 101 Conjunto 3, Samambaia Sul,67,3,1,2
-480.000,SHA Conjunto 1 Chácara 1, Setor Habitacional Arniqueira,120,2,,1
-178.000,QS 411 Conjunto F, Samambaia Norte,45,2,1,1
-180.000,Samambaia Sul, Brasília,193,4,3,4
-220.000,Samambaia Norte, Brasília,110,2,2,1
-195.000,Rua 4A, Setor Habitacional Vicente Pires,47,2,1,1
-195.000,C 3, Taguatinga Centro,55,2,1,1
-350.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,108,2,4,1
-255.000,QNO 12 Área Especial C, Ceilandia Norte,60,2,1,1
-450.000,Setor Habitacional Jardim Botânico, Brasília,620,,,
-240.000,Ceilandia Sul, Brasília,58,2,1,2
-380.000,Samambaia Norte, Brasília,176,4,3,3
-200.000,Riacho Fundo I, Brasília,69,3,1,2
-368.000,C 6, Taguatinga Centro,74,2,1,2
-180.000,QR 513 Conjunto 8, Samambaia Sul,70,3,5,1
-310.000,Rua 37, Aguas Claras,50,1,1,1
+650.000,Ceilandia Sul, Brasília,250,6,3,5
+552.000,Sul, Brasília,69,3,1,2
+280.000,Asa Norte, Brasília,35,1,1,1
+459.000,Riacho Fundo I, Brasília,230,4,2,4
+99.000,SCS Quadra, Asa Sul,28,,,1
+249.994,Recanto das Emas, Brasília,150,3,3,2
+1.050.000,Condomínio RK, Regiao dos Lagos,493,4,4,6
+240.000,QNH Área Especial 3, Taguatinga Norte,50,2,1,1
+420.000,Taguatinga Norte, Brasília,220,5,4,3
+389.994,Ceilandia Norte, Brasília,144,3,4,3
+430.000,Taguatinga Norte, Brasília,200,4,3,3
+800.000,Setor Habitacional Arniqueira, Brasília,200,3,2,2
+997.000,Setor Habitacional Vicente Pires, Brasília,312,4,4,5
+475.000,QNM 40 Conjunto J, Taguatinga Norte,170,3,3,1
+249.000,CNB, Taguatinga Norte,70,3,1,1
+890.000,Setor Habitacional Arniqueira, Brasília,201,3,2,4
+230.000,QNP 30 Conjunto G, Ceilandia Sul,135,3,2,2
+1.100.000,Setor Habitacional Arniqueira, Brasília,290,3,4,4
+168.000,QR 606 Conjunto 4, Samambaia Norte,112,2,3,1
 210.000,Avenida das Araucárias, Sul,30,1,1,1
-1.270.000,Condomínio RK, Regiao dos Lagos,300,4,3,5
-1.189.582,Rua 36, Setor Marista,164,3 - 4,3 - 4,5 - 6
+270.000,CNB, Taguatinga Norte,63,3,1,2
 1.811.914,Rua 36, Setor Marista,243,3 - 4,3 - 4,5 - 6
+1.189.582,Rua 36, Setor Marista,164,3 - 4,3 - 4,5 - 6
 1.098.900,Rua 36, Setor Marista,162 - 240 m²,3 - 4,3 - 4,5 - 6
-1.200.000,Setor Habitacional Vicente Pires, Brasília,306,3,4,6
-130.000,QN 204 Conjunto 2, Samambaia Norte,54,2,,2
-3.500.000,SHIN QI 10, Lago Norte,1100,5,5,7
-450.000,SHA Conjunto 6 Chácara 486, Setor Habitacional Arniqueira,400,2,4,2
-890.000,Núcleo Rural Ponte Alta de Cima, Ponte Alta Norte,800,3,3,4
-340.000,QR 4 Conjunto H, Candangolândia,128,3,2,1
-230.000,QR 303 Conjunto H, Santa Maria,150,3,2,2
-195.000,EQS 414/415, Asa Sul,45,2,1,1
-599.900,Riacho Fundo I, Brasília,240,3,4,5
-167.000,QE 40, Guará,160,3,,2
-349.996,Norte, Brasília,44,1,1,2
-880.000,Setor Habitacional Samambaia, Brasília,260,4,5,7
-175.000,QN 122 Conjunto 15, Samambaia,34,1,1,1
-228.000,Quadra 603, Recanto das Emas,144,3,3,1
-480.000,Setor Habitacional Arniqueira, Brasília,160,3,2,4
-460.000,QSC 19, Taguatinga Sul,68,3,1,2
-270.000,Setor Habitacional Vicente Pires, Brasília,50,2,1,2
-680.000,Rua 5, Setor Habitacional Vicente Pires,360,3,2,5
-880.000,Rua 3, Setor Habitacional Vicente Pires,417,3,2,3
-400.000,Norte, Brasília,60,2,1,2
-185.000,Samambaia Sul, Brasília,80,2,2,1
-3.343.100,Rua 36, Setor Marista,404,4,4 - 5,4
-consulta,Alameda Coronel Eugênio Jardim, Setor Marista,244 - 362 m²,3 - 4,3 - 4,5 - 6
-1.690.000,Alameda Coronel Eugênio Jardim, Setor Marista,244,4,1,5 - 6
-1.199.996,Taguatinga Sul, Brasília,360,4,8,6
-539.996,Norte, Brasília,58,2,1,2
-1.365.000,Setor Habitacional Vicente Pires, Brasília,400,3,4,5
-380.000,Rua 31, Aguas Claras,64,1,1,2
-190.000,SRTVS, Asa Sul,34,,,1
-449.000,QNH 14, Taguatinga Norte,150,5,4,3
-320.000,Vale das Acacias, Brasília,270,5,3,4
-160.000,Riacho Fundo I, Brasília,55,2,,1
-440.000,Rua 8, Sul,60,2,1,2
-630.000,Norte, Brasília,87,3,2,2
+1.500.000,Setor Habitacional Vicente Pires, Brasília,400,4,4,5
+1.300.000,Vicente Pires, Brasília,290,3,4,5
+820.000,Quadra 206, Sul,123,4,2,4
+690.000,Condomínio São Francisco II, Setor Habitacional Tororo,230,3,4,2
+900.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,290,4,2,4
+480.000,Norte, Brasília,60,2,1,2
+750.000,Ceilandia Sul, Brasília,600,5,4,5
+360.000,Jardins Mangueiral, Brasília,75,2,2,2
+205.000,Samambaia Sul, Brasília,48,2,,2
+450.000,EQS 414/415, Asa Sul,150,3,4,3
 295.000,Riacho Fundo I, Brasília,160,2,3,2
-1.100.000,Setor Habitacional Arniqueira, Brasília,300,4,4,6
-405.000,QI 3 Bloco E, Guara I,70,2,2,2
-630.000,Área Rural, Area Rural do Lago Norte,5000,2,2,2
-510.000,Sul, Brasília,60,2,1,2
-228.996,Samambaia Sul, Brasília,59,2,1,2
-149.996,Samambaia Sul, Brasília,126,2,2,1
-880.000,SQS 402 Bloco N, Asa Sul,104,3,,3
-380.000,Taguatinga Norte, Brasília,250,6,2,4
-195.000,Quadra 300 Conjunto 1, Recanto das Emas,100,2,4,1
-650.000,"Rodovia DF-180 km 65, Chácara 1MD20,",,30000,4,,2
+430.000,Samambaia Sul, Brasília,131,3,1,2
+390.000,Recanto das Emas, Brasília,280,3,2,2
+550.000,QNP 20 Conjunto C, Ceilandia Sul,260,4,5,4
+345.000,SCRN 712/713 Bloco C, Asa Norte,47,2,,1
+335.000,QNM 12, Ceilandia Norte,65,2,1,2
+500.000,QNJ 23, Taguatinga Norte,180,3,4,2
+580.000,Chácaras Itaipú, Setor Habitacional Jardim Botânico,152,3,2,3
+450.000,Avenida Flamboyant, Aguas Claras,92,3,1,2
+750.000,Rua das Aroeiras, Norte,92,3,2,3
+770.000,Rua 3 Chácara 44, Setor Habitacional Vicente Pires,480,3,5,3
+3.343.100,Rua 36, Setor Marista,404,4,4 - 5,4
+1.690.000,Alameda Coronel Eugênio Jardim, Setor Marista,244,4,1,5 - 6
+consulta,Alameda Coronel Eugênio Jardim, Setor Marista,244 - 362 m²,3 - 4,3 - 4,5 - 6
+285.000,Setor Habitacional Vicente Pires, Brasília,52,2,1,1
+299.000,Asa Norte, Brasília,34,,,1
+500.834,Área Especial 2 Módulo E, Guara II,56,2,2,2
+140.000,Quadra 20 Conjunto K, Paranoá,80,3,2,2
+290.000,Taguatinga Norte, Brasília,62,2,1,1
+375.000,Quadra 302 Conjunto 3, Samambaia Sul,68,3,1,2
+280.000,QNO 12, Ceilândia,64,3,1,2
+260.000,QI, Setor Industrial,49,2,1,1
+900.000,Setor Habitacional Vicente Pires, Brasília,200,3,2,5
+100.000,Condomínio San Diego, Setor Habitacional Jardim Botânico,32,1,1,1
+368.000,C 6, Taguatinga Centro,74,2,1,2
+550.000,DF-, Lago Norte,2000,6,4,4
+150.000,SAAN Quadra 3, Zona Industrial,33,,,1
+180.000,Asa Sul, Brasília,27,,1,1
+690.000,Rua das Paineiras, Norte,129,3,1,3
+360.000,C 6, Taguatinga Centro,74,2,1,1
+385.000,Guara II, Brasília,140,3,2,2
+449.000,QNH 14, Taguatinga Norte,150,5,4,3
+429.900,Sul, Brasília,52,2,1,2
+2.000.000,SHIS QI 26, Lago Sul,2380,,,
+1.000.000,Setor Habitacional Arniqueira, Brasília,400,3,2,3
 371.640,Rua 1033, Setor Pedro Ludovico,65 - 99 m²,2 - 3,1 - 2,2 - 3
 consulta,Rua 1121, Setor Marista,137 - 165 m²,3,2,4
 consulta,Rua 1124, Setor Marista,125,3,2 - 3,5
-2.800.000,SHIN QL 10 Conjunto 2, Lago Norte,900,5,6,8
-670.000,Área Especial 4, Guara II,79,2,2,2
-1.259.996,Taguatinga Norte, Brasília,260,3,6,4
-150.000,Del Lago II, Brasília,210,2,1,2
-1.800.000,SQS 202, Asa Sul,145,3,1,3
-170.000,Recanto das Emas, Brasília,130,3,2,2
+1.450.000,SQNW 104 Bloco B, Setor Noroeste,109,3,2,4
+1.350.000,Rua 4 Chácara 298, Vicente Pires,296,3,4,4
+650.000,QND 42, Taguatinga Norte,260,4,4,4
+150.000,Rua 5 Módulo 18, Condominio Prive Lucena Roriz,195,2,2,2
+1.100.000,Setor Habitacional Vicente Pires, Brasília,449,3,2,3
+215.000,Taguatinga Norte, Brasília,63,2,,2
+450.000,Condomínio Residencial Asa Branca, Recanto das Emas,750,3,5,3
+1.270.000,Quadra 27, Gama,200,3,4,5
+950.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,250,3,1,3
+360.000,QND 12, Taguatinga Norte,77,3,2,2
+180.000,Quadra 104 Conjunto 6, Recanto das Emas,150,3,,2
+890.000,Condomínio Quintas do Trevo, Setor Habitacional Jardim Botânico,300,3,2,4
 810.000,Setor Habitacional Arniqueira, Brasília,171,3,4,4
-235.000,QN 412, Samambaia Norte,51,2,1,2
-350.000,Condomínio Privê Lucena Roriz, Ceilandia Norte,150,3,4,2
-380.000,QN 7A Conjunto 3, Riacho Fundo II,200,3,3,4
-223.500,Rua Copaíba, Setor Sul,33,1,1,1
-350.000,Ceilandia Sul, Brasília,200,2,3,1
-1.600.000,Vicente Pires, Brasília,330,3,2,4
-479.000,Setor Habitacional Arniqueira, Brasília,180,3,4,3
-215.000,QS 318, Samambaia Sul,49,2,1,1
-185.000,QNN 11, Ceilandia Centro,49,2,1,1
-479.000,QNM 5, Ceilandia Sul,250,4,6,4
-575.000,CSG 3, Taguatinga Sul,82,2,1,2
-350.000,Samambaia Sul, Brasília,289,4,4,4
-565.000,Quadra 2, Sobradinho,350,4,3,4
-560.000,Guara II, Brasília,62,2,1,2
+950.000,Núcleo Rural Jardim Morumbí, Setor Residencial Mestre D Armas,25000,4,,3
+325.000,Setor Sudoeste, Brasília,25,1,,1
+470.000,Quadra 101, Aguas Claras,64,2,1,2
+520.000,QS 502 Conjunto 7, Samambaia Sul,110,3,2,2
+320.000,Vila Sao Jose, Brasília,220,5,2,2
+135.000,Paranoá, Brasília,,,,
+380.000,SCLRN 709 Bloco G, Asa Norte,40,3,,2
+300.000,Taguatinga Norte, Brasília,250,3,3,2
 935.000,Rua 1121, Setor Marista,150 - 170 m²,3 - 4,1 - 3,2 - 3
 155.900,Rua X 5, Cardoso Continuação,41 - 43 m²,2,1,1
 407.300,Rua 250, Setor Coimbra,59,2 - 3,1 - 2,2
-1.850.000,SMPW Quadra 5 Conjunto 6, Setor Habitacional Arniqueira,450,4,4,5
-670.000,SHCES Quadra 305, Cruzeiro Novo,79,3,2,2
-970.000,Setor Habitacional Arniqueira, Brasília,310,3,2,3
-195.000,Taguatinga Centro, Brasília,55,2,1,1
-23.000,SGAS 905, Asa Sul,1,,1,
-280.000,Recanto das Emas, Brasília,185,3,,3
-50.000,Núcleo Rural Ponte Alta de Cima, Ponte Alta Norte,372,,,
-245.000,Samambaia Sul, Brasília,58,2,1,2
-240.000,Setor Industrial, Brasília,58,2,1,2
-650.000,Rua 10, Vila Sao Jose,250,4,4,4
-130.000,Riacho Fundo II, Brasília,55,2,1,1
-380.000,Taguatinga Norte, Brasília,250,7,3,3
-390.000,AR 6 Conjunto 2, Sobradinho II,150,4,3,3
-980.000,Setor Habitacional Vicente Pires, Brasília,300,4,4,5
-650.000,Chácara 50, Setor Habitacional Vicente Pires Trecho 3,200,3,2,4
-850.000,Condomínio RK, Regiao dos Lagos,300,5,2,6
-125.000,Samambaia Norte, Brasília,60,2,5,1
-235.000,Taguatinga Sul, Brasília,68,2,,2
-379.996,Setor Oeste, Brasília,206,3,2,2
-420.000,Riacho Fundo I, Brasília,80,2,1,2
-320.000,AR 13 Conjunto 16, Setor Oeste,137,3,1,2
+398.000,Riacho Fundo I, Brasília,80,2,1,2
+360.000,Quadra 101, Recanto das Emas,260,4,3,2
+145.000,QI 3, Setor Industrial,51,2,1,2
+1.100.000,Taguatinga Norte, Brasília,300,5,4,4
+300.000,Jardins Mangueiral, Brasília,54,,,
+178.328,QR 419 Conjunto 1, Samambaia Norte,41,2,1,1
+550.000,Setor Habitacional Vicente Pires, Brasília,150,3,,4
+1.100.000,SQN 205 Bloco J, Asa Norte,144,3,1,2
+270.000,Samambaia Sul, Brasília,67,3,1,2
+550.000,Taguatinga Norte, Brasília,200,3,3,4
+305.500,Ceilandia Norte, Brasília,55,2,1,2
+950.000,Setor Habitacional Vicente Pires, Brasília,180,3,2,4
+345.000,Norte, Brasília,52,2,,2
+780.000,Setor Habitacional Arniqueira, Brasília,260,4,2,5
+950.000,Setor Habitacional Vicente Pires, Brasília,280,3,2,4
+260.000,Setor Habitacional Arniqueira, Brasília,65,2,2,1
+445.000,Taguatinga Norte, Brasília,120,3,2,3
+197.000,Taguatinga Norte, Brasília,55,2,2,1
+120.000,Samambaia Norte, Brasília,60,2,4,1
+950.000,Setor Habitacional Vicente Pires, Brasília,260,4,2,4
+350.000,QNN 26 Conjunto C, Ceilandia Sul,120,2,2,2
+497.303,Rua 1121, Setor Marista,69,2,1,3
 1.799.900,Rua 1121, Setor Marista,287 - 627 m²,4 - 6,,6 - 7
 700.180,Rua 1121, Setor Marista,119,2 - 3,1 - 2,2 - 4
-497.303,Rua 1121, Setor Marista,69,2,1,3
-260.000,Setor Habitacional Vicente Pires, Brasília,95,3,4,2
-750.000,Condomínio Ouro Vermelho II, Setor Habitacional Jardim Botânico,240,4,4,4
-150.000,Rodovia DF-001, Setor Habitacional Vicente Pires,120,2,2,1
-660.000,Vila Varjão do Torto, Lago Norte,190,4,2,4
-290.000,Setor SAGOCA, Taguatinga Norte,51,2,1,2
-899.000,Sobradinho, Brasília,520,5,4,4
-235.000,QS 5 Rua 120, Areal,54,2,1,2
-530.000,Avenida das Araucárias, Taguatinga,73,3,1,3
-370.000,QR 212 Conjunto 9, Samambaia Norte,150,2,5,2
-430.000,Taguatinga Norte, Brasília,200,4,3,3
-700.000,Setor Habitacional Arniqueira, Brasília,350,6,4,4
+205.000,QMS 27, Setor de Mansões de Sobradinho,82,2,2,2
+255.000,QNO 12 Área Especial C, Ceilandia Norte,60,2,1,1
+490.000,CNB, Taguatinga Norte,79,3,1,2
+980.000,Condomínio Morada de Deus, Setor Habitacional Jardim Botânico,450,4,6,6
+295.000,Setor SAGOCA, Taguatinga Norte,62,3,1,2
+745.000,QND 41, Taguatinga Norte,350,3,3,3
+599.900,Riacho Fundo I, Brasília,240,3,4,5
+270.000,AR 12 Conjunto 12, Setor Oeste,233,7,4,4
+875.000,Condomínio Ouro Vermelho I, Setor Habitacional Jardim Botânico,440,4,4,5
+185.000,QNN 11, Ceilandia Centro,49,2,1,1
+317.000,Setor Industrial, Brasília,70,2,1,2
+410.000,Taguatinga Sul, Brasília,230,3,2,2
+697.600,QSE 4, Taguatinga,350,3,6,5
+480.000,SHA Conjunto 5 Chácara 114, Setor Habitacional Arniqueira,130,2,4,2
+410.000,SMLN MI Trecho 07 Conjunto 3, Lago Norte,180,3,4,2
+180.000,Samambaia Sul, Brasília,193,4,3,4
+360.000,QI 24, Setor Industrial,69,3,1,2
+1.090.000,Setor Habitacional Contagem, Brasília,465,4,4,7
+460.000,Quadra 201, Aguas Claras,74,2,2,2
+680.000,Setor Habitacional Vicente Pires, Brasília,180,3,3,3
 780.000,Setor Habitacional Arniqueira, Brasília,203,4,2,6
-1.100.000,Rua 6 Chácara 237, Setor Habitacional Vicente Pires,400,8,4,1
-250.000,QNQ 2 Conjunto 1, Ceilandia Norte,140,2,3,1
-180.000,Rua 62-A, Centro,70,3,1,3
-485.000,Norte, Brasília,63,2,2,2
-420.000,Guara I, Brasília,70,2,1,2
-275.000,Setor Habitacional Vicente Pires, Brasília,56,2,1,1
-260.000,SMAS, Zona Industrial,32,,1,1
-480.000,Condomínio Serra Azul, Sobradinho,100,2,5,1
-243.000,Taguatinga Norte, Brasília,58,3,2,1
 820.283,Rua 1121, Setor Marista,120,3,2,4
 370.000,Rua T 27, Setor Bueno,71 - 98 m²,2 - 3,1 - 2,1
 consulta,Rua T 37, Setor Bueno,69 - 179 m²,2 - 3,1 - 3,2 - 5
-243.000,Taguatinga Norte, Brasília,58,3,2,1
-179.000,QR 205 Conjunto D, Santa Maria,98,3,2,1
-467.356,Norte, Brasília,68,2,1,2
-230.000,QNO 12 Área Especial C, Ceilandia Norte,58,2,1,2
-250.000,CLN 316 Bloco D, Asa Norte,33,,,1
-182.000,QR 604 Conjunto 11, Samambaia Norte,140,2,2,1
-200.000,DF-, Lago Norte,800,1,2,2
-580.000,Setor Habitacional Vicente Pires, Brasília,185,2,4,3
-420.000,Samambaia Norte, Brasília,230,5,4,4
-342.000,Samambaia Sul, Brasília,208,4,4,2
+590.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,180,3,,2
+420.000,Área Especial Barragem do Paranoá, Paranoá,85,3,5,3
+480.000,Setor Habitacional Arniqueira, Brasília,160,3,2,4
+195.000,Guara II, Brasília,110,2,,3
+300.000,Setor Habitacional Arniqueira, Brasília,180,3,2,1
+780.000,QND 8, Taguatinga Norte,300,3,6,3
+790.000,Ponte Alta Norte, Brasília,365,4,5,1
+370.000,Samambaia Norte, Brasília,71,2,1,2
+185.000,Samambaia Norte, Brasília,126,3,2,1
 408.500,Ceilandia Sul, Brasília,150,4,4,3
-165.000,CLN 204 Bloco D, Asa Norte,26,,,
-240.000,C 10, Taguatinga Centro,62,3,,1
-148.000,QS 9 Rua 123, Aguas Claras,34,1,1,1
-600.000,Rodovia DF-,,5000,1,,1
-345.000,Setor Industrial, Brasília,58,2,1,2
-315.000,Ceilandia Norte, Brasília,1100,2,5,3
-195.000,QN 120, Samambaia Sul,45,2,1,1
-320.000,Taguatinga Norte, Brasília,72,2,1,2
-1.150.000,Setor Habitacional Vicente Pires, Brasília,300,3,4,5
-149.000,Rua 5, Setor Habitacional Vicente Pires,48,2,,1
+680.000,Rua 37, Aguas Claras,107,3,1,3
+235.000,Taguatinga Sul, Brasília,68,2,,2
+230.000,Samambaia Sul, Brasília,57,2,1,1
+580.000,EPTG QE 1 Conjunto C, Quadras Economicas Lucio Costa,250,4,3,4
+1.070.000,Setor Habitacional Vicente Pires, Brasília,300,4,4,3
+505.000,Rua 36, Aguas Claras,66,2,1,2
+650.000,Setor Habitacional Arniqueira, Brasília,400,3,4,3
+190.000,Taguatinga Norte, Brasília,70,2,1,2
+389.000,Rua Copaíba, Aguas Claras,44,1,1,1
+260.000,Ceilandia Norte, Brasília,47,2,1,2
+1.350.000,SQSW 305 Bloco A, Setor Sudoeste,105,3,1,3
 consulta,Rua T 35, Setor Bueno,87,1 - 2,1 - 2,1 - 3
 257.460,Rua T 37, Setor Bueno,39 - 88 m²,1 - 3,0 - 2,1 - 3
 947.500,Rua T 30, Setor Bueno,160,3,3,5
-620.000,Setor Habitacional Vicente Pires, Brasília,130,2,2,3
-330.000,Ceilandia Sul, Brasília,100,2,2,2
-427.000,Setor Industrial, Brasília,95,2,2,2
-215.000,Vicente Pires, Brasília,53,2,1,1
-535.000,Jardins Mangueiral, Brasília,115,3,2,3
-270.000,Samambaia Sul, Brasília,67,3,1,2
-445.000,Taguatinga Norte, Brasília,120,3,2,3
-785.000,Condomínio RK, Regiao dos Lagos,600,6,,4
-360.000,QND 12, Taguatinga Norte,77,3,2,2
-80.000,Colônia Agrícola Bernardo Sayão Chácara 1, Setor de Industrias Bernardo Sayao,50,1,,1
-189.900,Lago Sul, Brasília,400,,1,1
-181.900,QS 303 Conjunto 7, Samambaia Sul,44,2,1,1
-1.900.000,Rodovia DF-150, Sobradinho,820,5,6,8
-300.000,QR 413 Conjunto 1, Samambaia Norte,126,4,2,2
-150.000,SAAN Quadra 3, Zona Industrial,33,,,1
-145.000,Ceilandia Norte, Brasília,80,2,3,1
-240.000,Setor Habitacional Vicente Pires, Brasília,74,3,,2
-295.000,QI, Setor Industrial,53,2,2,2
-360.000,Setor Habitacional Arniqueira, Brasília,200,2,,3
-175.000,Taguatinga Norte, Brasília,50,2,1,1
-299.000,QR 121 Conjunto 6, Samambaia Sul,180,2,2,1
+760.000,Rua 6 Chácara 264, Setor Habitacional Vicente Pires,200,3,4,3
+110.000,Rua 12, Guara II,50,1,,1
+112.000,Samambaia Norte, Brasília,112,2,2,1
+790.000,Setor Habitacional Arniqueira, Brasília,316,4,6,4
+390.000,AR 6 Conjunto 2, Sobradinho II,150,4,3,3
+750.000,QN 1 Conjunto 13, Riacho Fundo I,200,4,2,3
+345.000,Setor Industrial, Brasília,58,2,1,2
+470.000,Norte, Brasília,59,1,1,2
+1.200.000,Setor Habitacional Vicente Pires, Brasília,400,3,4,4
+250.000,QMS 22, Setor de Mansões de Sobradinho,250,3,5,2
+595.000,Quadra 6, Setor Central,200,3,4,3
+189.994,Setor Industrial, Brasília,320,,,
+320.000,Taguatinga Centro, Brasília,63,3,1,2
+305.500,QNO 10, Ceilandia Norte,55,2,1,2
+850.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,220,3,2,4
+98.000,SCS Quadra, Asa Sul,38,,,1
+175.000,Quadra 56, Setor Central,50,2,1,1
+190.000,CSB, Taguatinga Sul,55,2,,1
+421.000,QNM 40 Conjunto C, Taguatinga,220,4,2,3
+260.000,Avenida Eucalipto Quadra 406, Recanto das Emas,63,3,1,2
+970.000,Setor Habitacional Contagem, Brasília,250,4,2,5
 372.000,Rua T 30, Setor Bueno,63 - 125 m²,2 - 3,1 - 2,2 - 4
 519.000,Avenida Perimetral, Setor Coimbra,88,3,,2 - 3
 408.570,Rua T 30, Setor Bueno,69,2 - 3,1 - 2,1 - 3
-299.000,QR 121 Conjunto 6, Samambaia Sul,180,2,2,1
-410.000,Jardins Mangueiral, Brasília,60,2,2,2
-459.000,Riacho Fundo I, Brasília,230,4,2,4
-280.000,Rua 7, Norte,41,1,1,1
-899.000,Rua 12, Setor Habitacional Vicente Pires,405,5,5,5
-575.000,EPTG Chácara 67, Setor Habitacional Vicente Pires,200,4,5,3
-560.000,Setor Sudoeste, Brasília,55,1,1,2
-1.050.000,Condomínio RK, Regiao dos Lagos,493,4,4,6
-850.000,Setor Habitacional Vicente Pires, Brasília,250,3,4,5
-110.000,SMPW Trecho 3 Blocos A e B, Park Way,30,,,1
-175.000,QR 512, Samambaia Sul,90,3,2,1
-118.000,QR 309 Conjunto D, Santa Maria,150,3,1,2
-580.000,Quadra 3, Setor Sul,312,3,3,3
-305.000,QNO 12 Área Especial C, Ceilandia Norte,65,2,1,2
-460.000,Área Especial 2-A Módulo I, Guara II,57,2,1,2
-189.000,CNB 13, Taguatinga Norte,65,2,,2
-1.150.000,Setor Habitacional Vicente Pires, Brasília,250,3,3,3
-190.000,Guara II, Brasília,56,2,1,1
-290.000,SGAN 915 Módulo G, Asa Norte,31,,1,1
-280.000,QN 404 Conjunto C, Samambaia Norte,64,3,1,2
-460.000,Quadra 103, Norte,81,3,1,2
+190.000,SRTVN, Asa Norte,30,,,1
+186.000,Riacho Fundo I, Brasília,54,2,,1
+1.100.000,Setor Habitacional Vicente Pires, Brasília,290,3,4,5
+330.000,Areal, Brasília,90,3,,2
+980.000,Setor Habitacional Vicente Pires, Brasília,280,4,2,4
+189.000,Ceilandia Norte, Brasília,80,2,2,1
+320.000,Quadra 25 Conjunto I, Paranoá,300,4,3,3
+150.000,QR 427 Conjunto 6, Samambaia Norte,150,3,2,1
+699.000,Vicente Pires, Brasília,230,3,5,4
+220.000,SHN Quadra 1, Asa Norte,27,,,1
+170.000,Rua das Paineiras, Norte,30,,,1
+550.000,Condomínio Ouro Vermelho II, Setor Habitacional Jardim Botânico,250,3,5,4
+200.000,Taguatinga Norte, Brasília,62,2,2,1
+225.000,QMSW 5 Lote 2 Bloco C, Setor Sudoeste,26,1,2,1
+450.000,Sítio Santos Dumont Rua 1, Setor Habitacional Jardim Botânico,130,2,3,2
+250.000,Areal, Brasília,150,2,3,2
+249.994,Samambaia Sul, Brasília,58,2,,2
+650.000,Chácara 50, Setor Habitacional Vicente Pires Trecho 3,200,3,2,4
+205.000,Setor Habitacional Vicente Pires, Brasília,64,2,1,1
+795.000,SMPW Quadra 4 Conjunto 8, Park Way,800,3,4,4
+255.000,QN 412, Samambaia Norte,50,2,1,2
 345.439,Rua T 53, Setor Bueno,65 - 81 m²,2 - 3,1 - 2,2
 567.810,Rua T 30, Vila Americano do Brasil,103 - 136 m²,3,2,3
 910.000,Rua T 71, Setor Bueno,141 - 165 m²,3,2 - 3,2 - 5
-350.000,SHA Conjunto 5 Chácara 121A, Setor Habitacional Arniqueira,180,3,2,2
-230.000,QNP 30 Conjunto G, Ceilandia Sul,135,3,2,2
-450.000,Rua 24, Norte,70,2,1,2
-850.000,Rua 36, Sul,94,3,2,3
-600.000,Avenida Ponte Alta Norte, Ponte Alta Norte,400,3,4,3
-165.000,CSA, Taguatinga Sul,54,1,,1
-449.000,Sul, Brasília,52,1,1,2
-150.000,QR 427 Conjunto 6, Samambaia Norte,150,3,2,1
-360.000,CNB 13, Taguatinga Norte,59,2,1,1
-800.000,Setor Habitacional Arniqueira, Brasília,200,3,2,3
-280.000,Setor Industrial, Brasília,62,2,1,1
-300.000,SMHN Quadra 2 Bloco C, Asa Norte,32,,,1
-200.000,Rua 8 Chácara 213, Vicente Pires,78,2,1,1
-490.000,Ceilandia Sul, Brasília,144,3,2,5
-478.382,Norte, Brasília,68,2,2,2
-295.000,QSE Área Especial 11, Taguatinga Sul,50,2,1,1
-585.000,Setor Habitacional Vicente Pires, Brasília,122,3,2,3
-160.000,QN 1 Conjunto 9, Riacho Fundo I,50,2,,1
-600.000,Taguatinga Sul, Brasília,200,3,4,2
-260.000,Avenida Eucalipto Quadra 406, Recanto das Emas,63,3,1,2
-450.000,Samambaia, Brasília,22266,4,,5
+246.500,Setor SAGOCA, Taguatinga Norte,50,2,1,1
+290.000,Quadra QC 6 Conjunto 8, Riacho Fundo II,220,4,2,4
+670.000,Riacho Fundo I, Brasília,300,4,4,4
+860.000,Setor Habitacional Vicente Pires, Brasília,245,3,2,4
+530.000,Norte, Brasília,84,3,2,2
+295.000,Samambaia, Brasília,69,3,1,2
+320.000,SIG Quadra 8, Zona Industrial,37,,1,1
+178.000,QS 411 Conjunto F, Samambaia Norte,45,2,1,1
+655.000,Quadra 206, Aguas Claras,89,2,2,3
+480.000,Ceilandia Norte, Brasília,200,4,2,3
+890.000,QND 54, Taguatinga Norte,250,5,6,3
+315.000,Jardins Mangueiral, Brasília,48,2,1,1
+1.300.000,SHA Conjunto 4 Chácara 89, Setor Habitacional Arniqueira,280,4,2,5
+450.000,Avenida Ponte Alta Norte, Ponte Alta Norte,250,3,4,2
+350.000,Ceilandia Norte, Brasília,120,4,2,2
+550.000,QRI 15, Residencial Santos Dumont,250,3,4,2
+1.100.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,289,3,2,3
+880.000,Rua 3B, Setor Habitacional Vicente Pires,210,3,2,4
+1.300.000,Setor Habitacional Vicente Pires, Brasília,350,4,2,5
+315.000,Recanto das Emas, Brasília,100,4,3,3
+135.000,Guara II, Brasília,45,2,,2
 1.263.885,Rua T 71, Setor Bueno,207 - 266 m²,3 - 4,4,4 - 5
 consulta,Rua Samuel Morse, Serrinha,150 - 200 m²,,2 - 3,
 consulta,Rua Samuel Morse, Serrinha,150 - 200 m²,3 - 4,2 - 3,2
-425.000,Norte, Brasília,55,1,1,2
-480.000,Ceilandia Norte, Brasília,200,4,2,3
-256.163,Rua 30, Aguas Claras,31,1,1,1
-499.000,Samambaia Norte, Brasília,300,3,5,3
-220.000,QNO 16 Conjunto 18, Ceilândia,126,3,3,1
-480.000,Condomínio Ouro Vermelho II, Setor Habitacional Jardim Botânico,170,3,4,3
-510.000,Rua 1 Chácara 106A conjunto A, Setor Habitacional Vicente Pires Trecho 3,200,3,6,3
-450.000,Condomínio Residencial Asa Branca, Recanto das Emas,750,3,5,3
-220.000,QNP 28 Conjunto M, Ceilandia Sul,130,3,2,1
-259.000,Vicente Pires, Brasília,56,2,1,1
-210.000,QS 303, Samambaia Sul,75,3,1,1
-598.347,Sul, Brasília,91,3,2,3
-1.100.000,Park Way , Brasília,280,3,4,5
-270.000,Riacho Fundo I, Brasília,60,2,1,1
-95.000,Setor Habitacional Sol Nascente, Setor Habitacional Sol Nascente,200,2,2,1
-173.990,QS 308 Conjunto 5, Samambaia Sul,50,2,1,1
-621.300,SIG Quadra 4, Zona Industrial,78,,2,
-195.000,C 2, Taguatinga Centro,30,,,1
-290.000,QI 4 Bloco A, Guara I,60,2,1,2
-875.000,Condomínio Ouro Vermelho I, Setor Habitacional Jardim Botânico,440,4,4,5
-350.000,QNN 27 Módulo C, Ceilandia Norte,69,3,2,1
+649.900,Quadra 201, Aguas Claras,110,3,2,3
+115.000,CLN 5 Bloco G, Riacho Fundo I,25,1,,1
+1.190.000,Setor Habitacional Vicente Pires, Brasília,390,3,4,5
+420.000,Quadra 31, Gama,231,3,3,3
+370.000,Ceilandia Norte, Brasília,93,4,3,3
+750.000,Setor Habitacional Vicente Pires, Brasília,200,3,5,2
+379.994,Setor Oeste, Brasília,206,3,2,2
+510.000,QNM 36 Conjunto I, Taguatinga Norte,250,4,3,3
+1.100.000,Setor Habitacional Vicente Pires, Brasília,250,3,2,4
+780.000,Rodovia DF-250, Regiao dos Lagos,235,5,4,4
+170.000,Recanto das Emas, Brasília,130,3,2,2
+370.000,QR 212 Conjunto 9, Samambaia Norte,150,2,5,2
+265.000,Ceilandia Sul, Brasília,68,3,1,2
+250.000,Quadra 4 Conjunto B, Sobradinho II,200,3,2,2
+1.000.000,Setor Habitacional Vicente Pires, Brasília,280,3,2,4
+549.994,Samambaia Sul, Brasília,110,2,2,2
+210.000,"Rodovia BR-070, km 17 - Salão Comunitário (St de Chácaras A.Gusmão),",,1100,2,10,2
+260.000,QNP 21 Conjunto H, Ceilandia Norte,160,2,2,1
+545.000,Quadra 18 Conjunto C, Sobradinho,169,4,,3
+235.000,SRTVS, Asa Sul,46,,,
+549.999,QNO 4 Conjunto F, Ceilandia Norte,145,4,3,3
 consulta,Avenida T 5, Serrinha,62 - 116 m²,2 - 3,1 - 2,1 - 3
 680.000,Rua C228, Jardim América,121,3,2,5
 395.200,Rua Camilo Flamarion, Serrinha,75 - 112 m²,2 - 3,1 - 2,2 - 3
-489.900,Guara II, Brasília,59,2,1,2
-699.000,Condomínio Chapéu da Pedra, Setor Habitacional Tororo,137,3,2,3
-900.000,CA 11, Lago Norte,78,3,2,3
-245.000,Ceilandia Norte, Brasília,200,6,3,6
-450.000,Quadra 1 Conjunto I, Setor Norte,180,4,2,2
-260.000,Setor Habitacional Arniqueira, Brasília,65,2,2,1
-370.000,Sul, Brasília,68,2,1,1
-179.000,Taguatinga Sul, Brasília,59,2,,1
-238.000,Samambaia Norte, Brasília,90,2,2,1
-320.000,Taguatinga Centro, Brasília,63,3,1,2
-505.000,Rua 36, Aguas Claras,66,2,1,2
-185.000,QN 120 Conjunto 1, Samambaia Sul,52,2,1,1
-220.000,QNO 11 Conjunto L, Ceilandia Norte,120,3,2,1
-290.000,Ceilandia Norte, Brasília,90,3,2,1
-75.000,Asa Sul, Brasília,32,,,1
-950.000,Setor Habitacional Vicente Pires, Brasília,180,3,2,4
-1.790.000,Condomínio Privê Morada Sul Etapa C, Lago Sul,530,4,6,8
-210.000,Guara II, Brasília,58,2,,1
-380.000,Norte, Brasília,58,1,1,2
-215.000,Taguatinga Norte, Brasília,67,2,1,1
-365.000,Rodovia DF-425, Setor Habitacional Contagem,120,3,10,3
+985.000,Condomínio Ouro Vermelho II, Setor Habitacional Jardim Botânico,190,3,2,3
+330.000,Samambaia Norte, Brasília,150,2,2,1
+750.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,380,3,2,4
+820.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,750,3,3,4
+700.000,Condomínio Mansões Rurais do Lago Sul, Setor Habitacional Tororo,287,4,5,5
+300.000,Condomínio Quintas Itaipú, Setor Habitacional Jardim Botânico,150,4,3,3
+114.900,Rua 8, Vila Sao Jose,60,2,1,2
+215.000,Vicente Pires, Brasília,53,2,1,1
+890.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,400,3,4,3
+225.000,CSA, Taguatinga Sul,75,2,,2
+310.000,QN 408 Conjunto E, Samambaia Norte,54,2,1,2
+290.000,SGAN 915 Módulo G, Asa Norte,31,,1,1
+790.000,Setor Habitacional Vicente Pires, Brasília,249,4,6,5
+580.000,Quadra 3, Setor Sul,312,3,3,3
+160.000,QR 413 Conjunto 8, Samambaia Norte,125,4,2,2
+460.000,Quadra 103, Norte,81,3,1,2
+360.000,Condomínio Ouro Vermelho II, Setor Habitacional Jardim Botânico,90,2,2,1
+320.000,Ceilandia Sul, Brasília,200,2,3,1
+520.000,Samambaia Sul, Brasília,110,2,1,3
+530.000,QI 24, Setor Industrial,95,2,2,2
+250.000,Setor Habitacional Vicente Pires, Brasília,260,3,4,1
 consulta,Rua C 227, Jardim América,80 - 300 m²,2 - 4,1 - 4,1 - 4
 141.900,Avenida São Domingos, Vila Mutirão I,39 - 42 m²,2,,1
 consulta,Avenida Pedro Luiz Ribeiro, Conjunto Residencial Storil,153 - 181 m²,2 - 4,1 - 2,1 - 2
-365.000,Rodovia DF-425, Setor Habitacional Contagem,120,3,10,3
-280.000,Guara II, Brasília,58,2,,1
-1.499.000,Rodovia DF-150, Grande Colorado,550,5,6,7
-168.000,QR 606 Conjunto 4, Samambaia Norte,112,2,3,1
-550.000,QNP 20 Conjunto C, Ceilandia Sul,260,4,5,4
-610.000,QN 9 Conjunto 10, Riacho Fundo I,175,4,5,3
-270.000,CNB, Taguatinga Norte,63,3,1,2
-295.000,Ceilandia Norte, Brasília,130,4,3,1
-380.000,QR 408 Conjunto 8, Samambaia Norte,192,3,3,2
-208.000,QS 116, Samambaia Sul,48,2,1,1
-240.000,Quadra 301 Conjunto 1, Samambaia Sul,53,2,1,1
-195.000,Taguatinga Centro, Brasília,52,2,1,1
-35.000,QSC 19 Chácara 26 Conjunto G, Taguatinga Sul,20,1,,1
-150.000,Setor Habitacional Sol Nascente, Ceilândia,80,2,2,1
-259.000,Areal, Brasília,53,2,1,1
-1.000.000,Vicente Pires, Brasília,250,3,3,6
-530.000,Guara II, Brasília,63,2,1,1
-398.000,Riacho Fundo I, Brasília,80,2,1,2
-480.000,QNC 1, Taguatinga Norte,73,3,2,2
-250.000,QNN 19 Conjunto D, Ceilandia Norte,222,3,4,1
-380.000,Taguatinga Norte, Brasília,64,3,1,2
+590.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,200,3,4,3
+197.000,QNN 11, Ceilandia Norte,42,2,1,1
+320.000,AR 13 Conjunto 16, Setor Oeste,137,3,1,2
+420.000,Avenida Comercial, Setor Habitacional Jardim Botânico,190,2,4,2
+216.000,Quadra 301, Samambaia Sul,49,2,1,2
+359.000,Taguatinga Norte, Brasília,65,3,1,2
+230.000,Asa Norte, Brasília,30,,1,1
+220.000,QNP 28 Conjunto M, Ceilandia Sul,130,3,2,1
+610.000,Condomínio São Francisco II, Setor Habitacional Jardim Botânico,300,3,4,3
+535.000,Jardins Mangueiral, Brasília,115,3,2,3
+350.000,Condomínio Privê Lucena Roriz, Ceilandia Norte,150,3,4,2
+205.000,Taguatinga Norte, Brasília,63,2,1,2
+585.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,200,3,3,2
+390.000,SHA Conjunto 5 Chácara 112, Setor Habitacional Arniqueira,200,3,3,2
+370.000,Setor Habitacional Vicente Pires, Brasília,250,4,3,2
+300.000,Setor Habitacional Vicente Pires, Brasília,230,4,2,2
+260.000,Taguatinga Norte, Brasília,145,3,2,1
+427.000,Setor Industrial, Brasília,95,2,2,2
+600.000,Setor Habitacional Vicente Pires, Brasília,180,2,5,3
+238.000,Samambaia Norte, Brasília,90,2,2,1
+460.000,Área Especial 2-A Módulo I, Guara II,57,2,1,2
 156.900,Rua L 10, Papillon Park Complemento,41 - 43 m²,2,1,1
 159.236,Avenida Rio Verde, Vila Sao Tomaz,30 - 96 m²,,1,1
 185.000,Rua Primeiro de Março, Vila Luciana,50,2,1 - 2,2
-380.000,Taguatinga Norte, Brasília,64,3,1,2
-265.000,Ceilandia Sul, Brasília,68,3,1,2
-260.000,Samambaia Norte, Brasília,200,6,3,4
-350.000,Quadra 4 Conjunto 7, Vila Estrutural,192,4,6,2
-45.000,Asa Sul, Brasília,12,,1,
-420.000,Rua 30, Norte,55,1,1,2
-720.000,QE 40 Conjunto Q, Guara II,370,,,
-270.000,Taguatinga Norte, Brasília,67,3,1,2
-280.000,Samambaia Norte, Brasília,60,3,1,2
-380.000,Taguatinga Norte, Brasília,250,3,3,1
-200.000,Taguatinga Norte, Brasília,62,2,2,1
-640.000,Ponte Alta Norte, Brasília,190,3,4,3
-620.000,Sul, Brasília,73,2,2,2
-419.996,Setor Oeste, Brasília,274,7,5,5
-190.000,Taguatinga Norte, Brasília,63,2,,1
-230.000,Samambaia Sul, Brasília,59,2,1,1
-115.000,Avenida das Araucárias, Aguas Claras,37,1,1,1
-550.000,Condomínio Ouro Vermelho II, Setor Habitacional Jardim Botânico,250,3,5,4
-210.000,Setor de Habitações Individuais Norte, Brasília,78,1,,1
-480.000,Rodovia DF-150, Setor Habitacional Contagem,180,4,4,3
-290.000,QI 416 Conjunto 1, Samambaia Norte,56,2,1,1
+600.000,Avenida Ponte Alta Norte, Ponte Alta Norte,400,3,4,3
+262.994,Samambaia Sul, Brasília,56,2,1,2
+205.000,Setor Habitacional Vicente Pires, Brasília,64,2,,1
+220.208,Asa Norte, Brasília,33,,,
+240.000,Ceilandia Norte, Brasília,200,2,3,1
+1.250.000,Setor Habitacional Vicente Pires, Brasília,280,4,4,5
+850.000,Setor de Mansoes do Lago Norte, Brasília,650,5,4,4
+350.000,Rua 4, Setor Tradicional,210,5,3,3
+400.000,Recanto das Emas, Brasília,120,4,6,3
+515.000,QNL 1 Conjunto E, Taguatinga Norte,200,4,4,3
+460.000,Norte, Brasília,60,2,1,2
+850.000,QSA 15, Taguatinga Sul,310,7,4,5
+880.000,Setor Habitacional Vicente Pires, Brasília,260,3,2,3
+220.000,QNO 11 Conjunto L, Ceilandia Norte,120,3,2,1
+200.000,Riacho Fundo I, Brasília,69,3,1,2
+350.000,C 6, Taguatinga Centro,50,2,2,2
+620.000,Setor Habitacional Vicente Pires, Brasília,130,2,2,3
+520.000,Rua 21, Aguas Claras,74,3,1,2
+250.000,QR 307, Samambaia Sul,60,2,2,1
+800.000,Setor Habitacional Vicente Pires, Brasília,250,3,6,5
+315.000,Guará, Brasília,64,2,2,1
 156.800,Alameda A, Chacaras Sao Pedro,42,2,,1
 185.000,Avenida Independência, Setor Faiçalville,50,2,1 - 2,2
 174.300,Avenida Abel Soares de Castro, Setor Faiçalville,35 - 44 m²,1 - 2,1,1
-385.000,QNP 13 Conjunto F, Ceilandia Norte,135,3,3,2
-210.000,SCRN 712/713, Asa Norte,42,1,,1
-590.000,Rua 36, Taguatinga,66,2,1,3
-485.000,Quadra 103, Norte,65,2,1,1
-370.000,Quadra 405 Conjunto 11, Recanto das Emas,250,5,2,3
-595.000,Quadra 6, Setor Central,200,3,4,3
-350.000,QNN 26 Conjunto C, Ceilandia Sul,120,2,2,2
-350.000,Ceilandia Norte, Brasília,120,4,2,2
-270.000,AR 12 Conjunto 12, Setor Oeste,233,7,4,4
-279.996,Ceilandia Norte, Brasília,64,3,1,2
-350.000,C 12, Taguatinga Centro,75,3,2,2
-900.000,Rua 19, Sul,152,4,2,5
-500.000,SMPW Quadra 5 Conjunto 6, Park Way,200,3,8,3
-149.999,Rua 4A, Setor Habitacional Vicente Pires,46,2,,1
-280.000,Recanto das Emas, Brasília,125,3,3,2
-259.996,Samambaia Norte, Brasília,104,3,2,1
-50.000,Setor Habitacional Sol Nascente, Setor Habitacional Sol Nascente,100,2,2,1
-450.000,Sítio Santos Dumont Rua 1, Setor Habitacional Jardim Botânico,130,2,3,2
-325.000,QNO 6, Setor Oeste,150,3,3,1
-345.000,QI, Setor Industrial,64,3,1,1
-170.000,C 12, Taguatinga Centro,70,2,2,1
+680.000,Rodovia DF-440, Regiao dos Lagos,130,4,5,3
+400.000,Riacho Fundo I, Brasília,69,2,1,2
+230.000,Ceilandia Norte, Brasília,55,2,1,1
+118.000,QR 309 Conjunto D, Santa Maria,150,3,1,2
+8.000.000,SMPW Quadra 12, Park Way,200000000,,,
+650.000,Setor Habitacional Vicente Pires, Brasília,250,3,4,2
+500.000,Samambaia Sul, Brasília,110,3,2,3
+90.000,SDS, Asa Sul,60,,,1
+950.000,Taguatinga Sul, Brasília,221,4,3,3
+495.000,Rua 36, Norte,63,2,2,2
+380.000,SMAS, Zona Industrial,30,,,1
+148.000,QS 9 Rua 123, Aguas Claras,34,1,1,1
+460.000,Aguas Claras, Brasília,370,4,5,1
+275.000,Ceilandia Sul, Brasília,67,3,1,2
+45.000,Asa Sul, Brasília,12,,1,
+900.000,Setor Habitacional Vicente Pires, Brasília,200,3,2,4
+625.000,Norte, Brasília,87,3,2,3
+750.000,Ponte Alta Norte, Brasília,190,4,4,5
+650.000,Asa Sul, Brasília,60,2,,2
+220.000,QI 18 Bloco P, Guara I,48,2,,2
+420.000,Norte, Brasília,55,1,1,2
 299.000,Alameda Fleury Curado, Setor Faiçalville,79,3,1 - 2,2
 152.900,Rua Carlos Gomes, Lorena Park,39,2,1,1
 149.900,Rua Augusta, Parque das Nações,52 - 54 m²,2,1,1 - 2
-250.000,CCSW 4 Lote 2 Bloco B, Setor Sudoeste,33,1,1,1
-495.000,Condomínio Quinta dos Ipês, Quinta dos Ipes,180,3,2,3
-797.000,Condomínio Ouro Vermelho I, Setor Habitacional Jardim Botânico,300,7,5,6
-360.000,Ceilandia Sul, Brasília,250,4,2,2
-890.000,SHA Conjunto 4 Chácara 75, Setor Habitacional Arniqueira,201,3,2,4
-229.000,Chácara 136, Setor Habitacional Vicente Pires Trecho 3,80,3,1,1
-130.000,SIA Quadra 5-C, Zona Industrial,40,,,1
-430.000,Sul, Brasília,60,2,1,2
-750.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,300,3,2,3
-295.000,SHN Quadra, Asa Norte,71,1,,1
-1.300.000,Setor Habitacional Arniqueira, Brasília,280,4,4,5
-360.000,Jardins Mangueiral, Brasília,75,2,2,2
-140.000,SDS, Asa Sul,30,,,1
-234.900,QNM 29, Ceilandia Sul,44,2,1,1
-980.000,Setor Habitacional Vicente Pires, Brasília,350,3,4,4
-260.000,QNA 28, Taguatinga Norte,60,2,2,1
-140.000,CLN 303 Bloco A, Asa Norte,37,,,1
-209.996,Núcleo Bandeirante, Brasília,56,2,,2
-330.000,Quadra 46, Setor Leste,275,4,2,2
-355.000,QRC 14, Residencial Santos Dumont,180,4,2,4
-496.463,SGCV Lote 10, Zona Industrial,42,1,1,1
+500.834,Área Especial 2 Módulo E, Guara II,56,2,2,2
+390.000,Setor Habitacional Arniqueira, Brasília,120,4,2,2
+265.000,QI 3, Setor Industrial,51,2,1,2
+1.350.000,QSB 9, Taguatinga,300,4,2,5
+385.000,QN 14C Conjunto 7, Riacho Fundo II,200,4,6,2
+950.000,Vicente Pires, Brasília,280,4,4,5
+220.000,QNO 16 Conjunto 18, Ceilândia,126,3,3,1
+230.000,Samambaia Sul, Brasília,59,2,1,1
+285.994,Setor Meireles, Brasília,103,3,1,2
+150.000,QS 16, Riacho Fundo I,55,2,,1
+1.150.000,Setor Habitacional Vicente Pires, Brasília,350,3,2,4
+340.000,CNR 1 Conjunto A, Ceilandia Norte,250,3,2,2
+125.000,Samambaia Norte, Brasília,60,2,5,1
+279.000,QS 11 Conjunto K, Areal,147,2,4,1
+190.000,Ponte Alta Norte, Ponte Alta Norte,120,2,6,1
+1.930.000,Zona Industrial, Brasília,122,3,2,5
+230.000,Samambaia Sul, Brasília,100,3,3,2
+350.000,Setor Habitacional Arniqueira, Brasília,63,2,2,2
+1.850.000,Rua 1 Chácara 25/4, Setor Habitacional Vicente Pires,370,4,4,5
+480.000,SHA Conjunto 1 Chácara 1, Setor Habitacional Arniqueira,120,2,,1
+420.000,QS 6 Conjunto 240A, Areal,202,3,3,2
 120.000,, Aragoiânia,51,2,2,1
-181.900,QR 403, Samambaia Norte,55,2,1,1
-305.000,CSG 3, Taguatinga Sul,46,1,1,1
-485.000,Quadra 101, Norte,64,2,1,2
-190.000,Taguatinga Norte, Brasília,65,2,1,1
-300.000,Recanto das Emas, Brasília,140,3,5,2
-580.000,Setor de Mansões de Sobradinho, Brasília,230,3,7,4
-490.000,SHA Conjunto 5 Chácara 19, Setor Habitacional Arniqueira,300,3,6,3
-189.000,Riacho Fundo I, Brasília,62,2,,2
-3.300.000,Lago Sul, Brasília,1312,,,
-270.000,Área Especial Setor C Norte, Taguatinga Norte,27,,,1
-90.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,63,2,,1
-875.000,Taguatinga Norte, Brasília,390,3,4,6
-230.000,Samambaia Sul, Brasília,57,2,1,1
-230.000,QMSW 5, Setor Sudoeste,27,,,1
-380.000,Residencial Itaipu Quadra 40, Residencial Itaipu,150,3,3,1
-185.000,Avenida Comercial, Setor Habitacional Jardim Botânico,400,,,
-245.000,Samambaia Norte, Brasília,65,3,1,2
-1.500.000,Área Rural, Area Rural de Planaltina,700000,4,4,3
-265.000,Samambaia Norte, Brasília,63,3,1,1
+880.000,Vicente Pires, Brasília,230,3,3,4
+180.000,STN, Asa Norte,30,,,1
+360.000,, Brasília,63,3,,1
+172.000,Asa Norte, Brasília,25,,,1
+980.000,Condomínio Quintas do Sol, Setor Habitacional Jardim Botânico,540,4,3,5
+360.000,SHCES Quadra 101 Bloco B, Cruzeiro Novo,63,3,,2
+1.300.000,SHA Conjunto 4 Chácara 89, Setor Habitacional Arniqueira,280,4,3,5
+500.000,SMPW Quadra 5 Conjunto 6, Park Way,200,3,8,3
+1.267.722,Avenida das Araucárias, Aguas Claras,158,4,3,3
+950.000,SQSW 304, Setor Sudoeste,87,3,1,2
+1.150.000,SQN 313 Bloco G, Asa Norte,102,3,1,3
+450.000,Setor Habitacional Arniqueira, Brasília,150,3,2,1
+1.080.000,Guara I, Brasília,310,3,3,3
+635.000,CNB 3, Taguatinga Norte,139,4,1,3
+310.000,QR 402, Samambaia Norte,193,3,3,1
+1.099.000,Condomínio Mirante das Paineiras, Lago Sul,445,5,2,7
+490.000,AR Gleba 03 - Núcleo Rural Alexandre Gusmão,,286,3,,1
+170.000,SRTVS, Asa Sul,33,,1,1
 850.000,Setor de Mansões Taguatinga, Taguatinga Sul,525,6,4,5
-85.000,Samambaia Norte, Brasília,48,2,1,1
-220.000,Taguatinga, Brasília,77,3,1,1
-500.000,Rua Chiara, Ponte Alta Norte,550,3,2,3
+660.000,Chácara 67, Setor Habitacional Vicente Pires Trecho 3,600,3,4,4
+335.000,Jardins Mangueiral, Brasília,54,2,2,2
+467.356,Norte, Brasília,68,2,1,2
+195.000,Asa Norte, Brasília,25,,,1
+259.000,Areal, Brasília,53,2,1,1
+125.000,Guara II, Brasília,55,2,,1
+950.000,Setor Habitacional Vicente Pires, Brasília,140,3,2,4
+140.000,SDS, Asa Sul,30,,,1
+330.000,Riacho Fundo I, Brasília,200,6,,3
+330.000,QNN 34, Ceilandia Sul,65,2,1,2
+235.000,SHN Quadra, Asa Norte,40,1,,1
+98.900,QS 409 Conjunto E, Samambaia Norte,47,2,1,1
+1.250.000,SQNW 107 Bloco C, Setor Noroeste,86,2,2,2
+349.000,Condomínio Jardim Botânico I, Setor Habitacional Jardim Botânico,393,,,
+185.000,SHN Quadra, Asa Norte,35,1,,1
+800.000,Setor Habitacional Arniqueira, Brasília,200,3,2,3
+380.000,CRS 514, Asa Sul,60,2,,2
+1.200.000,Setor Noroeste, Brasília,100,3,1,3
+340.000,QR 4 Conjunto H, Candangolândia,128,3,2,1
+210.000,QS 412, Samambaia Norte,62,2,1,2
+270.000,QR 321 Conjunto 10, Samambaia Sul,64,3,1,2
+78.000,SCS Quadra, Asa Sul,30,,,1
+630.000,QE 38 Conjunto G, Guara II,270,3,3,5
+980.000,Setor Habitacional Vicente Pires, Brasília,300,4,4,5
+800.000,Chácara 136, Setor Habitacional Vicente Pires Trecho 3,500,3,6,3
+480.000,Setor Habitacional Arniqueira, Brasília,214,3,10,2
+380.000,QR 320 Conjunto 7, Samambaia Sul,112,2,2,1
+350.000,C 12, Taguatinga Centro,75,3,2,2
+950.000,Rua 3 Chácara 88, Setor Habitacional Vicente Pires,210,3,2,5
+670.000,SHA Conjunto 3 Chácara 81, Setor Habitacional Arniqueira,220,3,2,3
+1.500.000,Condomínio Parque Jardim das Paineiras, Setor Habitacional Jardim Botânico,1000,4,2,7
+309.000,QNP 5 Conjunto J, Ceilandia Norte,185,3,4,2
+850.000,Guara II, Brasília,87,3,2,4
+359.000,QNL 17 Conjunto B, Taguatinga Norte,150,2,4,3
+112.000,Asa Norte, Brasília,30,,,
+200.000,QNO 11 Conjunto O, Ceilandia Norte,120,3,3,1
+1.100.000,Rua 12 Chácara 318, Setor Habitacional Vicente Pires,400,4,2,6
+799.900,Rua 3C Chácara 26, Setor Habitacional Vicente Pires,650,9,,1
+1.199.994,Guara II, Brasília,530,5,6,6
+170.000,QNQ 4 Conjunto 11, Ceilandia Norte,126,2,,1
+360.000,Condomínio Ouro Vermelho II, Setor Habitacional Jardim Botânico,100,2,2,2
+1.150.000,Zona Industrial, Brasília,86,2,2,2
+175.000,QN 508 Conjunto 1, Samambaia Sul,39,1,1,1
+195.000,C 3, Taguatinga Centro,55,2,1,1
+330.000,QI 6 Bloco T, Guara I,68,2,1,2
+255.000,QNL 16 Conjunto A, Taguatinga Norte,90,3,2,1
+195.000,Taguatinga Centro, Brasília,55,2,1,1
+800.000,Taguatinga Sul, Brasília,65,2,,3
+305.000,Ceilandia Sul, Brasília,150,5,2,4
+210.000,QS 303, Samambaia Sul,75,3,1,1
+450.000,Rua Chiara, Ponte Alta Norte,140,2,4,3
+465.000,Rua 8, Norte,60,2,1,2
+270.000,SHA Conjunto 6, Setor Habitacional Arniqueira,370,,,
+700.000,QNL 3, Taguatinga Norte,240,3,5,3
+240.000,Taguatinga, Brasília,80,3,1,2
+250.000,Ceilandia Sul, Brasília,135,4,2,2
+150.000,Quadra 15 Conjunto K, Paranoá,100,4,1,2
+195.000,Rua 4A, Setor Habitacional Vicente Pires,47,2,1,1
+750.000,Condomínio Residencial Privê La Font, Paranoá,260,3,2,4
+189.000,Vicente Pires, Brasília,55,2,1,1
+880.000,Rua 3B Chácara 38, Vicente Pires,200,3,4,4
+370.000,QNN 26, Ceilandia Sul,150,3,2,1
+315.000,QNP 10 Conjunto U, Ceilandia Sul,113,2,3,1
+400.000,QR 517 Conjunto 14, Samambaia Sul,240,4,2,3
+315.000,Zona Industrial, Brasília,36,,1,1
+1.080.000,Condomínio Quinta Interlagos, Setor Habitacional Jardim Botânico,400,4,,7
+223.500,Rua Copaíba, Setor Sul,33,1,1,1
+750.000,Setor Habitacional Vicente Pires, Brasília,200,6,4,4
+600.000,Setor Habitacional Vicente Pires, Brasília,200,3,1,3
+166.250,Samambaia Sul, Brasília,34,,,
+240.000,Quadra 27, Setor Leste,180,,,3
+630.000,Norte, Brasília,87,3,2,2
+409.900,Norte, Brasília,54,2,1,2
+590.000,QSC 19 Chácara 26 Conjunto A1, Taguatinga Sul,220,3,4,1
+285.000,Setor Habitacional Vicente Pires, Brasília,63,2,1,2
+290.000,Setor SAGOCA, Taguatinga Norte,51,2,1,2
+550.000,Setor Habitacional Arniqueira, Brasília,160,3,,3
+575.000,CSG 3, Taguatinga Sul,82,2,1,2
+450.000,Setor Habitacional Vicente Pires, Brasília,220,4,3,2
+875.000,Taguatinga Norte, Brasília,390,3,4,6
+400.000,QNL 7 Bloco F, Taguatinga Norte,217,3,6,2
+230.000,QMSW 5, Setor Sudoeste,27,,,1
+1.200.000,Setor Habitacional Vicente Pires, Brasília,290,4,2,5
+1.000.000,Setor Habitacional Arniqueira, Brasília,400,3,2,3
+450.000,Quadra 2 Conjunto 2, Lago Norte,2200,3,,
+330.000,Ceilandia Norte, Brasília,70,3,1,2
+415.000,Quadra 102, Norte,68,2,1,2
+550.000,SHA Conjunto 6 Chácara 535, Setor Habitacional Arniqueira,160,3,10,2
+370.000,SHN Quadra 1 Bloco F,,36,,,
+850.000,Condomínio RK, Regiao dos Lagos,300,5,2,6
+1.399.000,Condomínio Mirante das Paineiras, Lago Sul,500,4,4,6
+355.000,Taguatinga Norte, Brasília,64,3,1,2
+299.000,QNM 33 Área Especial H, Ceilandia Sul,60,2,1,2
+450.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,130,3,5,2
+350.000,SHS Quadra 6 Conjunto A, Asa Sul,45,1,,1
+390.000,Taguatinga Norte, Brasília,180,3,4,2
+580.000,Setor Habitacional Vicente Pires, Brasília,185,2,4,3
+430.000,Rua Rodobelo I, Ponte Alta Norte,800,4,10,3
+120.000,QE 40 Conjunto M, Guara II,100,,3,2
+1.100.000,Setor Habitacional Arniqueira, Brasília,390,4,2,4
+178.000,CLN 5 Bloco G, Riacho Fundo I,48,2,,1
+450.000,Rua 36, Aguas Claras,70,3,1,2
+230.000,QNP 17 Conjunto A, Ceilandia Norte,80,3,3,3
+790.000,Avenida Flamboyant, Norte,113,3,1,3
+300.000,Quadra 403 Conjunto 1, Recanto das Emas,200,3,,2
+175.000,Taguatinga Norte, Brasília,68,2,,1
+240.000,SHN Quadra, Asa Norte,34,1,1,1
+1.100.000,Setor Habitacional Vicente Pires, Brasília,1600,4,,5
+140.000,Setor Habitacional Vicente Pires, Brasília,56,2,,1
+160.000,Setor Habitacional Vicente Pires, Brasília,52,2,,1
+1.250.000,Setor Habitacional Vicente Pires, Brasília,450,4,4,3
+950.000,Setor Habitacional Arniqueira, Brasília,290,3,2,4
+215.000,Taguatinga Norte, Brasília,63,2,1,1
+350.000,Ceilandia Norte, Brasília,250,4,2,1
+280.000,QNN 11, Ceilandia Norte,68,3,1,2
+245.000,SHS Quadra 6, Asa Sul,34,,,1
+135.000,CLN 115 Bloco B, Asa Norte,20,1,,1
+650.000,Riacho Fundo I, Brasília,280,4,3,3
+450.000,Avenida Parque Águas Claras, Sul,74,3,2,2
+1.290.000,SQN 313 Bloco E, Asa Norte,118,3,1,3
+1.200.000,Setor Habitacional Vicente Pires, Brasília,270,4,2,3
+250.000,Asa Sul, Brasília,27,,1,1
+280.000,QN 404 Conjunto C, Samambaia Norte,64,3,1,2
+560.000,Guara II, Brasília,62,2,1,2
+209.994,Núcleo Bandeirante, Brasília,56,2,,2
+490.000,Norte, Brasília,70,2,1,2
+950.000,Rua 6 Chácara 272, Setor Habitacional Vicente Pires,280,3,3,4
+197.000,QS 5 Rua 100, Areal,44,1,1,1
+189.999,CNB, Taguatinga Norte,70,2,,2
+750.000,Norte, Brasília,94,3,1,4
+480.000,Condomínio Ouro Vermelho II, Setor Habitacional Jardim Botânico,170,3,4,3
+585.000,CLSW 300A Bloco 3, Setor Sudoeste,55,1,1,1
+550.000,QR 213 Conjunto 3, Samambaia Norte,126,5,3,4
+250.000,Taguatinga Norte, Brasília,56,2,1,1
+110.000,Quadra AC 200 Bloco D, Santa Maria,47,2,1,1
+285.000,Setor SAGOCA, Taguatinga Norte,50,2,1,1
+175.000,Área Especiais, Taguatinga Norte,53,2,,1
+285.000,SHS Quadra 6, Asa Sul,34,,,1
+119.000,Rua 4A, Setor Habitacional Vicente Pires,33,1,,1
+850.000,SHA Conjunto 5 Chácara 126, Setor Habitacional Arniqueira,300,3,2,4
+980.000,Setor Habitacional Vicente Pires, Brasília,250,3,4,5
+1.000.000,Setor Habitacional Vicente Pires, Brasília,220,3,2,4
+1.000.000,Setor Habitacional Vicente Pires, Brasília,220,3,2,4
+510.000,Sul, Brasília,60,2,1,2
+200.000,Setor Habitacional Arniqueira, Brasília,200,3,3,2
+238.000,SHN Quadra 5, Asa Norte,40,1,,1
+1.150.000,Setor Habitacional Vicente Pires, Brasília,298,3,2,5
+260.000,Ceilandia Norte, Brasília,200,5,1,4
+359.994,Taguatinga Centro, Brasília,52,2,1,2
+899.000,Sobradinho, Brasília,520,5,4,4
+870.000,SHA Conjunto 5 Chácara 106, Setor Habitacional Arniqueira,260,4,4,4
+245.000,Ceilandia Norte, Brasília,200,6,3,6
+685.000,Condomínio Mini Chácaras do Lago Sul, Setor Habitacional Jardim Botânico,180,3,2,3
+430.000,Setor Habitacional Arniqueira, Brasília,500,,,
+345.000,Setor Industrial, Brasília,64,3,1,2
+500.000,Norte, Brasília,69,2,1,2
+720.000,Rodovia DF-001, Setor Habitacional Jardim Botânico,220,3,4,1
+230.000,Ceilandia Sul, Brasília,98,2,3,2
+300.000,Riacho Fundo I, Brasília,56,2,1,2
+300.000,QR 413 Conjunto 1, Samambaia Norte,126,4,2,2
+565.000,Quadra 2, Sobradinho,350,4,3,4
+900.000,Avenida Parque Águas Claras, Aguas Claras,184,2,2,3
+190.000,CLN 306 Bloco A, Asa Norte,43,,,1
+650.000,SQN 411 Bloco O, Asa Norte,95,3,,2
+1.630.000,Condomínio Residencial Maxximo Garden, Setor Habitacional Jardim Botânico,340,4,4,5
+181.900,QR 403, Samambaia Norte,55,2,1,1
+790.000,Chácara 143, Vicente Pires,350,3,5,3
+50.000,Núcleo Rural Ponte Alta de Cima, Ponte Alta Norte,372,,,
+200.000,QN 404 Conjunto E, Samambaia Norte,45,2,1,1
+430.000,Setor Habitacional Vicente Pires, Brasília,100,3,2,2
+710.000,Avenida Parque Águas Claras, Norte,88,3,1,3
+399.900,Aguas Claras, Brasília,57,2,1,2
+190.000,STN, Asa Norte,32,,,1
+140.000,CLN 402 Bloco A, Asa Norte,26,1,,1
+820.000,Rua 3 Chácara 82, Setor Habitacional Vicente Pires,163,3,2,3
+335.000,QR 316 Conjunto 10, Samambaia Sul,225,2,6,1
+1.250.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,1500,5,6,5
+189.000,CNB 13, Taguatinga Norte,65,2,,2
+1.300.000,Setor Habitacional Vicente Pires, Brasília,280,4,4,5
+1.300.000,Setor Habitacional Vicente Pires, Brasília,280,4,4,5
+229.000,Chácara 136, Setor Habitacional Vicente Pires Trecho 3,80,3,1,1
+250.000,CNB 10, Taguatinga Norte,54,1,1,1
+245.000,Samambaia Norte, Brasília,65,3,1,2
+180.000,Guara II, Brasília,100,,,1
+530.000,Ponte Alta Norte, Brasília,220,3,2,2
+750.000,Setor Habitacional Vicente Pires, Brasília,240,3,4,2
+3.500.000,SMPW Quadra 20 Conjunto 4, Park Way,1386,14,10,18
+380.000,Taguatinga Norte, Brasília,250,3,3,1
+220.000,SRTVS, Asa Sul,30,,1,1
+840.000,Vila Sao Jose, Brasília,382,5,3,5
+200.000,Rua 8 Chácara 213, Vicente Pires,78,2,1,1
+387.000,Setor Habitacional Arniqueira, Brasília,75,3,2,2
+480.000,QNC 1, Taguatinga Norte,73,3,2,2
+465.000,Guara II, Brasília,57,2,1,1
+519.994,Taguatinga Sul, Brasília,82,2,1,2
+520.000,QI, Setor Industrial,101,2,1,3
+300.000,SEPS 713/913, Asa Sul,25,1,1,1
+410.000,SHCGN 716 Bloco J, Asa Norte,50,2,,1
+598.347,Sul, Brasília,91,3,2,3
+650.000,Sul, Brasília,96,3,1,3
+380.000,Rua 5, Sul,55,2,1,1
+185.000,Samambaia Sul, Brasília,80,2,2,1
+325.000,CSB, Taguatinga Sul,68,3,1,2
+190.000,Terceira Avenida Área Especial 13, Núcleo Bandeirante,50,2,,1
+380.000,Quadra AC 2, Riacho Fundo I,75,3,1,1
+450.000,Quadra 12, Setor Oeste,275,3,3,2
+270.000,QS 18 Conjunto 1, Riacho Fundo II,200,4,2,2
+260.000,Taguatinga Sul, Brasília,150,4,,3
+570.000,Área Especial 4 Módulo E, Guara II,62,2,1,2
+500.000,Setor Habitacional Arniqueira, Brasília,185,2,2,3
+1.100.000,Setor Habitacional Vicente Pires, Brasília,400,4,2,4
+100.000,Setor Habitacional Vicente Pires, Brasília,50,1,,1
+1.050.000,Setor Habitacional Vicente Pires, Brasília,280,3,2,4
+690.000,QE 26 Conjunto C, Guara II,170,3,4,3
+490.000,Ceilandia Sul, Brasília,144,3,2,5
+470.000,Samambaia Norte, Brasília,180,4,2,4
+645.000,Quadra 102, Norte,81,3,2,2
+150.000,Riacho Fundo I, Brasília,53,2,,1
+170.000,CSB, Taguatinga Sul,55,2,,1
+1.200.000,Vicente Pires, Brasília,200,4,2,5
+483.000,Norte, Brasília,64,2,1,2
+710.000,Norte, Brasília,107,3,,2
+90.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,63,2,,1
+580.000,Rua 24 Chácara 344, Vila Sao Jose,220,4,3,3
+980.000,Setor Habitacional Vicente Pires, Brasília,250,4,4,4
+419.000,SHCES Quadra 309, Cruzeiro Novo,63,3,,1
+210.000,QR 501 Conjunto 13, Samambaia Sul,112,3,2,1
+645.000,Quadra 102, Aguas Claras,81,3,2,2
+190.000,Quadra 205, Sul,31,,1,
+600.000,Setor Industrial, Brasília,87,3,1,3
+865.000,QI 8 Conjunto U, Guara I,220,3,4,3
+279.900,Samambaia, Brasília,130,2,2,1
+660.000,QR 406, Samambaia Norte,246,4,3,3
+196.000,Taguatinga Norte, Brasília,63,2,1,1
+1.380.000,Rodovia DF-, Setor Habitacional Jardim Botânico,400,4,2,7
+230.000,QNP 32 Conjunto V, Ceilandia Sul,110,2,2,1
+85.000,SCS Quadra, Asa Sul,30,,,1
+220.000,Riacho Fundo I, Brasília,400,,2,
+739.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,750,4,5,3
+208.000,QS 116, Samambaia Sul,48,2,1,1
+140.000,Setor Habitacional Vicente Pires, Brasília,55,2,,1
+650.000,Sul, Brasília,91,3,2,4
+205.000,QN 312 Conjunto 5, Samambaia Sul,55,2,1,1
+1.100.000,Setor Habitacional Vicente Pires, Brasília,390,3,4,5
+590.000,Rua das Pitangueiras, Aguas Claras,79,2,1,2
+950.000,Setor Habitacional Vicente Pires, Brasília,280,3,4,5
+1.200.000,Setor Habitacional Vicente Pires, Brasília,380,4,4,5
+1.411.624,SQNW 311 Bloco H, Setor Noroeste,103,3,2,3
+320.000,QI 10 Bloco T, Guara I,86,2,1,1
+370.000,Quadra 405 Conjunto 11, Recanto das Emas,250,5,2,3
+267.965,SGAN 910/911, Asa Norte,29,1,1,1
+85.000,Riacho Fundo I, Brasília,35,,,1
+1.100.000,Setor Habitacional Vicente Pires, Brasília,900,4,2,3
+250.000,"Rodovia DF-240, Km 86 - Rodovia Taguatinga/Brazlândia Chácara,",,262,4,3,2
+342.000,Samambaia Sul, Brasília,208,4,4,2
+149.994,Samambaia Sul, Brasília,126,2,2,1
+180.000,Recanto das Emas, Brasília,150,3,,2
+1.500.000,Área Rural, Area Rural de Planaltina,700000,4,4,3
+890.000,Núcleo Rural Ponte Alta de Cima, Ponte Alta Norte,800,3,3,4
+620.000,Quadra 104, Aguas Claras,115,3,2,2
+165.000,Setor Habitacional Vicente Pires, Brasília,52,2,,1
+780.000,Setor Habitacional Arniqueira, Brasília,300,4,2,4
+740.000,Rua 3 Chácara 45, Setor Habitacional Vicente Pires,200,3,10,4
+956.984,CA 11, Setor de Habitações Individuais Norte,81,3,2,3
+475.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,280,3,3,2
+250.000,Taguatinga Norte, Brasília,57,2,1,1
+181.900,QS 303 Conjunto 7, Samambaia Sul,44,2,1,1
+620.000,Sul, Brasília,73,2,2,2
+1.300.000,Setor Habitacional Vicente Pires, Brasília,500,5,5,4
+110.000,QSC 19, Taguatinga,52,2,1,1
+790.000,CLSW 300A Bloco 3, Setor Sudoeste,100,2,2,2
+1.100.000,SQNW 309 Bloco K, Setor Noroeste,76,2,1,3
+285.000,SHN Quadra 1, Asa Norte,27,,1,
+1.100.000,Setor Habitacional Vicente Pires, Brasília,300,3,2,4
+320.000,Riacho Fundo I, Brasília,63,2,2,1
+650.000,SQS 412 Bloco P, Asa Sul,80,3,,2
+440.000,Setor Habitacional Arniqueira, Brasília,200,4,4,1
+1.000.050,Guara II, Brasília,166,3,3,4
+330.000,CA 11, Lago Norte,31,1,,1
+290.000,Norte, Brasília,50,2,1,1
+575.000,Ponte Alta Norte, Brasília,190,3,1,3
+750.000,QR 1-A Conjunto V, Candangolândia,267,4,3,3
+125.000,Setor Habitacional Vicente Pires, Brasília,47,2,,1
+1.300.000,Setor Habitacional Arniqueira, Brasília,280,4,4,5
+200.000,Asa Norte, Brasília,25,,,1
+200.000,Asa Norte, Brasília,25,,,1
+810.000,Setor Habitacional Vicente Pires, Brasília,250,4,2,3
+190.000,Taguatinga Norte, Brasília,65,2,1,1
+97.000,Avenida Sucupira, Riacho Fundo I,40,1,,1
+193.000,Taguatinga Norte, Brasília,57,2,,1
+860.000,Sul, Brasília,93,3,2,3
+660.000,Rua 36, Aguas Claras,91,3,1,3
+228.000,Samambaia Sul, Brasília,55,2,1,1
+250.000,QNL 24 Conjunto C, Taguatinga Norte,85,2,2,1
+188.000,Riacho Fundo I, Brasília,57,2,,1
+170.000,Setor Habitacional Vicente Pires, Brasília,45,2,1,1
+580.000,Setor Habitacional Vicente Pires, Brasília,415,3,2,3
+1.000.000,Vicente Pires, Brasília,250,3,3,6
+1.310.000,Setor Habitacional Vicente Pires, Brasília,400,4,2,5
+765.000,Condomínio RK, Regiao dos Lagos,250,4,3,3
+1.200.000,Setor Habitacional Jardim Botânico, Brasília,390,4,,6
+495.000,Condomínio Quinta dos Ipês, Quinta dos Ipes,180,3,2,3
+235.000,QNQ 2 Conjunto 18, Ceilandia Norte,120,3,2,2
+1.200.000,Setor Habitacional Vicente Pires, Brasília,300,3,2,4
+890.000,SHA Conjunto 4 Chácara 75, Setor Habitacional Arniqueira,201,3,2,4
+380.000,Jardins Mangueiral, Brasília,63,2,2,2
+410.000,Rua 37, Aguas Claras,47,2,1,1
+260.000,Norte, Brasília,29,,,
+360.000,Samambaia Norte, Brasília,200,2,5,2
+797.000,Condomínio Ouro Vermelho I, Setor Habitacional Jardim Botânico,300,7,5,6
+870.000,Segunda Avenida Bloco 1580, Núcleo Bandeirante,170,4,2,4
+290.000,SHN Quadra 1, Asa Norte,25,,1,
+280.000,CLSW 101 Bloco B, Setor Sudoeste,42,,,1
+228.000,Asa Norte, Brasília,25,,,
+440.000,Sul, Brasília,52,2,1,2
+253.606,QN 120 Conjunto 3, Samambaia Sul,54,2,1,1
+170.000,Guara II, Brasília,45,,,1
+140.000,Setor Habitacional Vicente Pires, Brasília,48,2,,1
+685.000,Rua das Aroeiras, Norte,92,3,2,3
+260.000,SRTVS, Asa Sul,34,,,1
+340.000,Ceilandia Norte, Brasília,190,5,1,3
+1.290.000,Setor Habitacional Vicente Pires, Brasília,450,4,4,5
+750.000,Setor Habitacional Vicente Pires, Brasília,380,4,4,4
+339.999,Quadra 101, Norte,49,2,1,1
+320.000,Quadras Economicas Lucio Costa, Brasília,60,2,2,1
+225.000,Taguatinga Norte, Brasília,230,5,3,4
+280.000,Recanto das Emas, Brasília,125,3,3,2
+500.000,Guara II, Brasília,59,2,1,2
+1.300.000,Rodovia DF-001,,236,3,2,5
+650.000,SHA Conjunto 5 Chácara 12, Setor Habitacional Arniqueira,180,3,4,2
+299.000,QR 121 Conjunto 6, Samambaia Sul,180,2,2,1
+350.000,QR 113 Conjunto 2, Samambaia Sul,160,5,2,5
+750.000,Condomínio Belvedere Green, Setor Habitacional Jardim Botânico,310,4,4,4
+160.000,Rodovia BR-040, Santa Maria,45,2,1,1
+740.000,Condomínio Residencial Privê La Font, Paranoá,250,3,2,4
+500.000,Rua 4A Blocos 2 e 3, Setor Habitacional Vicente Pires,110,3,1,2
+200.000,SAUS Quadra, Asa Norte,24,,,1
+380.000,QR 408 Conjunto 8, Samambaia Norte,192,3,3,2
+290.000,QI 4 Bloco A, Guara I,60,2,1,2
+225.000,Setor Habitacional Vicente Pires, Brasília,53,2,1,1
+1.290.000,Setor Habitacional Taquari, Brasília,190,4,6,4
+150.000,Rodovia DF-001, Setor Habitacional Vicente Pires,120,2,2,1
+300.000,Rodovia DF-001, Lago Sul,2000,,,
+245.000,AR 12 Conjunto 9, Sobradinho II,107,3,1,2
+650.000,Norte, Brasília,82,2,2,3
+180.000,Colônia Agrícola Bernardo Sayão Chácara 10A, Guara II,50,1,2,1
+1.250.000,Setor Habitacional Vicente Pires, Brasília,300,4,2,5
+3.100.000,SMLN ML Trecho 9 Conjunto 1, Lago Norte,8400,,,
+900.000,Setor Habitacional Vicente Pires, Brasília,220,3,3,5
+390.000,Área Rural, Area Rural do Gama,7000,3,2,2
+340.000,Riacho Fundo II, Brasília,112,4,1,4
+1.050.000,Condomínio Quintas do Sol, Setor Habitacional Jardim Botânico,394,4,3,4
+1.100.000,Condomínio Ouro Vermelho I, Setor Habitacional Jardim Botânico,476,4,4,5
+799.999,Rua 3B Chácara 38, Setor Habitacional Vicente Pires,400,3,2,4
+550.000,QRI 29, Residencial Santos Dumont,250,3,1,2
+1.350.000,Setor Habitacional Arniqueira, Brasília,270,4,2,5
+395.000,Norte, Brasília,56,2,1,2
+730.000,Taguatinga Sul, Brasília,300,3,2,1
+320.000,QE 38 Bloco D, Guara II,56,2,1,1
+199.000,QNN 5 Conjunto N, Ceilandia Norte,150,4,,2
+3.000.000,SMPW Quadra 26 Conjunto 9, Park Way,125000000,,,1
+950.000,Setor Habitacional Vicente Pires, Brasília,400,4,3,4
+690.000,Condomínio Quinta dos Ipês, Setor Habitacional Jardim Botânico,200,3,2,3
+180.000,Setor Habitacional Vicente Pires, Brasília,62,3,,1
+149.000,Avenida Pau Brasil, Aguas Claras,28,,1,1
+680.000,Guara II, Brasília,180,3,2,3
+550.000,Jardins Mangueiral, Brasília,75,2,2,2
+430.000,QNC 4, Taguatinga Norte,160,3,2,2
+630.000,Área Rural, Area Rural do Lago Norte,5000,2,2,2
+180.000,Quadra 4 Conjunto 13, Setor Oeste,104,3,1,1
+670.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,150,3,4,1
+360.000,Setor Habitacional Arniqueira, Brasília,200,2,,3
+660.000,Setor Habitacional Vicente Pires, Brasília,200,3,2,2
+305.000,QNN 11, Ceilandia Norte,68,2,1,1
+400.000,Sul, Brasília,50,1,1,1
+195.000,Taguatinga Centro, Brasília,52,2,1,1
+260.000,AOS 2/8, Area Octogonal,28,,,1
+280.000,Setor Habitacional Vicente Pires, Brasília,80,3,1,2
+150.000,Módulo 1, Planaltina,44,2,1,1
+970.000,Setor Habitacional Arniqueira, Brasília,250,3,2,5
+310.000,Rua 7, Norte,41,1,1,1
+189.994,Taguatinga Norte, Brasília,65,2,1,1
+440.000,Setor Habitacional Vicente Pires, Brasília,110,3,5,2
+1.300.000,Setor Habitacional Vicente Pires, Brasília,300,3,2,4
+410.000,Rua 19, Sul,60,1,1,1
+150.000,Samambaia Sul, Brasília,55,,,2
+230.000,Condomínio Jardim Botânico VI, Setor Habitacional Jardim Botânico,80,2,,2
+110.000,QS 409 Conjunto E, Samambaia Norte,47,2,1,1
+145.000,SCS Quadra 6, Asa Sul,41,,,1
+1.280.000,Setor Habitacional Vicente Pires, Brasília,280,3,3,5
+1.280.000,Setor Habitacional Vicente Pires, Brasília,280,3,3,5
+530.000,Avenida das Araucárias, Taguatinga,73,3,1,3
+900.000,Setor Habitacional Vicente Pires, Brasília,450,4,4,4
+1.100.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,480,4,2,5
+490.000,Quadra 12 Área Especial CEF 7, Setor Sul,310,3,4,3
+1.250.000,Condomínio Morada de Deus, Setor Habitacional Jardim Botânico,400,4,4,7
+785.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,180,3,2,3
+580.000,Setor Habitacional Arniqueira, Brasília,200,5,4,4
+439.000,QS 10 Conjunto 210C, Aguas Claras,227,5,3,3
+899.000,Quadra 9 Conjunto 10, Setor Habitacional Vicente Pires Trecho 3,1000,3,4,3
+235.000,SGAS 910, Asa Sul,29,,,1
+1.350.000,Rodovia DF-150, Grande Colorado,280,5,3,7
+715.000,Guara II, Brasília,80,3,1,3
+340.000,Areal, Brasília,124,3,1,3
+420.000,Setor Industrial, Brasília,65,3,1,2
+265.000,SGAS 905, Asa Sul,40,,,1
+320.000,Norte, Brasília,54,2,1,1
+860.000,Setor Habitacional Vicente Pires, Brasília,290,4,1,4
+700.000,Setor Habitacional Vicente Pires, Brasília,468,3,5,2
+375.000,Rua 37, Sul,42,1,1,1
+568.000,Condomínio RK, Regiao dos Lagos,200,3,,2
+410.000,CSB 10, Taguatinga Sul,69,3,1,2
+650.000,Quadra 101, Riacho Fundo I,150,3,4,3
+310.000,QE 38 Bloco D, Guara II,54,2,1,1
+420.000,Setor Habitacional Vicente Pires, Brasília,400,,,
+345.000,QI, Setor Industrial,64,3,1,1
+290.000,QR 211 Conjunto 1, Samambaia Norte,140,2,3,1
+620.000,Condomínio RK, Regiao dos Lagos,230,4,3,3
+660.000,Samambaia Norte, Brasília,246,4,5,4
+420.000,Samambaia Norte, Brasília,130,4,2,3
+1.450.000,Condomínio Estância Quintas da Alvorada, Setor Habitacional Jardim Botânico,280,4,2,5
+369.529,Samambaia Norte, Brasília,80,3,1,2
+250.000,CLN 313 Bloco D, Asa Norte,33,,,1
+570.000,Lago Norte, Brasília,68,2,1,2
+490.000,Quadra 2 Conjunto CL1, Setor de Industrias Bernardo Sayao,225,3,,6
+520.000,Rua 36, Aguas Claras,64,3,2,2
+1.184.358,SQNW 310 Bloco E, Setor Noroeste,99,2,2,3
+215.000,QN 12C Conjunto 2, Riacho Fundo II,100,2,4,1
+290.000,Quadra 2 Conjunto B-4 Bloco C, Sobradinho,60,2,1,1
+235.000,Samambaia Sul, Brasília,54,2,1,1
+311.000,SIG Quadra 1, Zona Industrial,47,,1,
+160.000,QS 11 Conjunto A, Areal,147,2,,2
+215.000,QNL 11 Bloco D, Taguatinga Norte,82,2,1,1
+540.000,Norte, Brasília,77,2,1,3
+215.000,Taguatinga Norte, Brasília,67,2,1,1
+680.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,280,3,3,2
+90.000,Guara II, Brasília,50,2,,1
+115.000,Guara II, Brasília,50,2,,1
+750.000,Park Way , Brasília,250,3,4,4
+1.220.000,Setor Habitacional Vicente Pires, Brasília,450,4,4,5
+750.000,Avenida Flamboyant, Norte,113,3,1,3
+99.000,SIA Quadra 5-C, Zona Industrial,29,,,1
+650.000,QN 7 Área Especial 7, Riacho Fundo I,300,3,3,1
+170.000,Rua 3, Norte,36,1,1,1
+190.000,Setor Industrial, Brasília,325,,,
+1.000.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,240,4,2,5
+505.000,Rua 22, Aguas Claras,70,2,1,2
+420.000,Rua 30, Norte,55,1,1,2
+485.000,Quadra 103, Norte,65,2,1,1
+305.000,CSG 3, Taguatinga Sul,46,1,1,1
+700.000,Rodovia DF-150,,200,5,4,1
+300.000,Recanto das Emas, Brasília,140,3,5,2
+80.000,CLN 7 Bloco H, Riacho Fundo I,25,,,1
+350.000,Quadra 401 Conjunto 12, Recanto das Emas,120,5,4,1
+259.994,Samambaia Norte, Brasília,104,3,2,1
+425.000,Norte, Brasília,55,1,1,2
+168.000,Samambaia Norte, Brasília,100,,,
+485.000,Condomínio RK, Regiao dos Lagos,500,,,
+110.000,Guara II, Brasília,55,2,,1
+170.000,C 12, Taguatinga Centro,70,2,2,1
+214.994,Ceilandia Norte, Brasília,56,3,4,2
+250.000,"Rodovia DF-240, Km 86 - Rodovia Taguatinga/Brazlândia Chácara,",,118,2,2,1
+640.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,220,3,1,3
+550.000,QS 5 Rua 470, Areal,280,5,4,4
+250.000,QNN 19 Conjunto D, Ceilandia Norte,222,3,4,1
+380.000,Ceilandia Norte, Brasília,170,3,4,1
+620.000,Sul, Brasília,73,2,1,2
+430.000,Sul, Brasília,60,2,1,2
+1.000.000,Rodovia DF-130 Km, Paranoá,60000,4,,3
+34.000,SBS Quadra 1, Asa Sul,12,,1,
+1.250.000,Condomínio Morada de Deus, Setor Habitacional Jardim Botânico,266,4,,5
+100.000,CNH 5, Taguatinga Norte,80,,,2
+429.900,Taguatinga Norte, Brasília,73,3,1,2
+370.000,Asa Norte, Brasília,49,2,,1
+580.000,Setor Habitacional Arniqueira, Brasília,200,4,5,4
+1.200.000,Setor Habitacional Arniqueira, Brasília,400,4,4,4
+250.000,Asa Sul, Brasília,31,,,1
+450.000,SHA Conjunto 6 Chácara 486, Setor Habitacional Arniqueira,400,2,4,2
+319.990,Setor Industrial, Brasília,64,3,1,2
+315.000,Ceilandia Sul, Brasília,70,3,1,2
+220.000,Rodovia DF-130 Km, Paranoa Parque,20000,1,,1
+520.000,SHA Conjunto 5 Chácara 112, Setor Habitacional Arniqueira,280,5,4,3
+580.000,SIG Quadra 1, Zona Industrial,79,,,1
+359.000,Setor Habitacional Vicente Pires, Brasília,180,3,1,2
+795.000,Setor Habitacional Vicente Pires, Brasília,300,3,2,3
+860.000,Rua 5, Setor Habitacional Vicente Pires,363,3,2,4
+239.000,Condomínio Ouro Vermelho II, Setor Habitacional Jardim Botânico,1000,,,
+350.000,Taguatinga Centro, Brasília,71,2,1,2
+130.000,Riacho Fundo II, Brasília,55,2,1,1
+319.994,Recanto das Emas, Brasília,126,4,2,2
+210.000,SCRN 712/713, Asa Norte,42,1,,1
+289.520,Norte, Brasília,45,,,
+850.000,SQSW 105 Bloco D, Setor Sudoeste,77,2,1,3
+470.179,EQS 414/415, Aguas Claras,68,2,1,2
+930.000,Setor Habitacional Vicente Pires, Brasília,400,3,2,3
+199.994,Taguatinga Sul, Brasília,65,2,1,1
+630.000,Taguatinga Norte, Brasília,245,5,5,4
+650.000,Setor Habitacional Vicente Pires, Brasília,120,3,4,2
+435.000,"Rodovia DF-240, Km 86 - Rodovia Taguatinga/Brazlândia Chácara, Taguatinga Norte",,200,3,3,2
+980.000,Condomínio RK, Sobradinho,360,4,,4
+330.000,QNO 12 Área Especial I, Ceilandia Norte,64,3,1,2
+850.000,Setor Habitacional Vicente Pires, Brasília,200,3,2,4
+550.000,SHA Conjunto 5 Chácara 27, Setor Habitacional Arniqueira,400,3,4,3
+1.250.000,Rua 1 Chácara 16B, Setor Habitacional Vicente Pires,430,4,4,1
+850.000,Rodovia DF-251, Setor Habitacional Jardim Botânico,20000,3,,3
+290.000,Riacho Fundo I, Brasília,58,2,1,1
+670.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,250,3,2,2
+670.000,Sul, Brasília,89,3,1,3
+1.850.000,Condomínio Jardim Botânico V, Setor Habitacional Jardim Botânico,750,6,3,8
+500.000,Rodovia DF-130, Paranoá,140000,1,,1
+300.000,SAAN Quadra 3, Zona Industrial,67,,,2
+520.000,Quadra 28, Setor Tradicional,450,,13,
+128.000,QNO 12 Área Especial B, Ceilandia Norte,54,2,1,2
+139.000,Setor Habitacional Sol Nascente, Ceilandia Sul,150,2,4,1
+175.000,Riacho Fundo I, Brasília,47,2,1,1
+590.000,Setor Habitacional Vicente Pires, Brasília,140,3,2,2
+380.000,Rua 31, Aguas Claras,64,1,1,2
+650.000,Quadra 1, Gama,110,4,2,2
+1.100.000,Setor Habitacional Vicente Pires, Brasília,280,3,2,5
+1.480.200,CA 11, Setor de Habitações Individuais Norte,175,3,2,3
+130.000,QN 118 Conjunto 1, Samambaia Sul,47,2,1,1
+240.000,Samambaia Norte, Brasília,64,3,,1
+79.000,Guara II, Brasília,48,1,,1
+395.000,Quadra 101 Conjunto 3, Samambaia Sul,79,3,1,2
+405.000,Rua 37, Norte,59,1,1,1
+420.000,Ponte Alta Norte, Brasília,120,3,5,2
+209.900,Taguatinga Norte, Brasília,60,3,,2
+598.000,Jardins Mangueiral, Brasília,110,3,2,2
+575.000,EPTG Chácara 67, Setor Habitacional Vicente Pires,200,4,5,3
+165.000,Fazendinha, Brasília,100,4,,1
+910.000,Setor Habitacional Arniqueira, Brasília,250,3,2,4
+270.000,Ceilandia Sul, Brasília,100,3,3,1
+175.000,SEPS 705/905, Asa Sul,23,,,1
+380.000,Setor Habitacional Arniqueira, Brasília,200,2,2,2
+158.000,SRTVN Quadra 701 Lote P, Asa Norte,45,,1,1
+499.000,Quadra 301 Rua B Conjunto 1, Aguas Claras,68,3,2,2
+445.000,Guara I, Brasília,80,3,2,2
+98.000,Guara II, Brasília,53,2,,1
+350.000,QI 3, Setor Industrial,64,3,1,2
+425.000,Quadra 301 Conjunto 2, Samambaia Sul,90,3,1,2
+220.000,Taguatinga, Brasília,48,2,1,1
+1.160.000,Rua 26, Aguas Claras,145,4,2,5
+780.000,Condomínio Quinta Interlagos, Setor Habitacional Jardim Botânico,200,3,5,3
+390.000,SMHN, Asa Norte,33,,1,1
+399.000,QSF 11, Taguatinga Sul,120,3,3,2
+354.994,Areal, Brasília,121,3,2,2
+739.000,Setor Habitacional Vicente Pires, Brasília,230,3,5,1
+226.000,Samambaia Sul, Brasília,57,2,1,1
+115.000,Avenida das Araucárias, Aguas Claras,37,1,1,1
+249.900,Taguatinga, Brasília,48,2,1,1
+239.000,Condomínio Ouro Vermelho II, Setor Habitacional Jardim Botânico,1000,1,,1
+1.050.000,Setor Habitacional Arniqueira, Brasília,232,4,2,1
+150.000,SCS Quadra 3, Asa Sul,170,,2,2
+479.000,QNM 5, Ceilandia Sul,250,4,6,4
+470.000,Quadra 18, Serra Azul,480,3,2,3
+750.000,Sul, Brasília,82,2,1,2
+1.700.000,SMPW Quadra 5 Conjunto 7, Park Way,25000000,,,1
+215.000,Taguatinga Norte, Brasília,65,2,1,1
+580.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,100,2,1,2
+520.000,Sul, Brasília,58,2,1,2
+345.000,Riacho Fundo I, Brasília,135,3,,2
+520.000,Norte, Brasília,84,3,2,1
+195.000,SEPS 705/905, Asa Sul,20,,1,1
+1.950.000,Quadra 1 Bloco F, Setor Habitacional Jardim Botânico,650,8,3,5
+700.000,Setor Sudoeste, Brasília,68,2,1,2
+380.000,Riacho Fundo I, Brasília,80,3,1,2
+650.000,Ceilandia Norte, Brasília,250,6,4,5
+1.280.000,SMPW Quadra 7 Conjunto 1, Park Way,2500,,,
+270.000,Ceilandia Norte, Brasília,150,4,5,2
+325.000,QNO 6, Setor Oeste,150,3,3,1
+250.000,Avenida Monumental, Setor Meireles,102,3,1,2
+190.000,Samambaia Sul, Brasília,72,2,1,1
+190.000,Taguatinga Norte, Brasília,63,2,,1
+835.000,Rua 8, Setor Habitacional Vicente Pires,800,4,4,5
+270.000,Quadra 2 Conjunto A-6 Bloco 3, Sobradinho,86,3,,2
+420.000,Samambaia Norte, Brasília,230,5,4,4
+320.000,Taguatinga Norte, Brasília,60,2,1,2
+410.000,Guara II, Brasília,90,3,2,2
+320.000,SEPS 713/913, Asa Sul,34,1,2,1
+195.000,Setor Habitacional Tororo, Brasília,120,,,
+270.000,Rodovia DF-130 km,,200,2,2,2
+95.000,Avenida Sucupira, Riacho Fundo I,55,2,,1
+174.994,Samambaia Norte, Brasília,45,2,1,2
+720.000,SHA Conjunto 4 Chácara 89, Setor Habitacional Arniqueira,280,4,7,3
+655.000,Quadra 206, Sul,90,2,2,3
+259.000,QE 38 Conjunto G, Guara II,120,,,
+730.000,Setor Habitacional Arniqueira, Brasília,1050,,10,1
+665.000,Rua 8, Norte,107,3,2,1
+215.000,QS 318, Samambaia Sul,49,2,1,1
+650.000,"Rodovia DF-180 km 65, Chácara 1MD20,",,30000,4,,2
+1.350.000,Setor Habitacional Vicente Pires, Brasília,500,4,5,6
+790.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,400,3,2,2
+165.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,50,2,,1
+480.000,Guara II, Brasília,55,2,1,1
+355.000,Samambaia Norte, Brasília,70,2,2,2
+570.000,QN 8A, Riacho Fundo II,360,3,3,3
+249.994,Recanto das Emas, Brasília,130,3,,2
+125.000,CLN 5 Bloco J, Riacho Fundo I,29,1,,1
+180.000,QS 303 Conjunto 7, Samambaia Sul,44,2,1,1
+890.000,Rodovia BR-020, Sobradinho,280,4,2,5
+980.000,Condomínio Ouro Vermelho I, Setor Habitacional Jardim Botânico,409,4,6,4
+1.000.000,Setor Habitacional Vicente Pires, Brasília,260,3,5,3
+400.000,QI,,67,3,1,1
+220.000,Taguatinga Norte, Brasília,70,2,2,2
+310.000,QI 18 Bloco S, Guara I,65,3,1,2
+1.200.000,Setor Habitacional Vicente Pires, Brasília,310,4,4,5
+1.200.000,Setor Habitacional Vicente Pires, Brasília,310,4,4,5
+1.199.994,Norte, Brasília,133,3,2,4
+259.000,Vicente Pires, Brasília,56,2,1,1
+120.000,QR 201 Conjunto L, Santa Maria,60,1,4,1
+450.000,QNM 5 Conjunto H, Ceilandia Sul,250,4,6,3
+490.000,QSD 4, Taguatinga Sul,300,4,4,3
+125.000,Rua 12 Chácara 145/1, Vicente Pires,33,1,1,1
+250.000,SCLRN 712 Bloco D, Asa Norte,41,1,,1
+170.000,Rua 14, Guara II,120,,,1
+670.000,Rua 7, Setor Habitacional Vicente Pires,500,4,4,3
+390.000,Avenida das Araucárias, Sul,55,1,1,2
+1.099.000,Condomínio Morada de Deus, Setor Habitacional Jardim Botânico,230,3,,5
+120.000,Samambaia Sul, Brasília,48,2,1,1
+290.000,Quadra 201, Recanto das Emas,150,3,3,1
+1.150.000,SQN 215 Bloco C, Asa Norte,116,3,1,3
+600.000,QMS 60, Setor de Mansões de Sobradinho,230,3,5,1
+400.000,, Brasília,250,4,3,3
+36.000,Ponte Alta Norte, Brasília,475,,,
+780.000,Setor Habitacional Vicente Pires, Brasília,400,3,4,1
+1.100.000,Park Way , Brasília,280,3,4,5
+390.000,SHN Quadra 1, Asa Norte,33,1,1,1
+366.191,SGCV Lote 10, Zona Industrial,32,1,1,1
+305.000,Rua 5, Aguas Claras,33,1,1,1
+410.000,Avenida Parque Águas Claras, Sul,74,3,1,2
+660.000,Chácara 47, Setor Habitacional Vicente Pires Trecho 3,600,3,7,5
+750.000,Setor Habitacional Vicente Pires, Brasília,438,6,2,4
+670.000,Quadra 206, Sul,90,2,2,3
+900.000,Condomínio Ouro Vermelho I, Setor Habitacional Jardim Botânico,380,4,4,3
+1.299.994,Taguatinga Sul, Brasília,380,4,6,6
+170.000,Guara II, Brasília,42,1,,1
+659.000,QSE 14, Taguatinga Sul,250,3,3,3
+85.000,Rua 15, Guara II,43,1,,1
+399.990,Norte, Brasília,44,1,1,1
+780.000,Setor Habitacional Taquari, Brasília,800,,,
+780.000,Setor Habitacional Jardim Botânico, Brasília,200,3,4,3
+1.499.994,Regiao dos Lagos, Brasília,570,4,7,6
+250.000,Asa Norte, Brasília,75,1,1,1
+389.000,Quadra 101 Conjunto 3, Samambaia Sul,68,3,1,2
+375.000,Quadras Economicas Lucio Costa, Brasília,350,2,2,2
+650.000,Setor Habitacional Vicente Pires, Brasília,200,3,1,2
+500.000,SHA Conjunto 1 Chácara 15, Setor Habitacional Arniqueira,400,3,3,5
+1.399.900,Guara II, Brasília,290,3,2,4
+895.000,Norte, Brasília,96,3,1,3
+350.000,Rua 10 Chácara 323/1, Setor Habitacional Vicente Pires,90,,,2
+260.000,QR 100 Conjunto F, Santa Maria,200,4,,1
+190.000,SRTVS, Asa Sul,35,,,1
+650.000,QS 14 Conjunto 1B, Riacho Fundo I,224,4,3,1
+530.000,Guara II, Brasília,63,2,1,1
+190.000,Setor Habitacional Tororo, Brasília,800,1,2,1
+275.000,Samambaia Norte, Brasília,75,3,1,1
+160.000,QR 417 Conjunto I, Santa Maria,60,3,2,1
+1.000.000,Setor Habitacional Arniqueira, Brasília,400,4,5,6
+360.000,Jardins Mangueiral, Brasília,60,2,2,2
+1.250.000,Condomínio Ouro Vermelho I, Setor Habitacional Jardim Botânico,470,3,6,7
+1.200.000,Setor Habitacional Vicente Pires, Brasília,260,3,2,4
+950.000,Setor Habitacional Vicente Pires, Brasília,210,3,3,4
+600.000,Setor Habitacional Vicente Pires, Brasília,400,3,2,3
+180.000,Santa Maria, Brasília,60,3,,1
+149.000,Riacho Fundo II, Brasília,50,2,1,1
+245.000,QNO 12, Ceilandia Norte,52,2,1,1
+210.000,Taguatinga, Brasília,55,2,1,1
+427.576,Samambaia Norte, Brasília,92,3,1,3
+350.000,SHA Conjunto 5 Chácara 121A, Setor Habitacional Arniqueira,180,3,2,2
+380.000,Ceilandia Norte, Brasília,250,3,,3
+199.900,Ceilândia, Brasília,53,2,1,1
+285.000,Setor Habitacional Jardim Botânico, Brasília,539,,,
+700.000,Setor Habitacional Arniqueira, Brasília,350,6,4,4
+990.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,800,3,5,3
+159.000,Ceilandia Norte, Brasília,36,1,1,1
+225.000,Riacho Fundo I, Brasília,74,2,,2
+250.000,QNQ 2 Conjunto 1, Ceilandia Norte,140,2,3,1
+150.000,Setor Habitacional Vicente Pires, Brasília,60,2,,1
+550.000,Setor Habitacional Jardim Botânico, Brasília,100,3,3,3
+1.049.000,Setor Habitacional Vicente Pires, Brasília,260,3,4,5
+1.200.000,Setor Habitacional Arniqueira, Brasília,300,4,2,4
+275.000,Setor Industrial, Brasília,52,2,1,2
+215.000,QN 122 Conjunto 9, Samambaia Sul,60,2,2,1
+220.000,SBN Quadra, Asa Norte,40,,1,1
+320.000,SEPS 713/913, Asa Sul,27,1,1,1
+750.000,SHTN Trecho 1, Asa Norte,59,2,2,2
+45.000,Samambaia Norte, Brasília,80,,,
+199.999,QN 120 Conjunto 2, Samambaia Sul,50,2,1,1
+1.700.000,Setor Habitacional Vicente Pires, Brasília,908,6,4,2
+320.000,QNM 4 Conjunto A, Ceilandia Norte,143,3,3,2
+255.000,Ceilândia, Brasília,89,2,2,1
+340.000,Condomínio Morada de Deus, Setor Habitacional Jardim Botânico,599,,,
+1.075.000,Setor Habitacional Jardim Botânico, Brasília,350,5,4,7
+1.350.000,Setor Habitacional Vicente Pires, Brasília,218,4,1,1
+520.000,Norte, Brasília,70,3,1,2
+550.000,Área Rural, Area Rural de Brazlandia,40000,,,
+1.350.000,Setor Habitacional Vicente Pires, Brasília,560,5,6,6
+460.000,Taguatinga Norte, Brasília,82,3,1,3
+450.000,Rua 4A, Setor Habitacional Vicente Pires,110,3,1,3
+90.000,SCS Quadra 1, Asa Sul,25,,,
+1.690.000,SMPW Quadra 13 Conjunto 3, Park Way,380,4,2,5
+450.000,Setor Habitacional Samambaia, Brasília,350,3,5,2
+850.000,Segunda Avenida Bloco 1660, Núcleo Bandeirante,180,3,3,4
+1.570.000,SHA Conjunto 5 Chácara 139, Setor Habitacional Arniqueira,15000,4,,3
+310.000,Rua 25, Sul,42,1,1,1
+850.000,Vicente Pires, Brasília,240,4,4,4
+200.000,Condomínio Serra Azul, Serra Azul,670,,,
+149.600,Samambaia Sul, Brasília,46,2,1,1
+1.100.000,Setor Habitacional Vicente Pires, Brasília,280,3,2,4
+879.000,QE 28, Guara II,290,5,4,4
+580.000,Avenida das Araucárias, Sul,61,2,2,2
+144.994,Setor Meireles, Brasília,44,2,,1
+385.000,QNP 13 Conjunto F, Ceilandia Norte,135,3,3,2
+300.000,Ceilandia Norte, Brasília,200,4,1,2
+520.000,Norte, Brasília,70,3,1,2
+630.000,Rua 12, Aguas Claras,109,3,2,2
+380.000,Taguatinga Norte, Brasília,120,3,3,2
+329.000,SHIP, Setores Complementares,60,2,1,1
+320.000,Taguatinga Norte, Brasília,72,2,1,2
+820.000,Quadra 2 Conjunto C-10, Sobradinho,350,5,4,8
+550.000,QE 46 Conjunto Q, Guara II,270,4,2,5
+215.000,Setor Habitacional Vicente Pires, Brasília,70,2,1,1
+258.000,SHN Quadra, Asa Norte,32,,,1
+210.000,Taguatinga Norte, Brasília,60,2,1,2
+349.994,Samambaia Sul, Brasília,200,,,
+540.000,Norte, Brasília,70,2,2,2
+195.000,Taguatinga Sul, Brasília,36,1,1,1
+1.050.000,Rua 10 Chácara 165, Setor Habitacional Vicente Pires,400,4,5,5
+670.000,QRSW 7, Setor Sudoeste,61,2,,2
+354.587,Taguatinga Norte, Brasília,34,,1,1
+1.100.000,Condomínio Privê Morada Sul Etapa C, Setor Habitacional Jardim Botânico,201,3,2,5
+950.000,Setor Habitacional Vicente Pires, Brasília,266,3,2,4
+360.000,Taguatinga Norte, Brasília,150,4,4,2
+229.000,Rua 4A, Setor Habitacional Vicente Pires,60,2,1,1
+193.000,Taguatinga Sul, Brasília,59,2,,1
+125.000,Avenida Sucupira, Riacho Fundo I,54,2,,1
+660.000,Vila Varjão do Torto, Lago Norte,190,4,2,4
+900.000,Setor Habitacional Vicente Pires, Brasília,220,3,2,5
+1.100.000,Sobradinho, Brasília,420,5,5,6
+315.000,CCSW 4, Setor Sudoeste,27,1,1,1
+350.000,SHS Quadra 2, Asa Sul,55,1,,1
+480.000,QI, Setor Industrial,90,2,2,2
+539.900,Aguas Claras, Brasília,74,3,1,2
+400.000,Setor Habitacional Arniqueira, Brasília,350,3,8,2
+240.000,SHN Quadra, Asa Norte,35,1,1,1
+135.000,Setor Habitacional Vicente Pires, Brasília,50,1,1,1
+100.000,Guara II, Brasília,50,2,,1
+550.000,Setor Habitacional Vicente Pires, Brasília,140,3,,3
+515.000,Ceilandia Sul, Brasília,200,3,2,3
+730.000,Setor Habitacional Arniqueira, Brasília,210,3,3,3
+345.000,Jardins Mangueiral, Brasília,60,2,2,2
+520.000,QSC 19, Taguatinga Sul,170,3,4,3
+1.050.000,Setor Habitacional Vicente Pires, Brasília,373,4,5,4
+190.000,Avenida Parque Águas Claras, Norte,36,,,
+300.000,Ceilandia Sul, Brasília,130,3,2,1
+380.000,QI 1, Guara I,70,2,1,2
+200.000,Guara II, Brasília,56,2,,1
+240.000,SHS Quadra 6, Asa Sul,29,,,1
+180.000,Riacho Fundo I, Brasília,49,2,,1
+550.000,CA 8, Lago Norte,54,1,1,1
+168.994,Ceilandia Sul, Brasília,46,2,1,1
+217.000,Taguatinga Norte, Brasília,64,2,1,1
+419.994,Setor de Habitações Individuais Norte, Brasília,65,2,,2
+225.000,CSB, Taguatinga Sul,65,2,1,1
+450.000,SGAS 910, Asa Sul,55,,,1
+329.000,Zona Industrial, Brasília,35,1,1,1
+335.000,SGCV, Zona Industrial,35,1,1,1
+560.000,SHA Conjunto 5 Chácara 123, Setor Habitacional Arniqueira,570,5,4,4
+770.000,Setor Habitacional Vicente Pires, Brasília,210,3,6,3
+310.000,Quadra 32, Gama,275,5,2,4
+450.000,Setor Habitacional Jardim Botânico, Brasília,620,,,
+350.000,Ceilandia Norte, Brasília,135,4,2,2
+320.000,Guara I, Brasília,66,2,1,2
+595.000,SMAS, Setor Industrial,54,1,,2
+520.000,Regiao dos Lagos, Brasília,400,3,2,4
+500.000,Gama, Brasília,240,4,,1
+200.000,Chácara 52, Setor Habitacional Vicente Pires Trecho 3,,,,
+1.380.000,SHCGN 710 Bloco H, Asa Norte,230,4,4,2
+810.000,Quadra 17 Conjunto E, Sobradinho,307,3,4,4
+310.000,Taguatinga Sul, Brasília,74,3,1,2
+250.000,SBN Quadra, Asa Norte,310,,,
+490.000,Quadra 104, Aguas Claras,80,2,1,2
+370.000,Asa Sul, Brasília,61,,,1
+278.000,SHN Quadra 1 Bloco D, Asa Norte,22,,1,
+150.000,Ponte Alta Norte, Ponte Alta Norte,150,2,8,1
+23.000,SGAS 905, Asa Sul,1,,1,
+772.414,Rua 36, Aguas Claras,101,3,2,3
+579.000,Rua 8, Setor Habitacional Vicente Pires,218,,5,1
+80.000,Setor Habitacional Vicente Pires, Brasília,24,,,1
+750.000,Setor Habitacional Vicente Pires, Brasília,330,5,4,2
+260.000,Samambaia Norte, Brasília,200,6,3,4
+420.000,SHCGN 716 Bloco D, Asa Norte,49,2,,1
+950.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,413,5,6,6
+850.000,Rua 36, Sul,94,3,2,3
+650.000,QN 7 Conjunto 19, Riacho Fundo I,144,2,5,8
+1.250.000,Rua 8, Vicente Pires,378,4,5,5
+410.000,Rodovia DF-,,150,2,1,1
+270.000,Setor Habitacional Vicente Pires, Brasília,50,2,1,2
+619.994,Sul, Brasília,73,2,1,2
+150.000,Guara II, Brasília,35,2,,1
+500.000,Quadra 101, Norte,60,2,2,1
+1.100.000,Rua 10 Chácara 165, Setor Habitacional Vicente Pires,400,3,4,1
+140.000,CLN 303 Bloco A, Asa Norte,37,,,1
+950.000,Setor Habitacional Vicente Pires, Brasília,220,3,3,5
+320.000,Avenida Jacarandá, Sul,38,1,1,1
+265.000,Areal, Brasília,53,2,1,2
+580.000,QE 46, Guara II,199,3,2,4
+460.000,Quadra 207, Sul,75,2,1,2
+750.000,Setor de Habitações Individuais Norte, Brasília,83,2,1,2
+1.100.000,Setor Habitacional Vicente Pires, Brasília,496,6,3,5
+249.990,Taguatinga, Brasília,55,2,1,1
+680.000,Guara II, Brasília,180,3,2,3
+185.000,Samambaia Sul, Brasília,100,3,2,1
+729.990,Sul, Brasília,104,3,1,3
+490.000,SHA Conjunto 5 Chácara 102, Setor Habitacional Arniqueira,250,3,3,1
+145.000,Setor Habitacional Vicente Pires, Brasília,45,2,,1
+145.000,Setor Habitacional Vicente Pires, Brasília,45,2,,1
+289.915,Quadra 302 Conjunto 12, Samambaia Sul,60,2,2,1
+1.600.000,CLNW 10/11 Lote J, Setor Noroeste,188,,2,1
+1.050.000,Condomínio Estância Jardim Botânico, Lago Sul,312,5,4,3
+320.000,Quadra 6, Setor Leste,90,3,2,1
+650.000,Chácaras Itaipú, Setor Habitacional Jardim Botânico,250,4,2,4
+203.000,Taguatinga Centro, Brasília,55,2,1,1
+470.000,Jardins Mangueiral, Brasília,85,2,2,2
+155.000,Setor Oeste, Brasília,75,1,3,1
+1.100.000,Rua 1, Setor Habitacional Vicente Pires,375,4,5,4
+295.000,Condomínio Morada de Deus, Setor Habitacional Jardim Botânico,610,1,1,1
+900.000,Rodovia BR_251 Km, Area Rural de Sao Sebastiao,400,4,4,3
+370.000,Condomínio San Francisco I, Setor Habitacional Tororo,1940,1,1,1
+1.300.000,Setor Habitacional Vicente Pires, Brasília,270,3,2,4
+250.000,Vicente Pires, Brasília,54,2,1,1
+147.884,QS 629 Conjunto C, Samambaia Norte,43,2,,
+184.000,Aguas Claras, Brasília,32,1,,1
+180.000,Taguatinga Norte, Brasília,45,2,1,1
+135.000,Avenida Sucupira, Riacho Fundo I,58,2,,1
+195.000,C 2, Taguatinga Centro,30,,,1
+90.000,Guara II, Brasília,45,2,,1
+600.000,Setor Habitacional Arniqueira, Brasília,300,5,3,4
+1.200.000,Setor Habitacional Vicente Pires, Brasília,200,4,2,5
+850.000,Colônia Agrícola Canegae, Riacho Fundo I,260,3,3,4
+1.200.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,400,4,4,4
+980.000,Setor Habitacional Vicente Pires, Brasília,900,4,4,3
+240.000,QNP 34 Conjunto E, Ceilandia Sul,135,4,2,1
+850.000,Setor Habitacional Taquari, Brasília,838,,,
+480.000,Área Rural, Area Rural do Paranoa,10000,3,,2
+480.000,QNO 3 Conjunto J, Ceilandia Norte,225,4,3,3
+465.000,SHCES Quadra 207 Bloco D, Cruzeiro Novo,65,3,,2
+490.000,Área Especial 2 Módulo F, Guara II,55,2,1,2
+1.199.994,Taguatinga Sul, Brasília,500,3,4,5
+496.463,SGCV Lote 10, Zona Industrial,42,1,1,1
+275.000,Quadra 306 Conjunto 9, Recanto das Emas,150,3,3,1
+449.000,Sul, Brasília,52,1,1,2
+529.000,Zona Industrial, Brasília,50,2,1,2
+450.000,Chácara 51, Setor Habitacional Samambaia,400,5,4,3
+285.000,QI 416 Conjunto 1, Samambaia Norte,52,2,2,1
+999.000,Rua 1 Chácara 4, Setor Habitacional Vicente Pires,450,4,6,5
+330.000,QS 10, Riacho Fundo I,150,2,2,1
+660.000,Avenida Parque Águas Claras, Norte,94,3,1,3
+850.000,Ponte Alta Norte, Brasília,280,3,4,3
+1.150.000,Condomínio RK, Regiao dos Lagos,450,4,4,4
+66.900,Rua 8, Vila Sao Jose,35,1,,1
+1.150.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,400,4,4,4
+429.900,CA 5, Lago Norte,45,1,1,1
+800.000,Rua 4, Setor Habitacional Vicente Pires Trecho 3,250,3,3,3
+240.000,Taguatinga Centro, Brasília,71,2,,1
+240.000,CSA, Taguatinga Sul,68,2,1,1
+880.000,Rua 3, Setor Habitacional Vicente Pires,417,3,2,3
+310.000,Ceilandia Norte, Brasília,63,3,1,2
+280.000,Ceilandia Norte, Brasília,100,3,1,2
+730.000,Vicente Pires, Brasília,150,2,5,2
+1.650.000,Setor Habitacional Arniqueira, Brasília,600,7,4,6
+330.000,QNP 10 Conjunto V, Ceilandia Sul,200,4,,3
+640.000,Ponte Alta Norte, Brasília,190,3,4,3
+510.000,Rua 30, Sul,74,3,1,2
+495.000,QI 3 Conjunto X, Guara I,85,3,2,3
+1.000.000,Vicente Pires, Brasília,300,5,5,5
+370.000,Taguatinga Norte, Brasília,64,3,1,1
+1.050.000,Condomínio Estância Jardim Botânico, Setor Habitacional Jardim Botânico,380,3,,5
+680.000,Rua 5, Setor Habitacional Vicente Pires,360,3,2,5
+180.000,Asa Sul, Brasília,32,,1,1
+280.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,90,1,2,2
+210.000,SCN Quadra, Asa Norte,33,,,1
+800.000,Rodovia DF-250, Regiao dos Lagos,730,5,2,6
+950.000,QE 30 Conjunto A, Guara II,200,4,4,5
+490.000,Ceilandia Norte, Brasília,123,3,2,2
+1.550.000,Condomínio Morada de Deus, Setor Habitacional Jardim Botânico,500,5,3,7
+238.000,SMDB Conjunto 12-B, Lago Sul,26,,,1
+295.000,SQNW 302 Bloco B, Setor Noroeste,164,4,3,6
+440.000,Sul, Brasília,58,2,1,2
+1.404.908,SQNW 311 Bloco H, Setor Noroeste,103,3,2,4
+470.000,Jardins Mangueiral, Brasília,67,3,2,2
+325.000,Quadras Economicas Lucio Costa, Brasília,58,2,1,1
+530.000,SHN Quadra 5, Asa Norte,83,2,,2
+570.000,Área Especial 4 Módulo E, Guara II,62,2,1,2
+400.000,Taguatinga Sul, Brasília,160,4,2,2
+430.000,Sul, Brasília,57,2,1,2
+360.000,Recanto das Emas, Brasília,240,5,3,2
+214.994,Norte, Brasília,30,,,
+1.300.000,Setor Habitacional Taquari, Brasília,305,4,2,5
+700.000,Rua das Carnaúbas, Aguas Claras,96,3,2,3
+650.000,Setor Habitacional Vicente Pires, Brasília,220,4,2,3
+229.900,QR 429 Conjunto 8, Samambaia Norte,205,2,1,1
+1.300.000,Taguatinga Norte, Brasília,505,5,4,7
+270.000,QNN 27, Ceilandia Norte,53,2,2,1
+640.000,Setor Habitacional Arniqueira, Brasília,300,4,4,5
+780.000,Taguatinga Sul, Brasília,350,5,4,2
+2.700.000,Lago Sul, Brasília,1313,,,
+240.000,Taguatinga Norte, Brasília,47,2,1,1
+480.000,Asa Norte, Brasília,68,,,1
+180.000,Recanto das Emas, Brasília,130,4,,3
+1.200.000,Setor Habitacional Vicente Pires, Brasília,300,3,,4
+90.000,QE 40 Conjunto J, Guara II,50,2,,1
+550.000,QI 19, Taguatinga Norte,84,3,2,3
+1.300.000,Setor Habitacional Vicente Pires, Brasília,480,4,10,5
+215.000,Ceilandia Norte, Brasília,90,3,2,1
+450.000,Rua 24, Norte,70,2,1,2
+900.000,QRI 41, Residencial Santos Dumont,250,4,4,4
+1.750.000,SHCGN 705, Asa Norte,173,4,4,4
+195.000,C 3, Taguatinga Centro,55,2,1,1
+300.000,SEPS 713/913, Asa Sul,30,1,1,1
+650.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,400,4,4,3
+1.350.000,Setor Habitacional Vicente Pires, Brasília,340,4,2,5
+490.000,Condomínio Rural Privê do Lago Sul, Setor Habitacional Jardim Botânico,200,3,2,2
+290.000,Taguatinga Norte, Brasília,51,2,1,2
+180.000,Santa Maria, Brasília,60,3,,1
+125.000,Rua 4A, Vicente Pires,47,2,,1
+540.000,Norte, Brasília,75,2,1,2
+799.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,300,3,,3
+194.994,Samambaia Sul, Brasília,42,2,1,1
+640.000,Quadra 207, Aguas Claras,82,3,1,3
+260.000,Jardins Mangueiral, Brasília,48,2,1,1
+170.000,Setor Habitacional Vicente Pires, Brasília,50,2,,1
+900.000,Ponte Alta Norte, Brasília,280,3,2,4
+270.000,Taguatinga Norte, Brasília,60,2,2,1
+180.000,SRTVS, Asa Sul,25,,,
+585.000,Guara II, Brasília,62,2,1,2
+750.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,740,3,5,3
+750.000,QSC 19 Chácara 26, Taguatinga,330,4,4,3
+250.000,SHN Quadra 4, Asa Norte,40,1,,1
+515.000,Rua 36, Norte,64,3,2,2
+420.000,Ceilandia Sul, Brasília,144,3,1,2
+635.000,Asa Norte, Brasília,78,3,,2
+730.000,Setor Habitacional Arniqueira, Brasília,160,3,2,3
+790.000,Taguatinga Norte, Brasília,383,4,6,5
+250.000,Samambaia Norte, Brasília,112,3,2,1
+880.000,Setor Habitacional Jardim Botânico, Brasília,200,3,4,3
+549.994,Ceilandia Norte, Brasília,123,3,2,2
+130.000,Rua 12 Chácara 129A Conjunto D, Setor Habitacional Vicente Pires,38,,,1
+600.000,Quadra 208, Sul,79,3,2,3
+1.100.000,Área Rural, Area Rural de Santa Maria,28000,2,4,3
+750.000,Setor Habitacional Arniqueira, Brasília,800,,,
+250.000,Avenida Central Bloco 1645, Núcleo Bandeirante,54,2,,2
+920.000,Guara I, Brasília,180,4,4,3
+130.000,Recanto das Emas, Brasília,80,3,,2
+560.000,Rua Babaçu, Sul,74,2,1,3
+320.000,QNP 5 Conjunto K, Ceilandia Norte,140,4,,2
+420.000,Guara I, Brasília,92,3,2,2
+165.000,CSA, Taguatinga Sul,54,1,,1
+350.000,Quadra 2 Conjunto C-4, Sobradinho,100,3,2,2
+499.000,QR 516 Conjunto 6, Samambaia Sul,260,4,2,4
+550.000,SHA Conjunto 4 Chácara 27, Setor Habitacional Arniqueira,140,3,2,2
+230.000,Taguatinga Norte, Brasília,56,2,1,1
+495.000,Sul, Brasília,63,2,1,2
+200.000,Samambaia Sul, Brasília,90,3,2,1
+370.000,Avenida Sibipiruna, Sul,42,1,1,1
+190.000,Terceira Avenida Blocos 1420A/1550B, Núcleo Bandeirante,60,2,,1
+190.000,Terceira Avenida Blocos 1420A/1550B, Núcleo Bandeirante,60,2,,1
+210.000,CA 2, Setor de Habitações Individuais Norte,28,1,,1
+680.000,EQRSW 7/8, Setor Sudoeste,68,2,1,2
+130.000,QI 24, Setor Industrial,50,2,1,1
+146.000,QE 40 Conjunto D, Guara II,75,2,,1
+800.000,SQN 305, Asa Norte,76,2,1,3
+370.000,Sul, Brasília,68,2,1,1
+750.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,400,4,,4
+100.000,C 12, Taguatinga Centro,34,,,1
+95.000,QOF QN 7 Conjunto 3, Riacho Fundo I,40,1,,1
+800.000,Guara I, Brasília,180,3,2,3
+495.000,Setor Oeste, Brasília,233,3,4,2
+150.000,Asa Sul, Brasília,28,,,
+990.500,Setor Habitacional Jardim Botânico, Brasília,300,4,4,3
+295.000,Santa Maria, Brasília,300,6,,4
+290.000,Rua 5, Norte,33,1,1,1
+550.000,Areal, Brasília,155,3,3,2
+199.000,Norte, Brasília,38,1,1,1
+260.000,Taguatinga Sul, Brasília,92,3,1,2
+470.000,Setor Habitacional Arniqueira, Brasília,130,2,5,2
+450.000,Taguatinga, Brasília,82,3,,3
+2.200.000,SMPW Quadra 23, Park Way,2500,5,6,5
+535.000,Rodovia DF-001, Jardins Mangueiral,85,3,2,2
+155.000,QR 115 Conjunto 3, Samambaia Sul,10,2,2,1
+260.000,SIG Quadra 8, Zona Industrial,42,2,,1
+130.000,CLN 316, Asa Norte,15,1,,1
+190.000,Guara II, Brasília,56,2,1,1
+800.000,Setor Habitacional Vicente Pires, Brasília,273,4,,3
+290.000,Paranoá, Brasília,4500,2,,1
+1.500.000,Condomínio RK, Sobradinho,500,4,3,5
+1.250.000,Setor Habitacional Vicente Pires, Brasília,350,4,6,6
+600.000,Setor Habitacional Vicente Pires, Brasília,125,2,3,3
+716.000,Asa Sul, Brasília,82,3,,2
+144.999,Rua 8, Vicente Pires,45,1,1,1
+550.000,QNL 3 Conjunto C, Taguatinga Norte,350,3,4,3
+659.000,Taguatinga Norte, Brasília,300,3,4,4
+670.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,280,3,3,2
+700.000,QRI 38, Residencial Santos Dumont,220,6,5,4
+199.000,SHN Quadra, Asa Norte,36,1,,1
+109.000,Cruzeiro Velho, Brasília,25,,,1
+550.000,Chácara 66B, Vicente Pires,350,6,4,5
+210.000,Setor Habitacional Vicente Pires, Brasília,74,2,1,1
+299.000,Ceilandia Norte, Brasília,200,7,3,4
+894.994,Sul, Brasília,103,3,2,2
+1.200.000,Setor Sudoeste, Brasília,94,3,1,3
+130.000,Asa Norte, Brasília,31,,,1
+530.000,Rua 22, Sul,74,3,1,2
+320.000,SHA Conjunto 5 Chácara 18, Setor Habitacional Arniqueira,340,,,
+380.000,Área Especial Lado Leste, Setor Central,64,2,1,1
+199.900,Taguatinga, Brasília,63,2,,1
+280.000,Taguatinga Norte, Brasília,63,2,1,1
+150.000,Setor Habitacional Vicente Pires, Brasília,42,2,,1
+133.000,Rua 300 Lote 301, Setor Meireles,50,2,1,1
+150.000,Setor Habitacional Vicente Pires, Brasília,50,2,,1
+157.080,Samambaia Norte, Brasília,46,2,1,1
+260.000,CLN 407 Bloco E, Asa Norte,36,1,,1
+560.000,SHA Conjunto 4 Chácara 10, Setor Habitacional Arniqueira,180,3,2,2
+1.100.000,Setor Habitacional Vicente Pires, Brasília,250,3,2,3
+210.000,Areal, Brasília,44,2,1,1
+199.900,Quadra 301 Conjunto 1, Samambaia Sul,54,2,1,2
+265.000,QI 24, Setor Industrial,47,2,1,1
+160.000,Setor SHN Área Especial 134 a 140, Taguatinga Norte,66,1,,1
+120.000,CLN 7 Bloco D, Riacho Fundo I,42,,,1
+1.192.000,SQS 108 Bloco E, Asa Sul,149,3,,1
+185.000,Taguatinga Norte, Brasília,51,2,,1
+300.000,SMHN Quadra 2 Bloco C, Asa Norte,32,,,1
+350.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,108,2,4,1
+200.000,Avenida Central Blocos 525/635, Núcleo Bandeirante,86,2,,2
+1.350.000,Setor Habitacional Vicente Pires, Brasília,350,4,4,5
+300.000,Asa Norte, Brasília,40,1,,1
+175.000,Taguatinga Norte, Brasília,50,2,1,1
+560.000,QI 19, Aguas Claras,87,3,1,3
+180.000,Setor Habitacional Vicente Pires, Brasília,64,2,,1
+1.199.000,Setor Habitacional Vicente Pires, Brasília,250,3,2,5
+680.000,QE 19 Conjunto J, Guara II,120,3,3,3
+450.000,Quadra 103 Conjunto 18, Recanto das Emas,210,2,,3
+430.000,Setor Industrial, Brasília,69,3,1,2
+280.000,Setor Habitacional Vicente Pires, Brasília,185,,,
+810.000,Setor Habitacional Vicente Pires, Brasília,400,4,5,4
+142.000,SEPN 506 Bloco D, Asa Norte,32,,,1
+370.000,SQS 413 Bloco K, Asa Sul,55,2,,1
+180.000,Fazendinha, Brasília,200,4,,3
+650.000,Condomínio RK, Regiao dos Lagos,285,4,3,4
+690.000,Rua 8, Aguas Claras,107,3,2,1
+280.000,Samambaia Norte, Brasília,60,3,1,2
+255.000,Jardins Mangueiral, Brasília,48,2,1,1
+205.000,SEPS 705/905, Asa Sul,33,,,1
+550.000,Norte, Brasília,74,3,1,2
+780.000,SRES Quadra 7 Bloco E, Cruzeiro Velho,120,4,2,3
+640.000,Sul, Brasília,73,2,1,2
+1.180.000,SQS 215, Asa Sul,108,3,,2
+650.000,Rodovia DF-150, Sobradinho,225,4,3,3
+960.000,Setor Habitacional Vicente Pires, Brasília,245,3,2,4
+280.000,Setor Leste, Brasília,174,5,1,2
+640.000,Setor Habitacional Vicente Pires, Brasília,670,3,4,2
+1.150.000,QS 7 Rua 218 A, Areal,400,4,4,6
+540.000,Rua 25, Norte,68,2,1,2
+145.000,QR 304 Conjunto Q, Santa Maria,110,2,,2
+285.000,Quadra QC 6, Jardins Mangueiral,50,2,1,1
+580.000,SHA Conjunto 5 Chácara 19A, Setor Habitacional Arniqueira,300,3,6,3
+200.000,Taguatinga, Brasília,56,2,1,1
+210.000,Samambaia Norte, Brasília,140,2,2,1
+175.000,Sul, Brasília,36,,,
+1.300.000,Vicente Pires, Brasília,500,4,4,5
+1.150.000,QS 7 Rua 218 A, Areal,400,4,4,6
+552.000,Sul, Brasília,69,3,1,2
+130.000,QS 112, Samambaia Sul,36,1,1,1
+420.000,Rodovia DF-, Setor Habitacional Jardim Botânico,180,2,3,2
+280.000,Rua 37, Sul,34,1,1,1
+215.000,Samambaia Norte, Brasília,60,2,3,1
+1.000.000,Setor Habitacional Vicente Pires, Brasília,250,4,4,2
+249.994,Areal, Brasília,39,1,1,1
+570.000,Guara II, Brasília,62,2,1,1
+930.000,Setor Habitacional Samambaia, Brasília,501,7,8,6
+145.000,QN 502 Conjunto 9, Samambaia Sul,62,2,1,1
+260.000,Riacho Fundo II, Brasília,150,3,2,1
+120.000,Ceilandia Sul, Brasília,60,2,,1
+650.000,Rodovia DF-425, Setor Habitacional Contagem,281,4,,5
+85.000,Condomínio Mansões Serranas, Setor Habitacional Jardim Botânico,2060000,,,
+835.000,Vicente Pires, Brasília,400,4,6,7
+205.000,Samambaia Sul, Brasília,42,2,1,1
+200.000,Terceira Avenida Área Especial 13, Núcleo Bandeirante,58,2,,1
+205.000,CA 11, Setor de Habitações Individuais Norte,25,,1,1
+600.000,Ceilandia Sul, Brasília,200,3,1,2
+380.000,QN 12A Conjunto 5, Riacho Fundo II,210,4,2,4
+115.000,Taguatinga Norte, Brasília,49,1,1,1
+258.000,QI 20 Bloco S, Guara I,41,2,1,1
+250.000,Taguatinga Norte, Brasília,69,3,,1
+700.000,Quadra QL 6 Conjunto I, Itapoa II,256,,,
+130.000,QE 40 Conjunto E, Guara II,60,2,,1
+275.000,Setor Habitacional Arniqueira, Brasília,160,2,4,1
+395.000,Avenida Jacarandá, Sul,40,1,1,1
+1.050.000,Setor Habitacional Vicente Pires, Brasília,320,4,4,4
+160.000,Riacho Fundo I, Brasília,55,2,,1
+999.000,Vicente Pires, Brasília,218,4,2,4
+1.300.000,Setor Habitacional Vicente Pires, Brasília,320,4,4,6
+1.300.000,Setor Habitacional Vicente Pires, Brasília,320,4,4,6
+1.300.000,Setor Habitacional Vicente Pires, Brasília,320,4,4,6
+250.000,Guara I, Brasília,42,2,1,2
+370.000,, Brasília,20,1,,1
+124.900,QS 501 Conjunto 4, Samambaia Sul,40,2,,1
+630.000,Vila Sao Jose, Brasília,320,4,5,4
+168.000,QS 3 Conjunto 7, Riacho Fundo II,52,2,1,1
+310.000,Quadra 9 AR 13, Sobradinho,67,2,1,1
+730.000,Setor Habitacional Jardim Botânico, Brasília,240,5,7,3
+240.000,QN 412 Conjunto F, Samambaia Norte,34,1,1,1
+200.000,QNN 11, Ceilandia Norte,53,2,1,1
+1.100.000,Vicente Pires, Brasília,450,4,2,5
+1.404.908,SQNW 311 Bloco H, Setor Noroeste,103,3,2,3
+420.000,CA 5, Lago Norte,57,2,,2
+650.000,Setor Habitacional Vicente Pires Trecho 3, Brasília,180,3,2,3
+485.000,Taguatinga Norte, Brasília,81,3,1,2
+250.000,QN 122 Conjunto 15, Samambaia Sul,50,2,1,1
+1.300.000,Setor Habitacional Arniqueira, Brasília,400,4,4,2
+690.000,Rua 37, Sul,107,3,1,2
+466.000,Rua 8, Norte,60,2,1,1
+700.000,Taguatinga Norte, Brasília,280,3,4,3
+300.000,QR 404 Conjunto 12, Samambaia Norte,70,3,2,1
+850.000,Condomínio Mirante das Paineiras, Lago Sul,350,3,2,3
+195.000,QNP 26 Conjunto V, Ceilandia Sul,135,2,1,1
+700.000,Rodovia BR-020 km 17 (Entre Planaltina e Sobradinho), Area Rural de Planaltina,250,4,4,3
+1.150.000,SRES Quadra 6 Bloco N, Cruzeiro Velho,340,5,4,6
+150.000,CLN 5, Riacho Fundo I,50,1,,1
+240.000,Quadra 2 Conjunto B-4 Bloco C, Sobradinho,47,2,1,1
+165.000,Quadra AC 2, Riacho Fundo I,52,2,,1
+567.000,Taguatinga Norte, Brasília,300,5,4,4
+190.000,Guara II, Brasília,56,2,1,1
+1.050.000,Taguatinga Norte, Brasília,210,5,5,4
+380.000,Condomínio Morada de Deus, Setor Habitacional Jardim Botânico,649,,,
+480.000,QNO 7 Conjunto D, Ceilandia Norte,150,3,3,2
+650.000,Rua 37, Sul,108,3,1,2
+350.000,Setor Industrial, Brasília,74,3,1,2
+900.000,Guara II, Brasília,137,3,3,4
+225.000,CSG 11, Taguatinga Sul,65,3,1,1
+590.000,QRI 25, Residencial Santos Dumont,280,4,2,3
+260.000,Rua 9, Norte,33,1,1,1
+230.000,SRTVN, Asa Norte,33,,,1
+600.000,Norte, Brasília,68,2,1,3
+580.000,Taguatinga Norte, Brasília,300,5,4,4
+225.000,Setor Habitacional Vicente Pires, Brasília,57,2,,1
+1.300.000,Setor Habitacional Vicente Pires, Brasília,250,3,2,5
+1.200.000,Setor Habitacional Vicente Pires, Brasília,260,3,4,4
+287.000,Taguatinga Norte, Brasília,34,,,
+449.000,Sul, Brasília,52,1,1,2
+530.000,Guara II, Brasília,63,2,1,2
+140.000,QS 320 Conjunto 1, Samambaia Sul,40,1,1,1
+525.000,Rua 21, Norte,74,3,1,2
+650.000,Setor Habitacional Vicente Pires, Brasília,150,2,3,3
+270.000,Taguatinga Sul, Brasília,49,2,1,1
+385.000,Norte, Brasília,59,1,1,2
+120.000,Rodovia DF-, Lago Sul,20000,,,
+539.994,Norte, Brasília,58,2,1,2
+320.000,Ceilandia Norte, Brasília,232,5,3,4
+179.994,Ceilandia Norte, Brasília,53,2,1,1
+200.000,Asa Sul, Brasília,27,,,1
+280.000,Taguatinga Sul, Brasília,49,2,1,1
+1.330.000,Condomínio Verde, Setor Habitacional Jardim Botânico,300,6,,5
+1.100.000,Condomínio Morada de Deus, Setor Habitacional Jardim Botânico,237,3,4,5
+195.000,QR 408, Samambaia Norte,49,2,1,1
+579.900,Vicente Pires, Brasília,180,3,3,3
+785.000,Condomínio RK, Regiao dos Lagos,600,6,,4
+1.300.000,Setor Habitacional Vicente Pires, Brasília,286,3,4,2
+400.000,SHA Conjunto 4 Chácara 62, Setor Habitacional Arniqueira,,,,
+680.000,Areal, Brasília,73,3,1,2
+330.000,Ceilandia Norte, Brasília,140,3,3,1
+150.000,Samambaia Norte, Brasília,52,2,1,1
+149.000,Rua 5, Setor Habitacional Vicente Pires,48,2,,1
+1.092.500,Taguatinga Sul, Brasília,400,3,4,5
+950.000,SHA Conjunto 4 Chácara 80, Setor Habitacional Arniqueira,400,3,4,3
+410.000,QI 6, Guara I,60,2,1,1
+880.000,Rua 3B Chácara 38, Setor Habitacional Vicente Pires,417,3,2,4
+660.000,Norte, Brasília,94,3,1,3
+215.000,SGAN 912, Asa Norte,27,1,1,1
+1.100.000,Condomínio Quinta Interlagos, Setor Habitacional Jardim Botânico,406,5,2,7

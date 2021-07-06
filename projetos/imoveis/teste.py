@@ -60,16 +60,18 @@ def imovel(page, cidade, bairro=''):
             # Valor
             preco = anuncio.find('h4', {"class": "property__subtitle hide-mobile"}).find('span',
                                                                                          class_="price").get_text()
-            card['Preco'] = preco
 
-            # Opções
+            try:
+                preco = preco.replace('.', '')
+                card['Preco'] = float(preco)
+
+            except:
+                card['Preco'] = ''
+
+                # Opções
             items = anuncio.findAll('li')
             for item in items:
                 item = item.get_text().split()
-                # try:
-                #     card['Tipo'] = item[-3]
-                # except:
-                #     card['Tipo'] = ''
 
                 try:
                     item[-1] = item[-1].capitalize()
@@ -103,7 +105,7 @@ def imoveis_df():
     cidades = list(map(lambda cidade: cidade.lower().replace(' ', '-'), regioes))
 
     cards = []
-    pages = 10
+    pages = 2
     for cidade in cidades:
         if cidade == 'brasilia':
             url = 'https://www.dfimoveis.com.br/venda/df/brasilia/imoveis'
@@ -116,7 +118,7 @@ def imoveis_df():
                 print(bairro)
 
         else:
-            card = imovel(pages, cidade)
+            card = imovel(pages, cidade, cidade)
             cards.extend(card)
             print(cidade)
 
